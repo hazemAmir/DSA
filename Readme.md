@@ -8,7 +8,7 @@ DSA consists of the following steps:
 1) Context vectors construction 
 2) Association measure computation 
 3) Source context vectors translation
-4) Contecxt vectors similarity computation  
+4) Context vectors similarity computation  
 5) Evaluation of bilingual terminology extraction (MAP score)
 
 ## Requirements
