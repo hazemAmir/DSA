@@ -2,7 +2,7 @@
 Distributional Standard Approach (DSA) for bilingual lexicon extraction from specialized comparable corpora.
 The distributional standard approach is the earliest state of the art approaches used in the task of  bilingual terminology extraction from specialized comparable corpora. It is based on word context vectors representation and allows the alignment of pairs of words thanks to vectors similarity.  
 
-DSA consists of the following steps:
+DSA consists in the following steps:
 
 0) Data preprocessing (Tokenization, Part of Speech Tagging and Lemmatization)
 1) Context vectors construction 
