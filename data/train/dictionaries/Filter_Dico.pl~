@@ -1,0 +1,53 @@
+#!/usr/bin/perl
+
+use utf8;
+use XML::Twig;
+system(clear);
+
+$path="list_source_base.txt";
+
+open(DIC,"<:utf8",$path);
+%termlist=();
+while($ligne=<DIC>)
+{
+chomp($ligne);
+
+$termlist{$ligne}=$ligne
+}
+close(DIC);
+
+foreach $mot (keys %termlist)
+{
+ #print "$mot $termlist{$mot} "."\n";
+}
+
+
+
+$path="elra_reverse_utf8.final";
+$fileres="Filtered.elra_reverse_utf8.final";
+open(FILE,">>:utf8",$fileres)or die "no";
+open(DIC,"<:utf8",$path);
+%dico=();
+while($ligne=<DIC>)
+{
+chomp($ligne);
+@tab=split("[::]",$ligne);
+
+$dico{$tab[0]}=$tab[0];
+
+if(!exists($termlist{lc($tab[0])}))
+{
+ print FILE "$ligne\n";
+}
+else
+{
+ print "--> $tab[0] \n";
+}
+}
+close(DIC);
+
+foreach $mot (keys %dico)
+{
+ #print "$mot $dico{$mot} "."\n";
+}
+

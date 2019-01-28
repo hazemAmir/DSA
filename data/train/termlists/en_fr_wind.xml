@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LISTTRAD>
+<TRAD num="1" valid="yes">
+<LANG type="en">
+<TERM>turbine</TERM>
+<LEM>turbine</LEM>
+<BASE>turbine</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>turbine</TERM>
+<LEM>turbine</LEM>
+<BASE>turbine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="2" valid="yes">
+<LANG type="en">
+<TERM>rotor</TERM>
+<LEM>rotor</LEM>
+<BASE>rotor</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rotor</TERM>
+<LEM>rotor</LEM>
+<BASE>rotor</BASE>
+</LANG>
+</TRAD>
+<TRAD num="3" valid="yes">
+<LANG type="en">
+<TERM>renewable</TERM>
+<LEM>renewable</LEM>
+<BASE>renewable</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>renouvelable</TERM>
+<LEM>renouvelable</LEM>
+<BASE>renouvelable</BASE>
+</LANG>
+</TRAD>
+<TRAD num="4" valid="yes">
+<LANG type="en">
+<TERM>blade</TERM>
+<LEM>blade</LEM>
+<BASE>blade</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>pale</TERM>
+<LEM>pale</LEM>
+<BASE>pale</BASE>
+</LANG>
+</TRAD>
+<TRAD num="5" valid="yes">
+<LANG type="en">
+<TERM>transformer</TERM>
+<LEM>transformer</LEM>
+<BASE>transformer</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>transformateur</TERM>
+<LEM>transformateur</LEM>
+<BASE>transformateur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="6" valid="yes">
+<LANG type="en">
+<TERM>wind</TERM>
+<LEM>wind</LEM>
+<BASE>wind</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vent</TERM>
+<LEM>vent</LEM>
+<BASE>vent</BASE>
+</LANG>
+</TRAD>
+<TRAD num="7" valid="yes">
+<LANG type="en">
+<TERM>generator</TERM>
+<LEM>generator</LEM>
+<BASE>generator</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>générateur</TERM>
+<LEM>générateur</LEM>
+<BASE>générateur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="8" valid="yes">
+<LANG type="en">
+<TERM>slipstream</TERM>
+<LEM>slipstream</LEM>
+<BASE>slipstream</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sillage</TERM>
+<LEM>sillage</LEM>
+<BASE>sillage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="9" valid="yes">
+<LANG type="en">
+<TERM>nacelle</TERM>
+<LEM>nacelle</LEM>
+<BASE>nacelle</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>nacelle</TERM>
+<LEM>nacelle</LEM>
+<BASE>nacelle</BASE>
+</LANG>
+</TRAD>
+<TRAD num="10" valid="yes">
+<LANG type="en">
+<TERM>shaft</TERM>
+<LEM>shaft</LEM>
+<BASE>shaft</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>arbre</TERM>
+<LEM>arbre</LEM>
+<BASE>arbre</BASE>
+</LANG>
+</TRAD>
+<TRAD num="11" valid="yes">
+<LANG type="en">
+<TERM>aerodynamic</TERM>
+<LEM>aerodynamic</LEM>
+<BASE>aerodynamic</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>aérodynamique</TERM>
+<LEM>aérodynamique</LEM>
+<BASE>aérodynamique</BASE>
+</LANG>
+</TRAD>
+<TRAD num="12" valid="yes">
+<LANG type="en">
+<TERM>lift</TERM>
+<LEM>lift</LEM>
+<BASE>lift</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>portance</TERM>
+<LEM>portance</LEM>
+<BASE>portance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="13" valid="yes">
+<LANG type="en">
+<TERM>tower</TERM>
+<LEM>tower</LEM>
+<BASE>tower</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tour</TERM>
+<LEM>tour</LEM>
+<BASE>tour</BASE>
+</LANG>
+</TRAD>
+<TRAD num="14" valid="yes">
+<LANG type="en">
+<TERM>turbulence</TERM>
+<LEM>turbulence</LEM>
+<BASE>turbulence</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>turbulence</TERM>
+<LEM>turbulence</LEM>
+<BASE>turbulence</BASE>
+</LANG>
+</TRAD>
+<TRAD num="15" valid="yes">
+<LANG type="en">
+<TERM>gust</TERM>
+<LEM>gust</LEM>
+<BASE>gust</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rafale</TERM>
+<LEM>rafale</LEM>
+<BASE>rafale</BASE>
+</LANG>
+</TRAD>
+<TRAD num="16" valid="yes">
+<LANG type="en">
+<TERM>foundation</TERM>
+<LEM>foundation</LEM>
+<BASE>foundation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fondation</TERM>
+<LEM>fondation</LEM>
+<BASE>fondation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="17" valid="yes">
+<LANG type="en">
+<TERM>hub</TERM>
+<LEM>hub</LEM>
+<BASE>hub</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>moyeu</TERM>
+<LEM>moyeu</LEM>
+<BASE>moyeu</BASE>
+</LANG>
+</TRAD>
+<TRAD num="18" valid="yes">
+<LANG type="en">
+<TERM>bird</TERM>
+<LEM>bird</LEM>
+<BASE>bird</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>oiseau</TERM>
+<LEM>oiseau</LEM>
+<BASE>oiseau</BASE>
+</LANG>
+</TRAD>
+<TRAD num="19" valid="yes">
+<LANG type="en">
+<TERM>corrosion</TERM>
+<LEM>corrosion</LEM>
+<BASE>corrosion</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>corrosion</TERM>
+<LEM>corrosion</LEM>
+<BASE>corrosion</BASE>
+</LANG>
+</TRAD>
+<TRAD num="20" valid="yes">
+<LANG type="en">
+<TERM>slip</TERM>
+<LEM>slip</LEM>
+<BASE>slip</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>glissement</TERM>
+<LEM>glissement</LEM>
+<BASE>glissement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="21" valid="yes">
+<LANG type="en">
+<TERM>site</TERM>
+<LEM>site</LEM>
+<BASE>site</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>site</TERM>
+<LEM>site</LEM>
+<BASE>site</BASE>
+</LANG>
+</TRAD>
+<TRAD num="22" valid="yes">
+<LANG type="en">
+<TERM>stator</TERM>
+<LEM>stator</LEM>
+<BASE>stator</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>stator</TERM>
+<LEM>stator</LEM>
+<BASE>stator</BASE>
+</LANG>
+</TRAD>
+<TRAD num="23" valid="yes">
+<LANG type="en">
+<TERM>induction</TERM>
+<LEM>induction</LEM>
+<BASE>induction</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>induction</TERM>
+<LEM>induction</LEM>
+<BASE>induction</BASE>
+</LANG>
+</TRAD>
+<TRAD num="24" valid="yes">
+<LANG type="en">
+<TERM>inverter</TERM>
+<LEM>inverter</LEM>
+<BASE>inverter</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>onduleur</TERM>
+<LEM>onduleur</LEM>
+<BASE>onduleur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="25" valid="yes">
+<LANG type="en">
+<TERM>power</TERM>
+<LEM>power</LEM>
+<BASE>power</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>puissance</TERM>
+<LEM>puissance</LEM>
+<BASE>puissance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="26" valid="yes">
+<LANG type="en">
+<TERM>rectifier</TERM>
+<LEM>rectifier</LEM>
+<BASE>rectifier</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>redresseur</TERM>
+<LEM>redresseur</LEM>
+<BASE>redresseur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="27" valid="yes">
+<LANG type="en">
+<TERM>noise</TERM>
+<LEM>noise</LEM>
+<BASE>noise</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>bruit</TERM>
+<LEM>bruit</LEM>
+<BASE>bruit</BASE>
+</LANG>
+</TRAD>
+<TRAD num="28" valid="yes">
+<LANG type="en">
+<TERM>thyristor</TERM>
+<LEM>thyristor</LEM>
+<BASE>thyristor</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>thyristor</TERM>
+<LEM>thyristor</LEM>
+<BASE>thyristor</BASE>
+</LANG>
+</TRAD>
+<TRAD num="29" valid="yes">
+<LANG type="en">
+<TERM>synchronous</TERM>
+<LEM>synchronous</LEM>
+<BASE>synchronous</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>synchrone</TERM>
+<LEM>synchrone</LEM>
+<BASE>synchrone</BASE>
+</LANG>
+</TRAD>
+<TRAD num="30" valid="yes">
+<LANG type="en">
+<TERM>asynchronous</TERM>
+<LEM>asynchronous</LEM>
+<BASE>asynchronous</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>asynchrone</TERM>
+<LEM>asynchrone</LEM>
+<BASE>asynchrone</BASE>
+</LANG>
+</TRAD>
+<TRAD num="31" valid="yes">
+<LANG type="en">
+<TERM>vawt</TERM>
+<LEM>vawt</LEM>
+<BASE>vawt</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vawt</TERM>
+<LEM>vawt</LEM>
+<BASE>vawt</BASE>
+</LANG>
+</TRAD>
+<TRAD num="32" valid="yes">
+<LANG type="en">
+<TERM>hawt</TERM>
+<LEM>hawt</LEM>
+<BASE>hawt</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hawt</TERM>
+<LEM>hawt</LEM>
+<BASE>hawt</BASE>
+</LANG>
+</TRAD>
+<TRAD num="33" valid="yes">
+<LANG type="en">
+<TERM>three-bladed</TERM>
+<LEM>three-bladed</LEM>
+<BASE>three-bladed</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tripale</TERM>
+<LEM>tripale</LEM>
+<BASE>tripale</BASE>
+</LANG>
+</TRAD>
+<TRAD num="34" valid="yes">
+<LANG type="en">
+<TERM>two-bladed</TERM>
+<LEM>two-bladed</LEM>
+<BASE>two-bladed</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>bipale</TERM>
+<LEM>bipale</LEM>
+<BASE>bipale</BASE>
+</LANG>
+</TRAD>
+<TRAD num="35" valid="yes">
+<LANG type="en">
+<TERM>kilowatt</TERM>
+<LEM>kilowatt</LEM>
+<BASE>kilowatt</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>kilowatt</TERM>
+<LEM>kilowatt</LEM>
+<BASE>kilowatt</BASE>
+</LANG>
+</TRAD>
+<TRAD num="36" valid="yes">
+<LANG type="en">
+<TERM>watt</TERM>
+<LEM>watt</LEM>
+<BASE>watt</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>watt</TERM>
+<LEM>watt</LEM>
+<BASE>watt</BASE>
+</LANG>
+</TRAD>
+<TRAD num="37" valid="yes">
+<LANG type="en">
+<TERM>mw</TERM>
+<LEM>mw</LEM>
+<BASE>mw</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mw</TERM>
+<LEM>mw</LEM>
+<BASE>mw</BASE>
+</LANG>
+</TRAD>
+<TRAD num="38" valid="yes">
+<LANG type="en">
+<TERM>kw</TERM>
+<LEM>kw</LEM>
+<BASE>kw</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>kw</TERM>
+<LEM>kw</LEM>
+<BASE>kw</BASE>
+</LANG>
+</TRAD>
+<TRAD num="39" valid="yes">
+<LANG type="en">
+<TERM>mwh</TERM>
+<LEM>mwh</LEM>
+<BASE>mwh</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mwh</TERM>
+<LEM>mwh</LEM>
+<BASE>mwh</BASE>
+</LANG>
+</TRAD>
+<TRAD num="40" valid="yes">
+<LANG type="en">
+<TERM>kwh</TERM>
+<LEM>kwh</LEM>
+<BASE>kwh</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>kwh</TERM>
+<LEM>kwh</LEM>
+<BASE>kwh</BASE>
+</LANG>
+</TRAD>
+<TRAD num="41" valid="yes">
+<LANG type="en">
+<TERM>voltage</TERM>
+<LEM>voltage</LEM>
+<BASE>voltage</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tension</TERM>
+<LEM>tension</LEM>
+<BASE>tension</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>voltage</TERM>
+<LEM>voltage</LEM>
+<BASE>voltage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="42" valid="yes">
+<LANG type="en">
+<TERM>velocity</TERM>
+<LEM>velocity</LEM>
+<BASE>velocity</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vitesse</TERM>
+<LEM>vitesse</LEM>
+<BASE>vitesse</BASE>
+</LANG>
+</TRAD>
+<TRAD num="43" valid="yes">
+<LANG type="en">
+<TERM>measurement</TERM>
+<LEM>measurement</LEM>
+<BASE>measurement</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>dimensionnement</TERM>
+<LEM>dimensionnement</LEM>
+<BASE>dimensionnement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="44" valid="yes">
+<LANG type="en">
+<TERM>vortex</TERM>
+<LEM>vortex</LEM>
+<BASE>vortex</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tourbillon</TERM>
+<LEM>tourbillon</LEM>
+<BASE>tourbillon</BASE>
+</LANG>
+</TRAD>
+<TRAD num="45" valid="yes">
+<LANG type="en">
+<TERM>annoyance</TERM>
+<LEM>annoyance</LEM>
+<BASE>annoyance</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>nuisance</TERM>
+<LEM>nuisance</LEM>
+<BASE>nuisance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="46" valid="yes">
+<LANG type="en">
+<TERM>storage</TERM>
+<LEM>storage</LEM>
+<BASE>storage</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>stockage</TERM>
+<LEM>stockage</LEM>
+<BASE>stockage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="47" valid="yes">
+<LANG type="en">
+<TERM>sensor</TERM>
+<LEM>sensor</LEM>
+<BASE>sensor</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>capteur</TERM>
+<LEM>capteur</LEM>
+<BASE>capteur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="48" valid="yes">
+<LANG type="en">
+<TERM>location</TERM>
+<LEM>location</LEM>
+<BASE>location</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>implantation</TERM>
+<LEM>implantation</LEM>
+<BASE>implantation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="49" valid="yes">
+<LANG type="en">
+<TERM>hybrid</TERM>
+<LEM>hybrid</LEM>
+<BASE>hybrid</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hybride</TERM>
+<LEM>hybride</LEM>
+<BASE>hybride</BASE>
+</LANG>
+</TRAD>
+<TRAD num="50" valid="yes">
+<LANG type="en">
+<TERM>gas</TERM>
+<LEM>gas</LEM>
+<BASE>gas</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>gaz</TERM>
+<LEM>gaz</LEM>
+<BASE>gaz</BASE>
+</LANG>
+</TRAD>
+<TRAD num="51" valid="yes">
+<LANG type="en">
+<TERM>air</TERM>
+<LEM>air</LEM>
+<BASE>air</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>air</TERM>
+<LEM>air</LEM>
+<BASE>air</BASE>
+</LANG>
+</TRAD>
+<TRAD num="52" valid="yes">
+<LANG type="en">
+<TERM>maximum</TERM>
+<LEM>maximum</LEM>
+<BASE>maximum</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>maximal</TERM>
+<LEM>maximal</LEM>
+<BASE>maximal</BASE>
+</LANG>
+</TRAD>
+<TRAD num="53" valid="yes">
+<LANG type="en">
+<TERM>darrieus</TERM>
+<LEM>darrieus</LEM>
+<BASE>darrieus</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>darrieus</TERM>
+<LEM>darrieus</LEM>
+<BASE>darrieus</BASE>
+</LANG>
+</TRAD>
+<TRAD num="54" valid="yes">
+<LANG type="en">
+<TERM>savonius</TERM>
+<LEM>savonius</LEM>
+<BASE>savonius</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>savonius</TERM>
+<LEM>savonius</LEM>
+<BASE>savonius</BASE>
+</LANG>
+</TRAD>
+<TRAD num="55" valid="yes">
+<LANG type="en">
+<TERM>sustainable</TERM>
+<LEM>sustainable</LEM>
+<BASE>sustainable</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>durable</TERM>
+<LEM>durable</LEM>
+<BASE>durable</BASE>
+</LANG>
+</TRAD>
+<TRAD num="56" valid="yes">
+<LANG type="en">
+<TERM>vertical</TERM>
+<LEM>vertical</LEM>
+<BASE>vertical</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vertical</TERM>
+<LEM>vertical</LEM>
+<BASE>vertical</BASE>
+</LANG>
+</TRAD>
+<TRAD num="57" valid="yes">
+<LANG type="en">
+<TERM>horizontal</TERM>
+<LEM>horizontal</LEM>
+<BASE>horizontal</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>horizontal</TERM>
+<LEM>horizontal</LEM>
+<BASE>horizontal</BASE>
+</LANG>
+</TRAD>
+<TRAD num="58" valid="yes">
+<LANG type="en">
+<TERM>pump</TERM>
+<LEM>pump</LEM>
+<BASE>pump</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>pompe</TERM>
+<LEM>pompe</LEM>
+<BASE>pompe</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>pompage</TERM>
+<LEM>pompage</LEM>
+<BASE>pompage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="59" valid="yes">
+<LANG type="en">
+<TERM>conversion</TERM>
+<LEM>conversion</LEM>
+<BASE>conversion</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>conversion</TERM>
+<LEM>conversion</LEM>
+<BASE>conversion</BASE>
+</LANG>
+</TRAD>
+<TRAD num="60" valid="yes">
+<LANG type="en">
+<TERM>curve</TERM>
+<LEM>curve</LEM>
+<BASE>curve</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>courbe</TERM>
+<LEM>courbe</LEM>
+<BASE>courbe</BASE>
+</LANG>
+</TRAD>
+<TRAD num="61" valid="yes">
+<LANG type="en">
+<TERM>coefficient</TERM>
+<LEM>coefficient</LEM>
+<BASE>coefficient</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>coefficient</TERM>
+<LEM>coefficient</LEM>
+<BASE>coefficient</BASE>
+</LANG>
+</TRAD>
+<TRAD num="62" valid="yes">
+<LANG type="en">
+<TERM>converter</TERM>
+<LEM>converter</LEM>
+<BASE>converter</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>convertisseur</TERM>
+<LEM>convertisseur</LEM>
+<BASE>convertisseur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="63" valid="yes">
+<LANG type="en">
+<TERM>efficiency</TERM>
+<LEM>efficiency</LEM>
+<BASE>efficiency</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rendement</TERM>
+<LEM>rendement</LEM>
+<BASE>rendement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="64" valid="yes">
+<LANG type="en">
+<TERM>yaw</TERM>
+<LEM>yaw</LEM>
+<BASE>yaw</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>orientation</TERM>
+<LEM>orientation</LEM>
+<BASE>orientation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="65" valid="yes">
+<LANG type="en">
+<TERM>brake</TERM>
+<LEM>brake</LEM>
+<BASE>brake</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>frein</TERM>
+<LEM>frein</LEM>
+<BASE>frein</BASE>
+</LANG>
+</TRAD>
+<TRAD num="66" valid="yes">
+<LANG type="en">
+<TERM>coupling</TERM>
+<LEM>coupling</LEM>
+<BASE>coupling</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>couplage</TERM>
+<LEM>couplage</LEM>
+<BASE>couplage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="67" valid="yes">
+<LANG type="en">
+<TERM>total</TERM>
+<LEM>total</LEM>
+<BASE>total</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>total</TERM>
+<LEM>total</LEM>
+<BASE>total</BASE>
+</LANG>
+</TRAD>
+<TRAD num="68" valid="yes">
+<LANG type="en">
+<TERM>variable</TERM>
+<LEM>variable</LEM>
+<BASE>variable</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>variable</TERM>
+<LEM>variable</LEM>
+<BASE>variable</BASE>
+</LANG>
+</TRAD>
+<TRAD num="69" valid="yes">
+<LANG type="en">
+<TERM>direction</TERM>
+<LEM>direction</LEM>
+<BASE>direction</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>direction</TERM>
+<LEM>direction</LEM>
+<BASE>direction</BASE>
+</LANG>
+</TRAD>
+<TRAD num="70" valid="yes">
+<LANG type="en">
+<TERM>axis</TERM>
+<LEM>axis</LEM>
+<BASE>axis</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>axe</TERM>
+<LEM>axe</LEM>
+<BASE>axe</BASE>
+</LANG>
+</TRAD>
+<TRAD num="71" valid="yes">
+<LANG type="en">
+<TERM>source</TERM>
+<LEM>source</LEM>
+<BASE>source</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>source</TERM>
+<LEM>source</LEM>
+<BASE>source</BASE>
+</LANG>
+</TRAD>
+<TRAD num="72" valid="yes">
+<LANG type="en">
+<TERM>speed</TERM>
+<LEM>speed</LEM>
+<BASE>speed</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vitesse</TERM>
+<LEM>vitesse</LEM>
+<BASE>vitesse</BASE>
+</LANG>
+</TRAD>
+<TRAD num="73" valid="yes">
+<LANG type="en">
+<TERM>domestic</TERM>
+<LEM>domestic</LEM>
+<BASE>domestic</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>domestique</TERM>
+<LEM>domestique</LEM>
+<BASE>domestique</BASE>
+</LANG>
+</TRAD>
+<TRAD num="74" valid="yes">
+<LANG type="en">
+<TERM>onshore</TERM>
+<LEM>onshore</LEM>
+<BASE>onshore</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>terrestre</TERM>
+<LEM>terrestre</LEM>
+<BASE>terrestre</BASE>
+</LANG>
+</TRAD>
+<TRAD num="75" valid="yes">
+<LANG type="en">
+<TERM>offshore</TERM>
+<LEM>offshore</LEM>
+<BASE>offshore</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>offshore</TERM>
+<LEM>offshore</LEM>
+<BASE>offshore</BASE>
+</LANG>
+</TRAD>
+<TRAD num="76" valid="yes">
+<LANG type="en">
+<TERM>rotation</TERM>
+<LEM>rotation</LEM>
+<BASE>rotation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rotation</TERM>
+<LEM>rotation</LEM>
+<BASE>rotation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="77" valid="yes">
+<LANG type="en">
+<TERM>height</TERM>
+<LEM>height</LEM>
+<BASE>height</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hauteur</TERM>
+<LEM>hauteur</LEM>
+<BASE>hauteur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="78" valid="yes">
+<LANG type="en">
+<TERM>angle</TERM>
+<LEM>angle</LEM>
+<BASE>angle</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>angle</TERM>
+<LEM>angle</LEM>
+<BASE>angle</BASE>
+</LANG>
+</TRAD>
+<TRAD num="79" valid="yes">
+<LANG type="en">
+<TERM>pitch</TERM>
+<LEM>pitch</LEM>
+<BASE>pitch</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>calage</TERM>
+<LEM>calage</LEM>
+<BASE>calage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="80" valid="yes">
+<LANG type="en">
+<TERM>project</TERM>
+<LEM>project</LEM>
+<BASE>project</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>projet</TERM>
+<LEM>projet</LEM>
+<BASE>projet</BASE>
+</LANG>
+</TRAD>
+<TRAD num="81" valid="yes">
+<LANG type="en">
+<TERM>impact</TERM>
+<LEM>impact</LEM>
+<BASE>impact</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>impact</TERM>
+<LEM>impact</LEM>
+<BASE>impact</BASE>
+</LANG>
+</TRAD>
+<TRAD num="82" valid="yes">
+<LANG type="en">
+<TERM>potential</TERM>
+<LEM>potential</LEM>
+<BASE>potential</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>potentiel</TERM>
+<LEM>potentiel</LEM>
+<BASE>potentiel</BASE>
+</LANG>
+</TRAD>
+<TRAD num="83" valid="yes">
+<LANG type="en">
+<TERM>sound</TERM>
+<LEM>sound</LEM>
+<BASE>sound</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sonore</TERM>
+<LEM>sonore</LEM>
+<BASE>sonore</BASE>
+</LANG>
+</TRAD>
+<TRAD num="84" valid="yes">
+<LANG type="en">
+<TERM>level</TERM>
+<LEM>level</LEM>
+<BASE>level</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>niveau</TERM>
+<LEM>niveau</LEM>
+<BASE>niveau</BASE>
+</LANG>
+</TRAD>
+<TRAD num="85" valid="yes">
+<LANG type="en">
+<TERM>farm</TERM>
+<LEM>farm</LEM>
+<BASE>farm</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>ferme</TERM>
+<LEM>ferme</LEM>
+<BASE>ferme</BASE>
+</LANG>
+</TRAD>
+<TRAD num="86" valid="yes">
+<LANG type="en">
+<TERM>average</TERM>
+<LEM>average</LEM>
+<BASE>average</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>moyen</TERM>
+<LEM>moyen</LEM>
+<BASE>moyen</BASE>
+</LANG>
+</TRAD>
+<TRAD num="87" valid="yes">
+<LANG type="en">
+<TERM>edge</TERM>
+<LEM>edge</LEM>
+<BASE>edge</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>bord</TERM>
+<LEM>bord</LEM>
+<BASE>bord</BASE>
+</LANG>
+</TRAD>
+<TRAD num="88" valid="yes">
+<LANG type="en">
+<TERM>trail</TERM>
+<LEM>trail</LEM>
+<BASE>trail</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fuite</TERM>
+<LEM>fuite</LEM>
+<BASE>fuite</BASE>
+</LANG>
+</TRAD>
+<TRAD num="89" valid="yes">
+<LANG type="en">
+<TERM>steel</TERM>
+<LEM>steel</LEM>
+<BASE>steel</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>acier</TERM>
+<LEM>acier</LEM>
+<BASE>acier</BASE>
+</LANG>
+</TRAD>
+<TRAD num="90" valid="yes">
+<LANG type="en">
+<TERM>load</TERM>
+<LEM>load</LEM>
+<BASE>load</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>charge</TERM>
+<LEM>charge</LEM>
+<BASE>charge</BASE>
+</LANG>
+</TRAD>
+<TRAD num="91" valid="yes">
+<LANG type="en">
+<TERM>shear</TERM>
+<LEM>shear</LEM>
+<BASE>shear</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>cisaillement</TERM>
+<LEM>cisaillement</LEM>
+<BASE>cisaillement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="92" valid="yes">
+<LANG type="en">
+<TERM>connection</TERM>
+<LEM>connection</LEM>
+<BASE>connection</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>raccordement</TERM>
+<LEM>raccordement</LEM>
+<BASE>raccordement</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>connexion</TERM>
+<LEM>connexion</LEM>
+<BASE>connexion</BASE>
+</LANG>
+</TRAD>
+<TRAD num="93" valid="yes">
+<LANG type="en">
+<TERM>direct</TERM>
+<LEM>direct</LEM>
+<BASE>direct</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>direct</TERM>
+<LEM>direct</LEM>
+<BASE>direct</BASE>
+</LANG>
+</TRAD>
+<TRAD num="94" valid="yes">
+<LANG type="en">
+<TERM>indirect</TERM>
+<LEM>indirect</LEM>
+<BASE>indirect</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>indirect</TERM>
+<LEM>indirect</LEM>
+<BASE>indirect</BASE>
+</LANG>
+</TRAD>
+<TRAD num="95" valid="yes">
+<LANG type="en">
+<TERM>current</TERM>
+<LEM>current</LEM>
+<BASE>current</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>courant</TERM>
+<LEM>courant</LEM>
+<BASE>courant</BASE>
+</LANG>
+</TRAD>
+<TRAD num="96" valid="yes">
+<LANG type="en">
+<TERM>wake</TERM>
+<LEM>wake</LEM>
+<BASE>wake</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sillage</TERM>
+<LEM>sillage</LEM>
+<BASE>sillage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="97" valid="yes">
+<LANG type="en">
+<TERM>park</TERM>
+<LEM>park</LEM>
+<BASE>park</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>parc</TERM>
+<LEM>parc</LEM>
+<BASE>parc</BASE>
+</LANG>
+</TRAD>
+<TRAD num="98" valid="yes">
+<LANG type="en">
+<TERM>factor</TERM>
+<LEM>factor</LEM>
+<BASE>factor</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>facteur</TERM>
+<LEM>facteur</LEM>
+<BASE>facteur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="99" valid="yes">
+<LANG type="en">
+<TERM>obstacle</TERM>
+<LEM>obstacle</LEM>
+<BASE>obstacle</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>obstacle</TERM>
+<LEM>obstacle</LEM>
+<BASE>obstacle</BASE>
+</LANG>
+</TRAD>
+<TRAD num="100" valid="yes">
+<LANG type="en">
+<TERM>map</TERM>
+<LEM>map</LEM>
+<BASE>map</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>carte</TERM>
+<LEM>carte</LEM>
+<BASE>carte</BASE>
+</LANG>
+</TRAD>
+<TRAD num="101" valid="yes">
+<LANG type="en">
+<TERM>page</TERM>
+<LEM>page</LEM>
+<BASE>page</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>page</TERM>
+<LEM>page</LEM>
+<BASE>page</BASE>
+</LANG>
+</TRAD>
+<TRAD num="102" valid="yes">
+<LANG type="en">
+<TERM>base</TERM>
+<LEM>base</LEM>
+<BASE>base</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>base</TERM>
+<LEM>base</LEM>
+<BASE>base</BASE>
+</LANG>
+</TRAD>
+<TRAD num="103" valid="yes">
+<LANG type="en">
+<TERM>battery</TERM>
+<LEM>battery</LEM>
+<BASE>battery</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>batterie</TERM>
+<LEM>batterie</LEM>
+<BASE>batterie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="104" valid="yes">
+<LANG type="en">
+<TERM>benefit</TERM>
+<LEM>benefit</LEM>
+<BASE>benefit</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>bénéfice</TERM>
+<LEM>bénéfice</LEM>
+<BASE>bénéfice</BASE>
+</LANG>
+</TRAD>
+<TRAD num="105" valid="yes">
+<LANG type="en">
+<TERM>biological</TERM>
+<LEM>biological</LEM>
+<BASE>biological</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>biologique</TERM>
+<LEM>biologique</LEM>
+<BASE>biologique</BASE>
+</LANG>
+</TRAD>
+<TRAD num="106" valid="yes">
+<LANG type="en">
+<TERM>anemometer</TERM>
+<LEM>anemometer</LEM>
+<BASE>anemometer</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>anémomètre</TERM>
+<LEM>anémomètre</LEM>
+<BASE>anémomètre</BASE>
+</LANG>
+</TRAD>
+<TRAD num="107" valid="yes">
+<LANG type="en">
+<TERM>regulation</TERM>
+<LEM>regulation</LEM>
+<BASE>regulation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>régulation</TERM>
+<LEM>régulation</LEM>
+<BASE>régulation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="108" valid="yes">
+<LANG type="en">
+<TERM>drag</TERM>
+<LEM>drag</LEM>
+<BASE>drag</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>traînée</TERM>
+<LEM>traînée</LEM>
+<BASE>traînée</BASE>
+</LANG>
+</TRAD>
+<TRAD num="109" valid="yes">
+<LANG type="en">
+<TERM>disk</TERM>
+<LEM>disk</LEM>
+<BASE>disk</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>disque</TERM>
+<LEM>disque</LEM>
+<BASE>disque</BASE>
+</LANG>
+</TRAD>
+<TRAD num="110" valid="yes">
+<LANG type="en">
+<TERM>stall</TERM>
+<LEM>stall</LEM>
+<BASE>stall</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>décrochage</TERM>
+<LEM>décrochage</LEM>
+<BASE>décrochage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="111" valid="yes">
+<LANG type="en">
+<TERM>scale</TERM>
+<LEM>scale</LEM>
+<BASE>scale</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>échelle</TERM>
+<LEM>échelle</LEM>
+<BASE>échelle</BASE>
+</LANG>
+</TRAD>
+<TRAD num="112" valid="yes">
+<LANG type="en">
+<TERM>cooling</TERM>
+<LEM>cooling</LEM>
+<BASE>cooling</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>refroidissement</TERM>
+<LEM>refroidissement</LEM>
+<BASE>refroidissement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="113" valid="yes">
+<LANG type="en">
+<TERM>density</TERM>
+<LEM>density</LEM>
+<BASE>density</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>densité</TERM>
+<LEM>densité</LEM>
+<BASE>densité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="114" valid="yes">
+<LANG type="en">
+<TERM>economics</TERM>
+<LEM>economics</LEM>
+<BASE>economics</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>économie</TERM>
+<LEM>économie</LEM>
+<BASE>économie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="115" valid="yes">
+<LANG type="en">
+<TERM>energy</TERM>
+<LEM>energy</LEM>
+<BASE>energy</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>énergie</TERM>
+<LEM>énergie</LEM>
+<BASE>énergie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="116" valid="yes">
+<LANG type="en">
+<TERM>gearbox</TERM>
+<LEM>gearbox</LEM>
+<BASE>gearbox</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>multiplicateur</TERM>
+<LEM>multiplicateur</LEM>
+<BASE>multiplicateur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="117" valid="yes">
+<LANG type="en">
+<TERM>safety</TERM>
+<LEM>safety</LEM>
+<BASE>safety</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sécurité</TERM>
+<LEM>sécurité</LEM>
+<BASE>sécurité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="118" valid="yes">
+<LANG type="en">
+<TERM>viscosity</TERM>
+<LEM>viscosity</LEM>
+<BASE>viscosity</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>viscosité</TERM>
+<LEM>viscosité</LEM>
+<BASE>viscosité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="119" valid="yes">
+<LANG type="en">
+<TERM>viscous</TERM>
+<LEM>viscous</LEM>
+<BASE>viscous</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>visqueux</TERM>
+<LEM>visqueux</LEM>
+<BASE>visqueux</BASE>
+</LANG>
+</TRAD>
+<TRAD num="120" valid="yes">
+<LANG type="en">
+<TERM>mechanism</TERM>
+<LEM>mechanism</LEM>
+<BASE>mechanism</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>dispositif</TERM>
+<LEM>dispositif</LEM>
+<BASE>dispositif</BASE>
+</LANG>
+</TRAD>
+<TRAD num="121" valid="yes">
+<LANG type="en">
+<TERM>breeze</TERM>
+<LEM>breeze</LEM>
+<BASE>breeze</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>brise</TERM>
+<LEM>brise</LEM>
+<BASE>brise</BASE>
+</LANG>
+</TRAD>
+<TRAD num="122" valid="yes">
+<LANG type="en">
+<TERM>availability</TERM>
+<LEM>availability</LEM>
+<BASE>availability</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>disponibilité</TERM>
+<LEM>disponibilité</LEM>
+<BASE>disponibilité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="123" valid="yes">
+<LANG type="en">
+<TERM>manufacturer</TERM>
+<LEM>manufacturer</LEM>
+<BASE>manufacturer</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fabricant</TERM>
+<LEM>fabricant</LEM>
+<BASE>fabricant</BASE>
+</LANG>
+</TRAD>
+<TRAD num="124" valid="yes">
+<LANG type="en">
+<TERM>parameter</TERM>
+<LEM>parameter</LEM>
+<BASE>parameter</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>paramètre</TERM>
+<LEM>paramètre</LEM>
+<BASE>paramètre</BASE>
+</LANG>
+</TRAD>
+<TRAD num="125" valid="yes">
+<LANG type="en">
+<TERM>distribution</TERM>
+<LEM>distribution</LEM>
+<BASE>distribution</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>distribution</TERM>
+<LEM>distribution</LEM>
+<BASE>distribution</BASE>
+</LANG>
+</TRAD>
+<TRAD num="126" valid="yes">
+<LANG type="en">
+<TERM>resource</TERM>
+<LEM>resource</LEM>
+<BASE>resource</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>ressource</TERM>
+<LEM>ressource</LEM>
+<BASE>ressource</BASE>
+</LANG>
+</TRAD>
+<TRAD num="127" valid="yes">
+<LANG type="en">
+<TERM>visual</TERM>
+<LEM>visual</LEM>
+<BASE>visual</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>visuel</TERM>
+<LEM>visuel</LEM>
+<BASE>visuel</BASE>
+</LANG>
+</TRAD>
+<TRAD num="128" valid="yes">
+<LANG type="en">
+<TERM>support</TERM>
+<LEM>support</LEM>
+<BASE>support</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>support</TERM>
+<LEM>support</LEM>
+<BASE>support</BASE>
+</LANG>
+</TRAD>
+<TRAD num="129" valid="yes">
+<LANG type="en">
+<TERM>structure</TERM>
+<LEM>structure</LEM>
+<BASE>structure</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>structure</TERM>
+<LEM>structure</LEM>
+<BASE>structure</BASE>
+</LANG>
+</TRAD>
+<TRAD num="130" valid="yes">
+<LANG type="en">
+<TERM>solar</TERM>
+<LEM>solar</LEM>
+<BASE>solar</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>solaire</TERM>
+<LEM>solaire</LEM>
+<BASE>solaire</BASE>
+</LANG>
+</TRAD>
+<TRAD num="131" valid="yes">
+<LANG type="en">
+<TERM>quality</TERM>
+<LEM>quality</LEM>
+<BASE>quality</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>qualité</TERM>
+<LEM>qualité</LEM>
+<BASE>qualité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="132" valid="yes">
+<LANG type="en">
+<TERM>transmission</TERM>
+<LEM>transmission</LEM>
+<BASE>transmission</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>transmission</TERM>
+<LEM>transmission</LEM>
+<BASE>transmission</BASE>
+</LANG>
+</TRAD>
+<TRAD num="133" valid="yes">
+<LANG type="en">
+<TERM>emission</TERM>
+<LEM>emission</LEM>
+<BASE>emission</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>émission</TERM>
+<LEM>émission</LEM>
+<BASE>émission</BASE>
+</LANG>
+</TRAD>
+<TRAD num="134" valid="yes">
+<LANG type="en">
+<TERM>shadow</TERM>
+<LEM>shadow</LEM>
+<BASE>shadow</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>ombre</TERM>
+<LEM>ombre</LEM>
+<BASE>ombre</BASE>
+</LANG>
+</TRAD>
+<TRAD num="135" valid="yes">
+<LANG type="en">
+<TERM>mast</TERM>
+<LEM>mast</LEM>
+<BASE>mast</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mât</TERM>
+<LEM>mât</LEM>
+<BASE>mât</BASE>
+</LANG>
+</TRAD>
+<TRAD num="136" valid="yes">
+<LANG type="en">
+<TERM>mechanical</TERM>
+<LEM>mechanical</LEM>
+<BASE>mechanical</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mécanique</TERM>
+<LEM>mécanique</LEM>
+<BASE>mécanique</BASE>
+</LANG>
+</TRAD>
+<TRAD num="137" valid="yes">
+<LANG type="en">
+<TERM>loss</TERM>
+<LEM>loss</LEM>
+<BASE>loss</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>perte</TERM>
+<LEM>perte</LEM>
+<BASE>perte</BASE>
+</LANG>
+</TRAD>
+<TRAD num="138" valid="yes">
+<LANG type="en">
+<TERM>lattice</TERM>
+<LEM>lattice</LEM>
+<BASE>lattice</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>treillis</TERM>
+<LEM>treillis</LEM>
+<BASE>treillis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="139" valid="yes">
+<LANG type="en">
+<TERM>cable</TERM>
+<LEM>cable</LEM>
+<BASE>cable</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>câble</TERM>
+<LEM>câble</LEM>
+<BASE>câble</BASE>
+</LANG>
+</TRAD>
+<TRAD num="140" valid="yes">
+<LANG type="en">
+<TERM>global</TERM>
+<LEM>global</LEM>
+<BASE>global</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>global</TERM>
+<LEM>global</LEM>
+<BASE>global</BASE>
+</LANG>
+</TRAD>
+<TRAD num="141" valid="yes">
+<LANG type="en">
+<TERM>local</TERM>
+<LEM>local</LEM>
+<BASE>local</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>local</TERM>
+<LEM>local</LEM>
+<BASE>local</BASE>
+</LANG>
+</TRAD>
+<TRAD num="142" valid="yes">
+<LANG type="en">
+<TERM>fix</TERM>
+<LEM>fix</LEM>
+<BASE>fix</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fixe</TERM>
+<LEM>fixe</LEM>
+<BASE>fixe</BASE>
+</LANG>
+</TRAD>
+<TRAD num="143" valid="yes">
+<LANG type="en">
+<TERM>cyclic</TERM>
+<LEM>cyclic</LEM>
+<BASE>cyclic</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>cyclique</TERM>
+<LEM>cyclique</LEM>
+<BASE>cyclique</BASE>
+</LANG>
+</TRAD>
+<TRAD num="144" valid="yes">
+<LANG type="en">
+<TERM>cylinder</TERM>
+<LEM>cylinder</LEM>
+<BASE>cylinder</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>cylindre</TERM>
+<LEM>cylindre</LEM>
+<BASE>cylindre</BASE>
+</LANG>
+</TRAD>
+<TRAD num="145" valid="yes">
+<LANG type="en">
+<TERM>diagram</TERM>
+<LEM>diagram</LEM>
+<BASE>diagram</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>diagramme</TERM>
+<LEM>diagramme</LEM>
+<BASE>diagramme</BASE>
+</LANG>
+</TRAD>
+<TRAD num="146" valid="yes">
+<LANG type="en">
+<TERM>tip</TERM>
+<LEM>tip</LEM>
+<BASE>tip</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>bout</TERM>
+<LEM>bout</LEM>
+<BASE>bout</BASE>
+</LANG>
+</TRAD>
+<TRAD num="147" valid="yes">
+<LANG type="en">
+<TERM>profile</TERM>
+<LEM>profile</LEM>
+<BASE>profile</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>profil</TERM>
+<LEM>profil</LEM>
+<BASE>profil</BASE>
+</LANG>
+</TRAD>
+<TRAD num="148" valid="yes">
+<LANG type="en">
+<TERM>hinge</TERM>
+<LEM>hinge</LEM>
+<BASE>hinge</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>articulation</TERM>
+<LEM>articulation</LEM>
+<BASE>articulation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="149" valid="yes">
+<LANG type="en">
+<TERM>law</TERM>
+<LEM>law</LEM>
+<BASE>law</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>loi</TERM>
+<LEM>loi</LEM>
+<BASE>loi</BASE>
+</LANG>
+</TRAD>
+<TRAD num="150" valid="yes">
+<LANG type="en">
+<TERM>betz</TERM>
+<LEM>betz</LEM>
+<BASE>betz</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>betz</TERM>
+<LEM>betz</LEM>
+<BASE>betz</BASE>
+</LANG>
+</TRAD>
+</LISTTRAD>

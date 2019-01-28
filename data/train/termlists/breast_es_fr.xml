@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LISTTRAD>
+<TRAD num="1" valid="yes">
+<LANG type="fr">
+<TERM>carcinogenèse</TERM>
+<LEM>carcinogenèse</LEM>
+<BASE>carcinogenèse</BASE>
+</LANG>
+<LANG type="es">
+<TERM>carcinogénesis</TERM>
+<LEM>carcinogénesis</LEM>
+<BASE>carcinogénesis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="2" valid="yes">
+<LANG type="fr">
+<TERM>grossesse</TERM>
+<LEM>grossesse</LEM>
+<BASE>grossesse</BASE>
+</LANG>
+<LANG type="es">
+<TERM>embarazo</TERM>
+<LEM>embarazo</LEM>
+<BASE>embarazo</BASE>
+</LANG>
+</TRAD>
+<TRAD num="3" valid="yes">
+<LANG type="fr">
+<TERM>cycline</TERM>
+<LEM>cycline</LEM>
+<BASE>cycline</BASE>
+</LANG>
+<LANG type="es">
+<TERM>ciclina</TERM>
+<LEM>ciclina</LEM>
+<BASE>ciclina</BASE>
+</LANG>
+</TRAD>
+<TRAD num="4" valid="yes">
+<LANG type="fr">
+<TERM>survie</TERM>
+<LEM>survie</LEM>
+<BASE>survie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>supervivencia</TERM>
+<LEM>supervivencia</LEM>
+<BASE>supervivencia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="5" valid="yes">
+<LANG type="fr">
+<TERM>antécédent</TERM>
+<LEM>antécédent</LEM>
+<BASE>antécédent</BASE>
+</LANG>
+<LANG type="es">
+<TERM>antecedente</TERM>
+<LEM>antecedente</LEM>
+<BASE>antecedente</BASE>
+</LANG>
+</TRAD>
+<TRAD num="6" valid="yes">
+<LANG type="fr">
+<TERM>anomalie</TERM>
+<LEM>anomalie</LEM>
+<BASE>anomalie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>anomalía</TERM>
+<LEM>anomalía</LEM>
+<BASE>anomalía</BASE>
+</LANG>
+</TRAD>
+<TRAD num="7" valid="yes">
+<LANG type="fr">
+<TERM>estradiol</TERM>
+<LEM>estradiol</LEM>
+<BASE>estradiol</BASE>
+</LANG>
+<LANG type="es">
+<TERM>estradiol</TERM>
+<LEM>estradiol</LEM>
+<BASE>estradiol</BASE>
+</LANG>
+</TRAD>
+<TRAD num="8" valid="yes">
+<LANG type="fr">
+<TERM>lymphome</TERM>
+<LEM>lymphome</LEM>
+<BASE>lymphome</BASE>
+</LANG>
+<LANG type="es">
+<TERM>linfoma</TERM>
+<LEM>linfoma</LEM>
+<BASE>linfoma</BASE>
+</LANG>
+</TRAD>
+<TRAD num="9" valid="yes">
+<LANG type="fr">
+<TERM>ganglion</TERM>
+<LEM>ganglion</LEM>
+<BASE>ganglion</BASE>
+</LANG>
+<LANG type="es">
+<TERM>ganglio</TERM>
+<LEM>ganglio</LEM>
+<BASE>ganglio</BASE>
+</LANG>
+</TRAD>
+<TRAD num="10" valid="yes">
+<LANG type="fr">
+<TERM>adjuvant</TERM>
+<LEM>adjuvant</LEM>
+<BASE>adjuvant</BASE>
+</LANG>
+<LANG type="es">
+<TERM>adyuvante</TERM>
+<LEM>adyuvante</LEM>
+<BASE>adyuvante</BASE>
+</LANG>
+</TRAD>
+<TRAD num="11" valid="yes">
+<LANG type="fr">
+<TERM>oncogène</TERM>
+<LEM>oncogène</LEM>
+<BASE>oncogène</BASE>
+</LANG>
+<LANG type="es">
+<TERM>oncogénico</TERM>
+<LEM>oncogénico</LEM>
+<BASE>oncogénico</BASE>
+</LANG>
+</TRAD>
+<TRAD num="12" valid="yes">
+<LANG type="fr">
+<TERM>résection</TERM>
+<LEM>résection</LEM>
+<BASE>résection</BASE>
+</LANG>
+<LANG type="es">
+<TERM>resección</TERM>
+<LEM>resección</LEM>
+<BASE>resección</BASE>
+</LANG>
+</TRAD>
+<TRAD num="13" valid="yes">
+<LANG type="fr">
+<TERM>lymphe</TERM>
+<LEM>lymphe</LEM>
+<BASE>lymphe</BASE>
+</LANG>
+<LANG type="es">
+<TERM>linfa</TERM>
+<LEM>linfa</LEM>
+<BASE>linfa</BASE>
+</LANG>
+</TRAD>
+<TRAD num="14" valid="yes">
+<LANG type="fr">
+<TERM>métastase</TERM>
+<LEM>métastase</LEM>
+<BASE>métastase</BASE>
+</LANG>
+<LANG type="es">
+<TERM>metástasis</TERM>
+<LEM>metástasis</LEM>
+<BASE>metástasis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="15" valid="yes">
+<LANG type="fr">
+<TERM>nécrose</TERM>
+<LEM>nécrose</LEM>
+<BASE>nécrose</BASE>
+</LANG>
+<LANG type="es">
+<TERM>necrosis</TERM>
+<LEM>necrosis</LEM>
+<BASE>necrosis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="16" valid="yes">
+<LANG type="fr">
+<TERM>résistance</TERM>
+<LEM>résistance</LEM>
+<BASE>résistance</BASE>
+</LANG>
+<LANG type="es">
+<TERM>resistencia</TERM>
+<LEM>resistencia</LEM>
+<BASE>resistencia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="17" valid="yes">
+<LANG type="fr">
+<TERM>guérison</TERM>
+<LEM>guérison</LEM>
+<BASE>guérison</BASE>
+</LANG>
+<LANG type="es">
+<TERM>curación</TERM>
+<LEM>curación</LEM>
+<BASE>curación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="18" valid="yes">
+<LANG type="fr">
+<TERM>sein</TERM>
+<LEM>sein</LEM>
+<BASE>sein</BASE>
+</LANG>
+<LANG type="es">
+<TERM>mama</TERM>
+<LEM>mama</LEM>
+<BASE>mama</BASE>
+</LANG>
+</TRAD>
+<TRAD num="19" valid="yes">
+<LANG type="fr">
+<TERM>injection</TERM>
+<LEM>injection</LEM>
+<BASE>injection</BASE>
+</LANG>
+<LANG type="es">
+<TERM>inyección</TERM>
+<LEM>inyección</LEM>
+<BASE>inyección</BASE>
+</LANG>
+</TRAD>
+<TRAD num="20" valid="yes">
+<LANG type="fr">
+<TERM>carcinome</TERM>
+<LEM>carcinome</LEM>
+<BASE>carcinome</BASE>
+</LANG>
+<LANG type="es">
+<TERM>carcinoma</TERM>
+<LEM>carcinoma</LEM>
+<BASE>carcinoma</BASE>
+</LANG>
+</TRAD>
+<TRAD num="21" valid="yes">
+<LANG type="fr">
+<TERM>échantillon</TERM>
+<LEM>échantillon</LEM>
+<BASE>échantillon</BASE>
+</LANG>
+<LANG type="es">
+<TERM>muestra</TERM>
+<LEM>muestra</LEM>
+<BASE>muestra</BASE>
+</LANG>
+</TRAD>
+<TRAD num="22" valid="yes">
+<LANG type="fr">
+<TERM>histologie</TERM>
+<LEM>histologie</LEM>
+<BASE>histologie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>histología</TERM>
+<LEM>histología</LEM>
+<BASE>histología</BASE>
+</LANG>
+</TRAD>
+<TRAD num="23" valid="yes">
+<LANG type="fr">
+<TERM>infection</TERM>
+<LEM>infection</LEM>
+<BASE>infection</BASE>
+</LANG>
+<LANG type="es">
+<TERM>infección</TERM>
+<LEM>infección</LEM>
+<BASE>infección</BASE>
+</LANG>
+</TRAD>
+<TRAD num="24" valid="yes">
+<LANG type="fr">
+<TERM>risque</TERM>
+<LEM>risque</LEM>
+<BASE>risque</BASE>
+</LANG>
+<LANG type="es">
+<TERM>riesgo</TERM>
+<LEM>riesgo</LEM>
+<BASE>riesgo</BASE>
+</LANG>
+</TRAD>
+<TRAD num="25" valid="yes">
+<LANG type="fr">
+<TERM>dépression</TERM>
+<LEM>dépression</LEM>
+<BASE>dépression</BASE>
+</LANG>
+<LANG type="es">
+<TERM>depresión</TERM>
+<LEM>depresión</LEM>
+<BASE>depresión</BASE>
+</LANG>
+</TRAD>
+<TRAD num="26" valid="yes">
+<LANG type="fr">
+<TERM>chirurgie</TERM>
+<LEM>chirurgie</LEM>
+<BASE>chirurgie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>cirugía</TERM>
+<LEM>cirugía</LEM>
+<BASE>cirugía</BASE>
+</LANG>
+</TRAD>
+<TRAD num="27" valid="yes">
+<LANG type="fr">
+<TERM>ménopause</TERM>
+<LEM>ménopause</LEM>
+<BASE>ménopause</BASE>
+</LANG>
+<LANG type="es">
+<TERM>menopausia</TERM>
+<LEM>menopausia</LEM>
+<BASE>menopausia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="28" valid="yes">
+<LANG type="fr">
+<TERM>fibrose</TERM>
+<LEM>fibrose</LEM>
+<BASE>fibrose</BASE>
+</LANG>
+<LANG type="es">
+<TERM>fibrosis</TERM>
+<LEM>fibrosis</LEM>
+<BASE>fibrosis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="29" valid="yes">
+<LANG type="fr">
+<TERM>échographie</TERM>
+<LEM>échographie</LEM>
+<BASE>échographie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>tomografía</TERM>
+<LEM>tomografía</LEM>
+<BASE>tomografía</BASE>
+</LANG>
+</TRAD>
+<TRAD num="30" valid="yes">
+<LANG type="fr">
+<TERM>prolifération</TERM>
+<LEM>prolifération</LEM>
+<BASE>prolifération</BASE>
+</LANG>
+<LANG type="es">
+<TERM>proliferación</TERM>
+<LEM>proliferación</LEM>
+<BASE>proliferación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="31" valid="yes">
+<LANG type="fr">
+<TERM>mortalité</TERM>
+<LEM>mortalité</LEM>
+<BASE>mortalité</BASE>
+</LANG>
+<LANG type="es">
+<TERM>mortalidad</TERM>
+<LEM>mortalidad</LEM>
+<BASE>mortalidad</BASE>
+</LANG>
+</TRAD>
+<TRAD num="32" valid="yes">
+<LANG type="fr">
+<TERM>lésion</TERM>
+<LEM>lésion</LEM>
+<BASE>lésion</BASE>
+</LANG>
+<LANG type="es">
+<TERM>lesión</TERM>
+<LEM>lesión</LEM>
+<BASE>lesión</BASE>
+</LANG>
+</TRAD>
+<TRAD num="33" valid="yes">
+<LANG type="fr">
+<TERM>chimiothérapie</TERM>
+<LEM>chimiothérapie</LEM>
+<BASE>chimiothérapie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>quimioterapia</TERM>
+<LEM>quimioterapia</LEM>
+<BASE>quimioterapia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="34" valid="yes">
+<LANG type="fr">
+<TERM>récepteur</TERM>
+<LEM>récepteur</LEM>
+<BASE>récepteur</BASE>
+</LANG>
+<LANG type="es">
+<TERM>receptor</TERM>
+<LEM>receptor</LEM>
+<BASE>receptor</BASE>
+</LANG>
+</TRAD>
+<TRAD num="35" valid="yes">
+<LANG type="fr">
+<TERM>sensibilité</TERM>
+<LEM>sensibilité</LEM>
+<BASE>sensibilité</BASE>
+</LANG>
+<LANG type="es">
+<TERM>sensibilidad</TERM>
+<LEM>sensibilidad</LEM>
+<BASE>sensibilidad</BASE>
+</LANG>
+</TRAD>
+<TRAD num="36" valid="yes">
+<LANG type="fr">
+<TERM>hypertension</TERM>
+<LEM>hypertension</LEM>
+<BASE>hypertension</BASE>
+</LANG>
+<LANG type="es">
+<TERM>hipertensión</TERM>
+<LEM>hipertensión</LEM>
+<BASE>hipertensión</BASE>
+</LANG>
+</TRAD>
+<TRAD num="37" valid="yes">
+<LANG type="fr">
+<TERM>absorption</TERM>
+<LEM>absorption</LEM>
+<BASE>absorption</BASE>
+</LANG>
+<LANG type="es">
+<TERM>absorción</TERM>
+<LEM>absorción</LEM>
+<BASE>absorción</BASE>
+</LANG>
+</TRAD>
+<TRAD num="38" valid="yes">
+<LANG type="fr">
+<TERM>prévention</TERM>
+<LEM>prévention</LEM>
+<BASE>prévention</BASE>
+</LANG>
+<LANG type="es">
+<TERM>prevención</TERM>
+<LEM>prevención</LEM>
+<BASE>prevención</BASE>
+</LANG>
+</TRAD>
+<TRAD num="39" valid="yes">
+<LANG type="fr">
+<TERM>hormone</TERM>
+<LEM>hormone</LEM>
+<BASE>hormone</BASE>
+</LANG>
+<LANG type="es">
+<TERM>hormona</TERM>
+<LEM>hormona</LEM>
+<BASE>hormona</BASE>
+</LANG>
+</TRAD>
+<TRAD num="40" valid="yes">
+<LANG type="fr">
+<TERM>radiologie</TERM>
+<LEM>radiologie</LEM>
+<BASE>radiologie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>radiología</TERM>
+<LEM>radiología</LEM>
+<BASE>radiología</BASE>
+</LANG>
+</TRAD>
+<TRAD num="41" valid="yes">
+<LANG type="fr">
+<TERM>adn</TERM>
+<LEM>adn</LEM>
+<BASE>adn</BASE>
+</LANG>
+<LANG type="es">
+<TERM>dna</TERM>
+<LEM>dna</LEM>
+<BASE>dna</BASE>
+</LANG>
+</TRAD>
+<TRAD num="42" valid="yes">
+<LANG type="fr">
+<TERM>cicatrice</TERM>
+<LEM>cicatrice</LEM>
+<BASE>cicatrice</BASE>
+</LANG>
+<LANG type="es">
+<TERM>cicatriz</TERM>
+<LEM>cicatriz</LEM>
+<BASE>cicatriz</BASE>
+</LANG>
+</TRAD>
+<TRAD num="43" valid="yes">
+<LANG type="fr">
+<TERM>comportement</TERM>
+<LEM>comportement</LEM>
+<BASE>comportement</BASE>
+</LANG>
+<LANG type="es">
+<TERM>comportamiento</TERM>
+<LEM>comportamiento</LEM>
+<BASE>comportamiento</BASE>
+</LANG>
+</TRAD>
+<TRAD num="44" valid="yes">
+<LANG type="fr">
+<TERM>phénotype</TERM>
+<LEM>phénotype</LEM>
+<BASE>phénotype</BASE>
+</LANG>
+<LANG type="es">
+<TERM>fenotipo</TERM>
+<LEM>fenotipo</LEM>
+<BASE>fenotipo</BASE>
+</LANG>
+</TRAD>
+<TRAD num="45" valid="yes">
+<LANG type="fr">
+<TERM>apoptose</TERM>
+<LEM>apoptose</LEM>
+<BASE>apoptose</BASE>
+</LANG>
+<LANG type="es">
+<TERM>apoptosis</TERM>
+<LEM>apoptosis</LEM>
+<BASE>apoptosis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="46" valid="yes">
+<LANG type="fr">
+<TERM>cancérologie</TERM>
+<LEM>cancérologie</LEM>
+<BASE>cancérologie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>cáncer</TERM>
+<LEM>cáncer</LEM>
+<BASE>cáncer</BASE>
+</LANG>
+</TRAD>
+<TRAD num="47" valid="yes">
+<LANG type="fr">
+<TERM>épithélium</TERM>
+<LEM>épithélium</LEM>
+<BASE>épithélium</BASE>
+</LANG>
+<LANG type="es">
+<TERM>epitelio</TERM>
+<LEM>epitelio</LEM>
+<BASE>epitelio</BASE>
+</LANG>
+</TRAD>
+<TRAD num="48" valid="yes">
+<LANG type="fr">
+<TERM>oedème</TERM>
+<LEM>oedème</LEM>
+<BASE>oedème</BASE>
+</LANG>
+<LANG type="es">
+<TERM>edema</TERM>
+<LEM>edema</LEM>
+<BASE>edema</BASE>
+</LANG>
+</TRAD>
+<TRAD num="49" valid="yes">
+<LANG type="fr">
+<TERM>cancer</TERM>
+<LEM>cancer</LEM>
+<BASE>cancer</BASE>
+</LANG>
+<LANG type="es">
+<TERM>cáncer</TERM>
+<LEM>cáncer</LEM>
+<BASE>cáncer</BASE>
+</LANG>
+</TRAD>
+<TRAD num="50" valid="yes">
+<LANG type="fr">
+<TERM>thérapeutique</TERM>
+<LEM>thérapeutique</LEM>
+<BASE>thérapeutique</BASE>
+</LANG>
+<LANG type="es">
+<TERM>terapéutico</TERM>
+<LEM>terapéutico</LEM>
+<BASE>terapéutico</BASE>
+</LANG>
+</TRAD>
+<TRAD num="51" valid="yes">
+<LANG type="fr">
+<TERM>thérapie</TERM>
+<LEM>thérapie</LEM>
+<BASE>thérapie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>terapia</TERM>
+<LEM>terapia</LEM>
+<BASE>terapia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="52" valid="yes">
+<LANG type="fr">
+<TERM>envahissement</TERM>
+<LEM>envahissement</LEM>
+<BASE>envahissement</BASE>
+</LANG>
+<LANG type="es">
+<TERM>invasión</TERM>
+<LEM>invasión</LEM>
+<BASE>invasión</BASE>
+</LANG>
+</TRAD>
+<TRAD num="53" valid="yes">
+<LANG type="fr">
+<TERM>spécificité</TERM>
+<LEM>spécificité</LEM>
+<BASE>spécificité</BASE>
+</LANG>
+<LANG type="es">
+<TERM>especificidad</TERM>
+<LEM>especificidad</LEM>
+<BASE>especificidad</BASE>
+</LANG>
+</TRAD>
+<TRAD num="54" valid="yes">
+<LANG type="fr">
+<TERM>reconstruction</TERM>
+<LEM>reconstruction</LEM>
+<BASE>reconstruction</BASE>
+</LANG>
+<LANG type="es">
+<TERM>reconstrucción</TERM>
+<LEM>reconstrucción</LEM>
+<BASE>reconstrucción</BASE>
+</LANG>
+</TRAD>
+<TRAD num="55" valid="yes">
+<LANG type="fr">
+<TERM>cytologie</TERM>
+<LEM>cytologie</LEM>
+<BASE>cytologie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>citología</TERM>
+<LEM>citología</LEM>
+<BASE>citología</BASE>
+</LANG>
+</TRAD>
+<TRAD num="56" valid="yes">
+<LANG type="fr">
+<TERM>morbidité</TERM>
+<LEM>morbidité</LEM>
+<BASE>morbidité</BASE>
+</LANG>
+<LANG type="es">
+<TERM>morbilidad</TERM>
+<LEM>morbilidad</LEM>
+<BASE>morbilidad</BASE>
+</LANG>
+</TRAD>
+<TRAD num="57" valid="yes">
+<LANG type="fr">
+<TERM>hyperplasie</TERM>
+<LEM>hyperplasie</LEM>
+<BASE>hyperplasie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>hiperplasia</TERM>
+<LEM>hiperplasia</LEM>
+<BASE>hiperplasia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="58" valid="yes">
+<LANG type="fr">
+<TERM>antigène</TERM>
+<LEM>antigène</LEM>
+<BASE>antigène</BASE>
+</LANG>
+<LANG type="es">
+<TERM>antígeno</TERM>
+<LEM>antígeno</LEM>
+<BASE>antígeno</BASE>
+</LANG>
+</TRAD>
+<TRAD num="59" valid="yes">
+<LANG type="fr">
+<TERM>anxiété</TERM>
+<LEM>anxiété</LEM>
+<BASE>anxiété</BASE>
+</LANG>
+<LANG type="es">
+<TERM>ansiedad</TERM>
+<LEM>ansiedad</LEM>
+<BASE>ansiedad</BASE>
+</LANG>
+</TRAD>
+<TRAD num="60" valid="yes">
+<LANG type="fr">
+<TERM>altération</TERM>
+<LEM>altération</LEM>
+<BASE>altération</BASE>
+</LANG>
+<LANG type="es">
+<TERM>modificación</TERM>
+<LEM>modificación</LEM>
+<BASE>modificación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="61" valid="yes">
+<LANG type="fr">
+<TERM>radiothérapie</TERM>
+<LEM>radiothérapie</LEM>
+<BASE>radiothérapie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>radioterapia</TERM>
+<LEM>radioterapia</LEM>
+<BASE>radioterapia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="62" valid="yes">
+<LANG type="fr">
+<TERM>inhibiteur</TERM>
+<LEM>inhibiteur</LEM>
+<BASE>inhibiteur</BASE>
+</LANG>
+<LANG type="es">
+<TERM>inhibidor</TERM>
+<LEM>inhibidor</LEM>
+<BASE>inhibidor</BASE>
+</LANG>
+</TRAD>
+<TRAD num="63" valid="yes">
+<LANG type="fr">
+<TERM>allèle</TERM>
+<LEM>allèle</LEM>
+<BASE>allèle</BASE>
+</LANG>
+<LANG type="es">
+<TERM>alelo</TERM>
+<LEM>alelo</LEM>
+<BASE>alelo</BASE>
+</LANG>
+</TRAD>
+<TRAD num="64" valid="yes">
+<LANG type="fr">
+<TERM>estrogène</TERM>
+<LEM>estrogène</LEM>
+<BASE>estrogène</BASE>
+</LANG>
+<LANG type="es">
+<TERM>estrógeno</TERM>
+<LEM>estrógeno</LEM>
+<BASE>estrógeno</BASE>
+</LANG>
+</TRAD>
+<TRAD num="65" valid="yes">
+<LANG type="fr">
+<TERM>angiogenèse</TERM>
+<LEM>angiogenèse</LEM>
+<BASE>angiogenèse</BASE>
+</LANG>
+<LANG type="es">
+<TERM>angiogénesis</TERM>
+<LEM>angiogénesis</LEM>
+<BASE>angiogénesis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="66" valid="yes">
+<LANG type="fr">
+<TERM>diagnostic</TERM>
+<LEM>diagnostic</LEM>
+<BASE>diagnostic</BASE>
+</LANG>
+<LANG type="es">
+<TERM>diagnóstico</TERM>
+<LEM>diagnóstico</LEM>
+<BASE>diagnóstico</BASE>
+</LANG>
+</TRAD>
+<TRAD num="67" valid="yes">
+<LANG type="fr">
+<TERM>complication</TERM>
+<LEM>complication</LEM>
+<BASE>complication</BASE>
+</LANG>
+<LANG type="es">
+<TERM>complicación</TERM>
+<LEM>complicación</LEM>
+<BASE>complicación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="68" valid="yes">
+<LANG type="fr">
+<TERM>biopsie</TERM>
+<LEM>biopsie</LEM>
+<BASE>biopsie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>biopsia</TERM>
+<LEM>biopsia</LEM>
+<BASE>biopsia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="69" valid="yes">
+<LANG type="fr">
+<TERM>épidémiologie</TERM>
+<LEM>épidémiologie</LEM>
+<BASE>épidémiologie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>epidemiología</TERM>
+<LEM>epidemiología</LEM>
+<BASE>epidemiología</BASE>
+</LANG>
+</TRAD>
+<TRAD num="70" valid="yes">
+<LANG type="fr">
+<TERM>irradiation</TERM>
+<LEM>irradiation</LEM>
+<BASE>irradiation</BASE>
+</LANG>
+<LANG type="es">
+<TERM>irradiación</TERM>
+<LEM>irradiación</LEM>
+<BASE>irradiación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="71" valid="yes">
+<LANG type="fr">
+<TERM>insuline</TERM>
+<LEM>insuline</LEM>
+<BASE>insuline</BASE>
+</LANG>
+<LANG type="es">
+<TERM>insulina</TERM>
+<LEM>insulina</LEM>
+<BASE>insulina</BASE>
+</LANG>
+</TRAD>
+<TRAD num="72" valid="yes">
+<LANG type="fr">
+<TERM>prévalence</TERM>
+<LEM>prévalence</LEM>
+<BASE>prévalence</BASE>
+</LANG>
+<LANG type="es">
+<TERM>predominio</TERM>
+<LEM>predominio</LEM>
+<BASE>predominio</BASE>
+</LANG>
+</TRAD>
+<TRAD num="73" valid="yes">
+<LANG type="fr">
+<TERM>syndrome</TERM>
+<LEM>syndrome</LEM>
+<BASE>syndrome</BASE>
+</LANG>
+<LANG type="es">
+<TERM>síndrome</TERM>
+<LEM>síndrome</LEM>
+<BASE>síndrome</BASE>
+</LANG>
+</TRAD>
+<TRAD num="74" valid="yes">
+<LANG type="fr">
+<TERM>tumeur</TERM>
+<LEM>tumeur</LEM>
+<BASE>tumeur</BASE>
+</LANG>
+<LANG type="es">
+<TERM>tumor</TERM>
+<LEM>tumor</LEM>
+<BASE>tumor</BASE>
+</LANG>
+</TRAD>
+<TRAD num="75" valid="yes">
+<LANG type="fr">
+<TERM>progestérone</TERM>
+<LEM>progestérone</LEM>
+<BASE>progestérone</BASE>
+</LANG>
+<LANG type="es">
+<TERM>progesterona</TERM>
+<LEM>progesterona</LEM>
+<BASE>progesterona</BASE>
+</LANG>
+</TRAD>
+<TRAD num="76" valid="yes">
+<LANG type="fr">
+<TERM>pronostic</TERM>
+<LEM>pronostic</LEM>
+<BASE>pronostic</BASE>
+</LANG>
+<LANG type="es">
+<TERM>pronóstico</TERM>
+<LEM>pronóstico</LEM>
+<BASE>pronóstico</BASE>
+</LANG>
+</TRAD>
+<TRAD num="77" valid="yes">
+<LANG type="fr">
+<TERM>hybridation</TERM>
+<LEM>hybridation</LEM>
+<BASE>hybridation</BASE>
+</LANG>
+<LANG type="es">
+<TERM>hibridación</TERM>
+<LEM>hibridación</LEM>
+<BASE>hibridación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="78" valid="yes">
+<LANG type="fr">
+<TERM>drainage</TERM>
+<LEM>drainage</LEM>
+<BASE>drainage</BASE>
+</LANG>
+<LANG type="es">
+<TERM>drenaje</TERM>
+<LEM>drenaje</LEM>
+<BASE>drenaje</BASE>
+</LANG>
+</TRAD>
+<TRAD num="79" valid="yes">
+<LANG type="fr">
+<TERM>génome</TERM>
+<LEM>génome</LEM>
+<BASE>génome</BASE>
+</LANG>
+<LANG type="es">
+<TERM>genoma</TERM>
+<LEM>genoma</LEM>
+<BASE>genoma</BASE>
+</LANG>
+</TRAD>
+<TRAD num="80" valid="yes">
+<LANG type="fr">
+<TERM>morphologie</TERM>
+<LEM>morphologie</LEM>
+<BASE>morphologie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>morfología</TERM>
+<LEM>morfología</LEM>
+<BASE>morfología</BASE>
+</LANG>
+</TRAD>
+<TRAD num="81" valid="yes">
+<LANG type="fr">
+<TERM>nausée</TERM>
+<LEM>nausée</LEM>
+<BASE>nausée</BASE>
+</LANG>
+<LANG type="es">
+<TERM>náusea</TERM>
+<LEM>náusea</LEM>
+<BASE>náusea</BASE>
+</LANG>
+</TRAD>
+<TRAD num="82" valid="yes">
+<LANG type="fr">
+<TERM>inflammation</TERM>
+<LEM>inflammation</LEM>
+<BASE>inflammation</BASE>
+</LANG>
+<LANG type="es">
+<TERM>inflamación</TERM>
+<LEM>inflamación</LEM>
+<BASE>inflamación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="83" valid="yes">
+<LANG type="fr">
+<TERM>aisselle</TERM>
+<LEM>aisselle</LEM>
+<BASE>aisselle</BASE>
+</LANG>
+<LANG type="es">
+<TERM>axila</TERM>
+<LEM>axila</LEM>
+<BASE>axila</BASE>
+</LANG>
+</TRAD>
+<TRAD num="84" valid="yes">
+<LANG type="fr">
+<TERM>sarcome</TERM>
+<LEM>sarcome</LEM>
+<BASE>sarcome</BASE>
+</LANG>
+<LANG type="es">
+<TERM>sarcoma</TERM>
+<LEM>sarcoma</LEM>
+<BASE>sarcoma</BASE>
+</LANG>
+</TRAD>
+<TRAD num="85" valid="yes">
+<LANG type="fr">
+<TERM>toxicité</TERM>
+<LEM>toxicité</LEM>
+<BASE>toxicité</BASE>
+</LANG>
+<LANG type="es">
+<TERM>toxicidad</TERM>
+<LEM>toxicidad</LEM>
+<BASE>toxicidad</BASE>
+</LANG>
+</TRAD>
+<TRAD num="86" valid="yes">
+<LANG type="fr">
+<TERM>mammographie</TERM>
+<LEM>mammographie</LEM>
+<BASE>mammographie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>mamografía</TERM>
+<LEM>mamografía</LEM>
+<BASE>mamografía</BASE>
+</LANG>
+</TRAD>
+<TRAD num="87" valid="yes">
+<LANG type="fr">
+<TERM>mutation</TERM>
+<LEM>mutation</LEM>
+<BASE>mutation</BASE>
+</LANG>
+<LANG type="es">
+<TERM>mutación</TERM>
+<LEM>mutación</LEM>
+<BASE>mutación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="88" valid="yes">
+<LANG type="fr">
+<TERM>radiation</TERM>
+<LEM>radiation</LEM>
+<BASE>radiation</BASE>
+</LANG>
+<LANG type="es">
+<TERM>radiación</TERM>
+<LEM>radiación</LEM>
+<BASE>radiación</BASE>
+</LANG>
+</TRAD>
+<TRAD num="89" valid="yes">
+<LANG type="fr">
+<TERM>arn</TERM>
+<LEM>arn</LEM>
+<BASE>arn</BASE>
+</LANG>
+<LANG type="es">
+<TERM>arn</TERM>
+<LEM>arn</LEM>
+<BASE>arn</BASE>
+</LANG>
+</TRAD>
+<TRAD num="90" valid="yes">
+<LANG type="fr">
+<TERM>hétérogénéité</TERM>
+<LEM>hétérogénéité</LEM>
+<BASE>hétérogénéité</BASE>
+</LANG>
+<LANG type="es">
+<TERM>heterogeneidad</TERM>
+<LEM>heterogeneidad</LEM>
+<BASE>heterogeneidad</BASE>
+</LANG>
+</TRAD>
+<TRAD num="91" valid="yes">
+<LANG type="fr">
+<TERM>anesthésie</TERM>
+<LEM>anesthésie</LEM>
+<BASE>anesthésie</BASE>
+</LANG>
+<LANG type="es">
+<TERM>anestesia</TERM>
+<LEM>anestesia</LEM>
+<BASE>anestesia</BASE>
+</LANG>
+</TRAD>
+<TRAD num="92" valid="yes">
+<LANG type="fr">
+<TERM>marqueur</TERM>
+<LEM>marqueur</LEM>
+<BASE>marqueur</BASE>
+</LANG>
+<LANG type="es">
+<TERM>marcador</TERM>
+<LEM>marcador</LEM>
+<BASE>marcador</BASE>
+</LANG>
+</TRAD>
+<TRAD num="93" valid="yes">
+<LANG type="fr">
+<TERM>mamelon</TERM>
+<LEM>mamelon</LEM>
+<BASE>mamelon</BASE>
+</LANG>
+<LANG type="es">
+<TERM>pezón</TERM>
+<LEM>pezón</LEM>
+<BASE>pezón</BASE>
+</LANG>
+</TRAD>
+<TRAD num="94" valid="yes">
+<LANG type="fr">
+<TERM>symptôme</TERM>
+<LEM>symptôme</LEM>
+<BASE>symptôme</BASE>
+</LANG>
+<LANG type="es">
+<TERM>síntoma</TERM>
+<LEM>síntoma</LEM>
+<BASE>síntoma</BASE>
+</LANG>
+</TRAD>
+<TRAD num="95" valid="yes">
+<LANG type="fr">
+<TERM>métabolisme</TERM>
+<LEM>métabolisme</LEM>
+<BASE>métabolisme</BASE>
+</LANG>
+<LANG type="es">
+<TERM>metabolismo</TERM>
+<LEM>metabolismo</LEM>
+<BASE>metabolismo</BASE>
+</LANG>
+</TRAD>
+<TRAD num="96" valid="yes">
+<LANG type="fr">
+<TERM>sérum</TERM>
+<LEM>sérum</LEM>
+<BASE>sérum</BASE>
+</LANG>
+<LANG type="es">
+<TERM>suero</TERM>
+<LEM>suero</LEM>
+<BASE>suero</BASE>
+</LANG>
+</TRAD>
+<TRAD num="97" valid="yes">
+<LANG type="fr">
+<TERM>berge</TERM>
+<LEM>berge</LEM>
+<BASE>berge</BASE>
+</LANG>
+<LANG type="es">
+<TERM>margen</TERM>
+<LEM>margen</LEM>
+<BASE>margen</BASE>
+</LANG>
+</TRAD>
+</LISTTRAD>

@@ -1,0 +1,3978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LISTTRAD>
+
+<TRAD num="1" valid="yes">
+<LANG type="fr">
+  <TERM>acétate</TERM>
+  <LEM>acétate</LEM>
+  <BASE>acétate</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>acetate</TERM>
+  <LEM>acetate</LEM>
+  <BASE>acetate</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="2" valid="yes">
+<LANG type="fr">
+  <TERM>adjuvant</TERM>
+  <LEM>adjuvant</LEM>
+  <BASE>adjuvant</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>adjuvant</TERM>
+  <LEM>adjuvant</LEM>
+  <BASE>adjuvant</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="3" valid="yes">
+<LANG type="fr">
+  <TERM>adn</TERM>
+  <LEM>adn</LEM>
+  <BASE>adn</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>dna</TERM>
+  <LEM>dna</LEM>
+  <BASE>dna</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="4" valid="yes">
+<LANG type="fr">
+  <TERM>aisselle</TERM>
+  <LEM>aisselle</LEM>
+  <BASE>aisselle</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>axilla</TERM>
+  <LEM>axilla</LEM>
+  <BASE>axilla</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="5" valid="yes">
+<LANG type="fr">
+  <TERM>allèle</TERM>
+  <LEM>allèle</LEM>
+  <BASE>allèle</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>allele</TERM>
+  <LEM>allele</LEM>
+  <BASE>allele</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="6" valid="yes">
+<LANG type="fr">
+  <TERM>altération</TERM>
+  <LEM>altération</LEM>
+  <BASE>altération</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>alteration</TERM>
+  <LEM>alteration</LEM>
+  <BASE>alteration</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="7" valid="yes">
+<LANG type="fr">
+  <TERM>anastrozole</TERM>
+  <LEM>anastrozole</LEM>
+  <BASE>anastrozole</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>anastrozole</TERM>
+  <LEM>anastrozole</LEM>
+  <BASE>anastrozole</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="8" valid="yes">
+<LANG type="fr">
+  <TERM>angiogenèse</TERM>
+  <LEM>angiogenèse</LEM>
+  <BASE>angiogenèse</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>angiogenesis</TERM>
+  <LEM>angiogenesis</LEM>
+  <BASE>angiogenesis</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="9" valid="yes">
+<LANG type="fr">
+  <TERM>anomalie</TERM>
+  <LEM>anomalie</LEM>
+  <BASE>anomalie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>abnormality</TERM>
+  <LEM>abnormality</LEM>
+  <BASE>abnormality</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="10" valid="yes">
+<LANG type="fr">
+  <TERM>antécédent</TERM>
+  <LEM>antécédent</LEM>
+  <BASE>antécédent</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>history</TERM>
+  <LEM>history</LEM>
+  <BASE>history</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="11" valid="yes">
+<LANG type="fr">
+  <TERM>anthracycline</TERM>
+  <LEM>anthracycline</LEM>
+  <BASE>anthracycline</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>anthracycline</TERM>
+  <LEM>anthracycline</LEM>
+  <BASE>anthracycline</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="12" valid="yes">
+<LANG type="fr">
+  <TERM>anticorps</TERM>
+  <LEM>anticorps</LEM>
+  <BASE>anticorps</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>antibody</TERM>
+  <LEM>antibody</LEM>
+  <BASE>antibody</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="13" valid="yes">
+<LANG type="fr">
+  <TERM>antigène</TERM>
+  <LEM>antigène</LEM>
+  <BASE>antigène</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>antigen</TERM>
+  <LEM>antigen</LEM>
+  <BASE>antigen</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="14" valid="yes">
+<LANG type="fr">
+  <TERM>anxiété</TERM>
+  <LEM>anxiété</LEM>
+  <BASE>anxiété</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>anxiety</TERM>
+  <LEM>anxiety</LEM>
+  <BASE>anxiety</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="15" valid="yes">
+<LANG type="fr">
+  <TERM>apoptose</TERM>
+  <LEM>apoptose</LEM>
+  <BASE>apoptose</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>apoptosis</TERM>
+  <LEM>apoptosis</LEM>
+  <BASE>apoptosis</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="16" valid="yes">
+<LANG type="fr">
+  <TERM>aromatase</TERM>
+  <LEM>aromatase</LEM>
+  <BASE>aromatase</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>aromatase</TERM>
+  <LEM>aromatase</LEM>
+  <BASE>aromatase</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="17" valid="yes">
+<LANG type="fr">
+  <TERM>berge</TERM>
+  <LEM>berge</LEM>
+  <BASE>berge</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>margin</TERM>
+  <LEM>margin</LEM>
+  <BASE>margin</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="18" valid="yes">
+<LANG type="fr">
+  <TERM>biopsie</TERM>
+  <LEM>biopsie</LEM>
+  <BASE>biopsie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>biopsy</TERM>
+  <LEM>biopsy</LEM>
+  <BASE>biopsy</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="19" valid="yes">
+<LANG type="fr">
+  <TERM>cancer</TERM>
+  <LEM>cancer</LEM>
+  <BASE>cancer</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>cancer</TERM>
+  <LEM>cancer</LEM>
+  <BASE>cancer</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="20" valid="yes">
+<LANG type="fr">
+  <TERM>cancérologie</TERM>
+  <LEM>cancérologie</LEM>
+  <BASE>cancérologie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>oncology</TERM>
+  <LEM>oncology</LEM>
+  <BASE>oncology</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="21" valid="yes">
+<LANG type="fr">
+  <TERM>carcinogenèse</TERM>
+  <LEM>carcinogenèse</LEM>
+  <BASE>carcinogenèse</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>carcinogenesis</TERM>
+  <LEM>carcinogenesis</LEM>
+  <BASE>carcinogenesis</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="22" valid="yes">
+<LANG type="fr">
+  <TERM>carcinome</TERM>
+  <LEM>carcinome</LEM>
+  <BASE>carcinome</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>carcinoma</TERM>
+  <LEM>carcinoma</LEM>
+  <BASE>carcinoma</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="23" valid="yes">
+<LANG type="fr">
+  <TERM>centrifugation</TERM>
+  <LEM>centrifugation</LEM>
+  <BASE>centrifugation</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>centrifugation</TERM>
+  <LEM>centrifugation</LEM>
+  <BASE>centrifugation</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="24" valid="yes">
+<LANG type="fr">
+  <TERM>cerveau</TERM>
+  <LEM>cerveau</LEM>
+  <BASE>cerveau</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>brain</TERM>
+  <LEM>brain</LEM>
+  <BASE>brain</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="25" valid="yes">
+<LANG type="fr">
+  <TERM>échantillon</TERM>
+  <LEM>échantillon</LEM>
+  <BASE>échantillon</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>sample</TERM>
+  <LEM>sample</LEM>
+  <BASE>sample</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="26" valid="yes">
+<LANG type="fr">
+  <TERM>chimiothérapie</TERM>
+  <LEM>chimiothérapie</LEM>
+  <BASE>chimiothérapie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>chemotherapy</TERM>
+  <LEM>chemotherapy</LEM>
+  <BASE>chemotherapy</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="27" valid="yes">
+<LANG type="fr">
+  <TERM>chirurgie</TERM>
+  <LEM>chirurgie</LEM>
+  <BASE>chirurgie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>surgery</TERM>
+  <LEM>surgery</LEM>
+  <BASE>surgery</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="28" valid="yes">
+<LANG type="fr">
+  <TERM>échographie</TERM>
+  <LEM>échographie</LEM>
+  <BASE>échographie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>ultrasound</TERM>
+  <LEM>ultrasound</LEM>
+  <BASE>ultrasound</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="29" valid="yes">
+<LANG type="fr">
+  <TERM>chromosome</TERM>
+  <LEM>chromosome</LEM>
+  <BASE>chromosome</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>chromosome</TERM>
+  <LEM>chromosome</LEM>
+  <BASE>chromosome</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="30" valid="no">
+<LANG type="fr">
+  <TERM>clinicien</TERM>
+  <LEM>clinicien</LEM>
+  <BASE>clinicien</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>clinician</TERM>
+  <LEM>clinician</LEM>
+  <BASE>clinician</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="31" valid="yes">
+<LANG type="fr">
+  <TERM>complication</TERM>
+  <LEM>complication</LEM>
+  <BASE>complication</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>complication</TERM>
+  <LEM>complication</LEM>
+  <BASE>complication</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="32" valid="yes">
+<LANG type="fr">
+  <TERM>curage</TERM>
+  <LEM>curage</LEM>
+  <BASE>curage</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>dissection</TERM>
+  <LEM>dissection</LEM>
+  <BASE>dissection</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="33" valid="yes">
+<LANG type="fr">
+  <TERM>cycline</TERM>
+  <LEM>cycline</LEM>
+  <BASE>cycline</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>cyclin</TERM>
+  <LEM>cyclin</LEM>
+  <BASE>cyclin</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="34" valid="yes">
+<LANG type="fr">
+  <TERM>cyclophosphamide</TERM>
+  <LEM>cyclophosphamide</LEM>
+  <BASE>cyclophosphamide</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>cyclophosphamide</TERM>
+  <LEM>cyclophosphamide</LEM>
+  <BASE>cyclophosphamide</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="35" valid="yes">
+<LANG type="fr">
+  <TERM>décès</TERM>
+  <LEM>décès</LEM>
+  <BASE>décès</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>death</TERM>
+  <LEM>death</LEM>
+  <BASE>death</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="36" valid="yes">
+<LANG type="fr">
+  <TERM>diagnostic</TERM>
+  <LEM>diagnostic</LEM>
+  <BASE>diagnostic</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>diagnosis</TERM>
+  <LEM>diagnosis</LEM>
+  <BASE>diagnosis</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="37" valid="yes">
+<LANG type="fr">
+  <TERM>docétaxel</TERM>
+  <LEM>docétaxel</LEM>
+  <BASE>docétaxel</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>docetaxel</TERM>
+  <LEM>docetaxel</LEM>
+  <BASE>docetaxel</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="38" valid="yes">
+<LANG type="fr">
+  <TERM>douleur</TERM>
+  <LEM>douleur</LEM>
+  <BASE>douleur</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>distress</TERM>
+  <LEM>distress</LEM>
+  <BASE>distress</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="39" valid="yes">
+<LANG type="fr">
+  <TERM>doxorubicine</TERM>
+  <LEM>doxorubicine</LEM>
+  <BASE>doxorubicine</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>doxorubicin</TERM>
+  <LEM>doxorubicin</LEM>
+  <BASE>doxorubicin</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="40" valid="yes">
+<LANG type="fr">
+  <TERM>dépistage</TERM>
+  <LEM>dépistage</LEM>
+  <BASE>dépistage</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>screening</TERM>
+  <LEM>screening</LEM>
+  <BASE>screening</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="41" valid="yes">
+<LANG type="fr">
+  <TERM>dépression</TERM>
+  <LEM>dépression</LEM>
+  <BASE>dépression</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>depression</TERM>
+  <LEM>depression</LEM>
+  <BASE>depression</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="42" valid="yes">
+<LANG type="fr">
+  <TERM>détection</TERM>
+  <LEM>détection</LEM>
+  <BASE>détection</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>detection</TERM>
+  <LEM>detection</LEM>
+  <BASE>detection</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="43" valid="yes">
+<LANG type="fr">
+  <TERM>envahissement</TERM>
+  <LEM>envahissement</LEM>
+  <BASE>envahissement</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>involvement</TERM>
+  <LEM>involvement</LEM>
+  <BASE>involvement</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="44" valid="yes">
+<LANG type="fr">
+  <TERM>estrogène</TERM>
+  <LEM>estrogène</LEM>
+  <BASE>estrogène</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>estrogen</TERM>
+  <LEM>estrogen</LEM>
+  <BASE>estrogen</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="45" valid="yes">
+<LANG type="fr">
+  <TERM>examen</TERM>
+  <LEM>examen</LEM>
+  <BASE>examen</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>examination</TERM>
+  <LEM>examination</LEM>
+  <BASE>examination</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="46" valid="yes">
+<LANG type="fr">
+  <TERM>exemestane</TERM>
+  <LEM>exemestane</LEM>
+  <BASE>exemestane</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>exemestane</TERM>
+  <LEM>exemestane</LEM>
+  <BASE>exemestane</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="47" valid="yes">
+<LANG type="fr">
+  <TERM>exérèse</TERM>
+  <LEM>exérèse</LEM>
+  <BASE>exérèse</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>excision</TERM>
+  <LEM>excision</LEM>
+  <BASE>excision</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="48" valid="yes">
+<LANG type="fr">
+  <TERM>fibrose</TERM>
+  <LEM>fibrose</LEM>
+  <BASE>fibrose</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>fibrosis</TERM>
+  <LEM>fibrosis</LEM>
+  <BASE>fibrosis</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="49" valid="yes">
+<LANG type="fr">
+  <TERM>foie</TERM>
+  <LEM>foie</LEM>
+  <BASE>foie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>liver</TERM>
+  <LEM>liver</LEM>
+  <BASE>liver</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="50" valid="yes">
+<LANG type="fr">
+  <TERM>ganglion</TERM>
+  <LEM>ganglion</LEM>
+  <BASE>ganglion</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>node</TERM>
+  <LEM>node</LEM>
+  <BASE>node</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="51" valid="yes">
+<LANG type="fr">
+  <TERM>gène</TERM>
+  <LEM>gène</LEM>
+  <BASE>gène</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>gene</TERM>
+  <LEM>gene</LEM>
+  <BASE>gene</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="52" valid="yes">
+<LANG type="fr">
+  <TERM>génome</TERM>
+  <LEM>génome</LEM>
+  <BASE>génome</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>genome</TERM>
+  <LEM>genome</LEM>
+  <BASE>genome</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="53" valid="yes">
+<LANG type="fr">
+  <TERM>génomique</TERM>
+  <LEM>génomique</LEM>
+  <BASE>génomique</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>genomic</TERM>
+  <LEM>genomic</LEM>
+  <BASE>genomic</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="54" valid="yes">
+<LANG type="fr">
+  <TERM>grossesse</TERM>
+  <LEM>grossesse</LEM>
+  <BASE>grossesse</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>pregnancy</TERM>
+  <LEM>pregnancy</LEM>
+  <BASE>pregnancy</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="55" valid="yes">
+<LANG type="fr">
+  <TERM>guérison</TERM>
+  <LEM>guérison</LEM>
+  <BASE>guérison</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>recovery</TERM>
+  <LEM>recovery</LEM>
+  <BASE>recovery</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="56" valid="yes">
+<LANG type="fr">
+  <TERM>histologie</TERM>
+  <LEM>histologie</LEM>
+  <BASE>histologie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>histology</TERM>
+  <LEM>histology</LEM>
+  <BASE>histology</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="57" valid="yes">
+<LANG type="fr">
+  <TERM>hormone</TERM>
+  <LEM>hormone</LEM>
+  <BASE>hormone</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>hormone</TERM>
+  <LEM>hormone</LEM>
+  <BASE>hormone</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="58" valid="yes">
+<LANG type="fr">
+  <TERM>hybridation</TERM>
+  <LEM>hybridation</LEM>
+  <BASE>hybridation</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>hybridization</TERM>
+  <LEM>hybridization</LEM>
+  <BASE>hybridization</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="59" valid="yes">
+<LANG type="fr">
+  <TERM>hyperplasie</TERM>
+  <LEM>hyperplasie</LEM>
+  <BASE>hyperplasie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>hyperplasia</TERM>
+  <LEM>hyperplasia</LEM>
+  <BASE>hyperplasia</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="60" valid="yes">
+<LANG type="fr">
+  <TERM>immunohistochimie</TERM>
+  <LEM>immunohistochimie</LEM>
+  <BASE>immunohistochimie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>immunohistochemistry</TERM>
+  <LEM>immunohistochemistry</LEM>
+  <BASE>immunohistochemistry</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="61" valid="yes">
+<LANG type="fr">
+  <TERM>inhibiteur</TERM>
+  <LEM>inhibiteur</LEM>
+  <BASE>inhibiteur</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>inhibitor</TERM>
+  <LEM>inhibitor</LEM>
+  <BASE>inhibitor</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="62" valid="yes">
+<LANG type="fr">
+  <TERM>inhibition</TERM>
+  <LEM>inhibition</LEM>
+  <BASE>inhibition</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>inhibition</TERM>
+  <LEM>inhibition</LEM>
+  <BASE>inhibition</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="63" valid="yes">
+<LANG type="fr">
+  <TERM>injection</TERM>
+  <LEM>injection</LEM>
+  <BASE>injection</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>injection</TERM>
+  <LEM>injection</LEM>
+  <BASE>injection</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="64" valid="yes">
+<LANG type="fr">
+  <TERM>irm</TERM>
+  <LEM>irm</LEM>
+  <BASE>irm</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>mri</TERM>
+  <LEM>mri</LEM>
+  <BASE>mri</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="65" valid="yes">
+<LANG type="fr">
+  <TERM>irradiation</TERM>
+  <LEM>irradiation</LEM>
+  <BASE>irradiation</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>irradiation</TERM>
+  <LEM>irradiation</LEM>
+  <BASE>irradiation</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="66" valid="yes">
+<LANG type="fr">
+  <TERM>kinase</TERM>
+  <LEM>kinase</LEM>
+  <BASE>kinase</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>kinase</TERM>
+  <LEM>kinase</LEM>
+  <BASE>kinase</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="67" valid="yes">
+<LANG type="fr">
+  <TERM>ligand</TERM>
+  <LEM>ligand</LEM>
+  <BASE>ligand</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>ligand</TERM>
+  <LEM>ligand</LEM>
+  <BASE>ligand</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="68" valid="yes">
+<LANG type="fr">
+  <TERM>lésion</TERM>
+  <LEM>lésion</LEM>
+  <BASE>lésion</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>lesion</TERM>
+  <LEM>lesion</LEM>
+  <BASE>lesion</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="69" valid="yes">
+<LANG type="fr">
+  <TERM>mammographie</TERM>
+  <LEM>mammographie</LEM>
+  <BASE>mammographie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>mammography</TERM>
+  <LEM>mammography</LEM>
+  <BASE>mammography</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="70" valid="yes">
+<LANG type="fr">
+  <TERM>marqueur</TERM>
+  <LEM>marqueur</LEM>
+  <BASE>marqueur</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>marker</TERM>
+  <LEM>marker</LEM>
+  <BASE>marker</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="71" valid="yes">
+<LANG type="fr">
+  <TERM>mastectomie</TERM>
+  <LEM>mastectomie</LEM>
+  <BASE>mastectomie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>mastectomy</TERM>
+  <LEM>mastectomy</LEM>
+  <BASE>mastectomy</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="72" valid="yes">
+<LANG type="fr">
+  <TERM>médicament</TERM>
+  <LEM>médicament</LEM>
+  <BASE>médicament</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>drug</TERM>
+  <LEM>drug</LEM>
+  <BASE>drug</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="73" valid="yes">
+<LANG type="fr">
+  <TERM>membrane</TERM>
+  <LEM>membrane</LEM>
+  <BASE>membrane</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>membrane</TERM>
+  <LEM>membrane</LEM>
+  <BASE>membrane</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="74" valid="yes">
+<LANG type="fr">
+  <TERM>ménopause</TERM>
+  <LEM>ménopause</LEM>
+  <BASE>ménopause</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>menopause</TERM>
+  <LEM>menopause</LEM>
+  <BASE>menopause</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="75" valid="yes">
+<LANG type="fr">
+  <TERM>morbidité</TERM>
+  <LEM>morbidité</LEM>
+  <BASE>morbidité</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>morbidity</TERM>
+  <LEM>morbidity</LEM>
+  <BASE>morbidity</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="76" valid="yes">
+<LANG type="fr">
+  <TERM>morphologie</TERM>
+  <LEM>morphologie</LEM>
+  <BASE>morphologie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>morphology</TERM>
+  <LEM>morphology</LEM>
+  <BASE>morphology</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="77" valid="yes">
+<LANG type="fr">
+  <TERM>mortalité</TERM>
+  <LEM>mortalité</LEM>
+  <BASE>mortalité</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>mortality</TERM>
+  <LEM>mortality</LEM>
+  <BASE>mortality</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="78" valid="yes">
+<LANG type="fr">
+  <TERM>métabolisme</TERM>
+  <LEM>métabolisme</LEM>
+  <BASE>métabolisme</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>metabolism</TERM>
+  <LEM>metabolism</LEM>
+  <BASE>metabolism</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="79" valid="yes">
+<LANG type="fr">
+  <TERM>métastase</TERM>
+  <LEM>métastase</LEM>
+  <BASE>métastase</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>metastasis</TERM>
+  <LEM>metastasis</LEM>
+  <BASE>metastasis</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="80" valid="yes">
+<LANG type="fr">
+  <TERM>muscle</TERM>
+  <LEM>muscle</LEM>
+  <BASE>muscle</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>muscle</TERM>
+  <LEM>muscle</LEM>
+  <BASE>muscle</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="81" valid="yes">
+<LANG type="fr">
+  <TERM>mutation</TERM>
+  <LEM>mutation</LEM>
+  <BASE>mutation</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>mutation</TERM>
+  <LEM>mutation</LEM>
+  <BASE>mutation</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="82" valid="yes">
+<LANG type="fr">
+  <TERM>nausée</TERM>
+  <LEM>nausée</LEM>
+  <BASE>nausée</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>nausea</TERM>
+  <LEM>nausea</LEM>
+  <BASE>nausea</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="83" valid="yes">
+<LANG type="fr">
+  <TERM>oestrogène</TERM>
+  <LEM>oestrogène</LEM>
+  <BASE>oestrogène</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>oestrogen</TERM>
+  <LEM>oestrogen</LEM>
+  <BASE>oestrogen</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="84" valid="yes">
+<LANG type="fr">
+  <TERM>oncologue</TERM>
+  <LEM>oncologue</LEM>
+  <BASE>oncologue</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>oncologist</TERM>
+  <LEM>oncologist</LEM>
+  <BASE>oncologist</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="85" valid="yes">
+<LANG type="fr">
+  <TERM>os</TERM>
+  <LEM>os</LEM>
+  <BASE>os</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>bone</TERM>
+  <LEM>bone</LEM>
+  <BASE>bone</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="86" valid="yes">
+<LANG type="fr">
+  <TERM>ovaire</TERM>
+  <LEM>ovaire</LEM>
+  <BASE>ovaire</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>ovary</TERM>
+  <LEM>ovary</LEM>
+  <BASE>ovary</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="87" valid="yes">
+<LANG type="fr">
+  <TERM>paclitaxel</TERM>
+  <LEM>paclitaxel</LEM>
+  <BASE>paclitaxel</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>paclitaxel</TERM>
+  <LEM>paclitaxel</LEM>
+  <BASE>paclitaxel</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="88" valid="yes">
+<LANG type="fr">
+  <TERM>pathologie</TERM>
+  <LEM>pathologie</LEM>
+  <BASE>pathologie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>pathology</TERM>
+  <LEM>pathology</LEM>
+  <BASE>pathology</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="89" valid="yes">
+<LANG type="fr">
+  <TERM>épirubicine</TERM>
+  <LEM>épirubicine</LEM>
+  <BASE>épirubicine</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>epirubicin</TERM>
+  <LEM>epirubicin</LEM>
+  <BASE>epirubicin</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="90" valid="yes">
+<LANG type="fr">
+  <TERM>poitrine</TERM>
+  <LEM>poitrine</LEM>
+  <BASE>poitrine</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>chest</TERM>
+  <LEM>chest</LEM>
+  <BASE>chest</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="91" valid="yes">
+<LANG type="fr">
+  <TERM>progestérone</TERM>
+  <LEM>progestérone</LEM>
+  <BASE>progestérone</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>progesterone</TERM>
+  <LEM>progesterone</LEM>
+  <BASE>progesterone</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="92" valid="yes">
+<LANG type="fr">
+  <TERM>prolifération</TERM>
+  <LEM>prolifération</LEM>
+  <BASE>prolifération</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>proliferation</TERM>
+  <LEM>proliferation</LEM>
+  <BASE>proliferation</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="93" valid="yes">
+<LANG type="fr">
+  <TERM>pronostic</TERM>
+  <LEM>pronostic</LEM>
+  <BASE>pronostic</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>prognosis</TERM>
+  <LEM>prognosis</LEM>
+  <BASE>prognosis</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="94" valid="yes">
+<LANG type="fr">
+  <TERM>protéine</TERM>
+  <LEM>protéine</LEM>
+  <BASE>protéine</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>protein</TERM>
+  <LEM>protein</LEM>
+  <BASE>protein</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="95" valid="yes">
+<LANG type="fr">
+  <TERM>prévention</TERM>
+  <LEM>prévention</LEM>
+  <BASE>prévention</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>prevention</TERM>
+  <LEM>prevention</LEM>
+  <BASE>prevention</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="96" valid="yes">
+<LANG type="fr">
+  <TERM>radiologue</TERM>
+  <LEM>radiologue</LEM>
+  <BASE>radiologue</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>radiologist</TERM>
+  <LEM>radiologist</LEM>
+  <BASE>radiologist</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="97" valid="yes">
+<LANG type="fr">
+  <TERM>radiothérapie</TERM>
+  <LEM>radiothérapie</LEM>
+  <BASE>radiothérapie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>radiotherapy</TERM>
+  <LEM>radiotherapy</LEM>
+  <BASE>radiotherapy</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="98" valid="yes">
+<LANG type="fr">
+  <TERM>récepteur</TERM>
+  <LEM>récepteur</LEM>
+  <BASE>récepteur</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>receptor</TERM>
+  <LEM>receptor</LEM>
+  <BASE>receptor</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="99" valid="yes">
+<LANG type="fr">
+  <TERM>récidive</TERM>
+  <LEM>récidive</LEM>
+  <BASE>récidive</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>recurrence</TERM>
+  <LEM>recurrence</LEM>
+  <BASE>recurrence</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="100" valid="yes">
+<LANG type="fr">
+  <TERM>rechute</TERM>
+  <LEM>rechute</LEM>
+  <BASE>rechute</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>relapse</TERM>
+  <LEM>relapse</LEM>
+  <BASE>relapse</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="101" valid="yes">
+<LANG type="fr">
+  <TERM>recommandation</TERM>
+  <LEM>recommandation</LEM>
+  <BASE>recommandation</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>recommendation</TERM>
+  <LEM>recommendation</LEM>
+  <BASE>recommendation</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="102" valid="yes">
+<LANG type="fr">
+  <TERM>reconstruction</TERM>
+  <LEM>reconstruction</LEM>
+  <BASE>reconstruction</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>reconstruction</TERM>
+  <LEM>reconstruction</LEM>
+  <BASE>reconstruction</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="103" valid="yes">
+<LANG type="fr">
+  <TERM>résection</TERM>
+  <LEM>résection</LEM>
+  <BASE>résection</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>resection</TERM>
+  <LEM>resection</LEM>
+  <BASE>resection</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="104" valid="yes">
+<LANG type="fr">
+  <TERM>résistance</TERM>
+  <LEM>résistance</LEM>
+  <BASE>résistance</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>resistance</TERM>
+  <LEM>resistance</LEM>
+  <BASE>resistance</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="105" valid="no">
+<LANG type="fr">
+  <TERM>santé</TERM>
+  <LEM>santé</LEM>
+  <BASE>santé</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>health</TERM>
+  <LEM>health</LEM>
+  <BASE>health</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="106" valid="yes">
+<LANG type="fr">
+  <TERM>sein</TERM>
+  <LEM>sein</LEM>
+  <BASE>sein</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>breast</TERM>
+  <LEM>breast</LEM>
+  <BASE>breast</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="107" valid="yes">
+<LANG type="fr">
+  <TERM>soin</TERM>
+  <LEM>soin</LEM>
+  <BASE>soin</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>care</TERM>
+  <LEM>care</LEM>
+  <BASE>care</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="108" valid="yes">
+<LANG type="fr">
+  <TERM>sonde</TERM>
+  <LEM>sonde</LEM>
+  <BASE>sonde</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>probe</TERM>
+  <LEM>probe</LEM>
+  <BASE>probe</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="109" valid="yes">
+<LANG type="fr">
+  <TERM>sérum</TERM>
+  <LEM>sérum</LEM>
+  <BASE>sérum</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>serum</TERM>
+  <LEM>serum</LEM>
+  <BASE>serum</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="110" valid="yes">
+<LANG type="fr">
+  <TERM>surdosage</TERM>
+  <LEM>surdosage</LEM>
+  <BASE>surdosage</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>boost</TERM>
+  <LEM>boost</LEM>
+  <BASE>boost</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="111" valid="yes">
+<LANG type="fr">
+  <TERM>survie</TERM>
+  <LEM>survie</LEM>
+  <BASE>survie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>survival</TERM>
+  <LEM>survival</LEM>
+  <BASE>survival</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="112" valid="yes">
+<LANG type="fr">
+  <TERM>symptôme</TERM>
+  <LEM>symptôme</LEM>
+  <BASE>symptôme</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>symptom</TERM>
+  <LEM>symptom</LEM>
+  <BASE>symptom</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="113" valid="yes">
+<LANG type="fr">
+  <TERM>syndrome</TERM>
+  <LEM>syndrome</LEM>
+  <BASE>syndrome</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>syndrome</TERM>
+  <LEM>syndrome</LEM>
+  <BASE>syndrome</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="114" valid="yes">
+<LANG type="fr">
+  <TERM>tamoxifène</TERM>
+  <LEM>tamoxifène</LEM>
+  <BASE>tamoxifène</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>tamoxifen</TERM>
+  <LEM>tamoxifen</LEM>
+  <BASE>tamoxifen</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="115" valid="yes">
+<LANG type="fr">
+  <TERM>taxane</TERM>
+  <LEM>taxane</LEM>
+  <BASE>taxane</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>taxane</TERM>
+  <LEM>taxane</LEM>
+  <BASE>taxane</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="116" valid="yes">
+<LANG type="fr">
+  <TERM>thérapie</TERM>
+  <LEM>thérapie</LEM>
+  <BASE>thérapie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>therapy</TERM>
+  <LEM>therapy</LEM>
+  <BASE>therapy</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="117" valid="yes">
+<LANG type="fr">
+  <TERM>toxicité</TERM>
+  <LEM>toxicité</LEM>
+  <BASE>toxicité</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>toxicity</TERM>
+  <LEM>toxicity</LEM>
+  <BASE>toxicity</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="118" valid="yes">
+<LANG type="fr">
+  <TERM>traitement</TERM>
+  <LEM>traitement</LEM>
+  <BASE>traitement</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>treatment</TERM>
+  <LEM>treatment</LEM>
+  <BASE>treatment</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="119" valid="yes">
+<LANG type="fr">
+  <TERM>trastuzumab</TERM>
+  <LEM>trastuzumab</LEM>
+  <BASE>trastuzumab</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>trastuzumab</TERM>
+  <LEM>trastuzumab</LEM>
+  <BASE>trastuzumab</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="120" valid="yes">
+<LANG type="fr">
+  <TERM>tumeur</TERM>
+  <LEM>tumeur</LEM>
+  <BASE>tumeur</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>tumor</TERM>
+  <LEM>tumor</LEM>
+  <BASE>tumor</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="121" valid="no">
+<LANG type="fr">
+  <TERM>vitamine</TERM>
+  <LEM>vitamine</LEM>
+  <BASE>vitamine</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>vitamin</TERM>
+  <LEM>vitamin</LEM>
+  <BASE>vitamin</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="122" valid="yes">
+<LANG type="fr">
+  <TERM>zonectomie</TERM>
+  <LEM>zonectomie</LEM>
+  <BASE>zonectomie</BASE>
+</LANG>
+ <LANG type="en">
+  <TERM>lumpectomy</TERM>
+  <LEM>lumpectomy</LEM>
+  <BASE>lumpectomy</BASE>
+ </LANG>
+</TRAD>
+
+<TRAD num="123" valid="yes">
+<LANG type="en">
+<TERM>incidence</TERM>
+<LEM>incidence</LEM>
+<BASE>incidence</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>incidence</TERM>
+<LEM>incidence</LEM>
+<BASE>incidence</BASE>
+</LANG>
+</TRAD>
+<TRAD num="124" valid="no">
+<LANG type="en">
+<TERM>futility</TERM>
+<LEM>futility</LEM>
+<BASE>futility</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>limitation</TERM>
+<LEM>limitation</LEM>
+<BASE>limitation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="125" valid="no">
+<LANG type="en">
+<TERM>reading</TERM>
+<LEM>reading</LEM>
+<BASE>reading</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lecture</TERM>
+<LEM>lecture</LEM>
+<BASE>lecture</BASE>
+</LANG>
+</TRAD>
+<TRAD num="126" valid="yes">
+<LANG type="en">
+<TERM>ability</TERM>
+<LEM>ability</LEM>
+<BASE>ability</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>capacité</TERM>
+<LEM>capacité</LEM>
+<BASE>capacité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="127" valid="no">
+<LANG type="en">
+<TERM>consensus</TERM>
+<LEM>consensus</LEM>
+<BASE>consensus</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>consensus</TERM>
+<LEM>consensus</LEM>
+<BASE>consensus</BASE>
+</LANG>
+</TRAD>
+<TRAD num="128" valid="yes">
+<LANG type="en">
+<TERM>mitoxantrone</TERM>
+<LEM>mitoxantrone</LEM>
+<BASE>mitoxantrone</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mitoxantrone</TERM>
+<LEM>mitoxantrone</LEM>
+<BASE>mitoxantrone</BASE>
+</LANG>
+</TRAD>
+<TRAD num="129" valid="no">
+<LANG type="en">
+<TERM>animal</TERM>
+<LEM>animal</LEM>
+<BASE>animal</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>animal</TERM>
+<LEM>animal</LEM>
+<BASE>animal</BASE>
+</LANG>
+</TRAD>
+<TRAD num="130" valid="yes">
+<LANG type="en">
+<TERM>cisplatin</TERM>
+<LEM>cisplatin</LEM>
+<BASE>cisplatin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>cisplatine</TERM>
+<LEM>cisplatine</LEM>
+<BASE>cisplatine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="131" valid="no">
+<LANG type="en">
+<TERM>review</TERM>
+<LEM>review</LEM>
+<BASE>review</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>revue</TERM>
+<LEM>revue</LEM>
+<BASE>revue</BASE>
+</LANG>
+</TRAD>
+<TRAD num="132" valid="yes">
+<LANG type="en">
+<TERM>back</TERM>
+<LEM>back</LEM>
+<BASE>back</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>dos</TERM>
+<LEM>dos</LEM>
+<BASE>dos</BASE>
+</LANG>
+</TRAD>
+<TRAD num="133" valid="no">
+<LANG type="en">
+<TERM>play</TERM>
+<LEM>play</LEM>
+<BASE>play</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>jeu</TERM>
+<LEM>jeu</LEM>
+<BASE>jeu</BASE>
+</LANG>
+</TRAD>
+<TRAD num="134" valid="no">
+<LANG type="en">
+<TERM>collaboration</TERM>
+<LEM>collaboration</LEM>
+<BASE>collaboration</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>collaboration</TERM>
+<LEM>collaboration</LEM>
+<BASE>collaboration</BASE>
+</LANG>
+</TRAD>
+<TRAD num="135" valid="yes">
+<LANG type="en">
+<TERM>spine</TERM>
+<LEM>spine</LEM>
+<BASE>spine</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rachis</TERM>
+<LEM>rachis</LEM>
+<BASE>rachis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="136" valid="no">
+<LANG type="en">
+<TERM>literature</TERM>
+<LEM>literature</LEM>
+<BASE>literature</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>littérature</TERM>
+<LEM>littérature</LEM>
+<BASE>littérature</BASE>
+</LANG>
+</TRAD>
+<TRAD num="137" valid="yes">
+<LANG type="en">
+<TERM>insulin</TERM>
+<LEM>insulin</LEM>
+<BASE>insulin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>insuline</TERM>
+<LEM>insuline</LEM>
+<BASE>insuline</BASE>
+</LANG>
+</TRAD>
+<TRAD num="138" valid="yes">
+<LANG type="en">
+<TERM>birth</TERM>
+<LEM>birth</LEM>
+<BASE>birth</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>naissance</TERM>
+<LEM>naissance</LEM>
+<BASE>naissance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="139" valid="yes">
+<LANG type="en">
+<TERM>spleen</TERM>
+<LEM>spleen</LEM>
+<BASE>spleen</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rate</TERM>
+<LEM>rate</LEM>
+<BASE>rate</BASE>
+</LANG>
+</TRAD>
+<TRAD num="140" valid="yes">
+<LANG type="en">
+<TERM>paraffin</TERM>
+<LEM>paraffin</LEM>
+<BASE>paraffin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>paraffine</TERM>
+<LEM>paraffine</LEM>
+<BASE>paraffine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="141" valid="no">
+<LANG type="en">
+<TERM>projection</TERM>
+<LEM>projection</LEM>
+<BASE>projection</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>projection</TERM>
+<LEM>projection</LEM>
+<BASE>projection</BASE>
+</LANG>
+</TRAD>
+<TRAD num="142" valid="yes">
+<LANG type="en">
+<TERM>epidemiology</TERM>
+<LEM>epidemiology</LEM>
+<BASE>epidemiology</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>épidémiologie</TERM>
+<LEM>épidémiologie</LEM>
+<BASE>épidémiologie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="143" valid="yes">
+<LANG type="en">
+<TERM>rna</TERM>
+<LEM>rna</LEM>
+<BASE>rna</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>arn</TERM>
+<LEM>arn</LEM>
+<BASE>arn</BASE>
+</LANG>
+</TRAD>
+<TRAD num="144" valid="yes">
+<LANG type="en">
+<TERM>lymph</TERM>
+<LEM>lymph</LEM>
+<BASE>lymph</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lymphe</TERM>
+<LEM>lymphe</LEM>
+<BASE>lymphe</BASE>
+</LANG>
+</TRAD>
+<TRAD num="145" valid="yes">
+<LANG type="en">
+<TERM>staining</TERM>
+<LEM>staining</LEM>
+<BASE>staining</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>coloration</TERM>
+<LEM>coloration</LEM>
+<BASE>coloration</BASE>
+</LANG>
+</TRAD>
+<TRAD num="146" valid="no">
+<LANG type="en">
+<TERM>permit</TERM>
+<LEM>permit</LEM>
+<BASE>permit</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>permis</TERM>
+<LEM>permis</LEM>
+<BASE>permis</BASE>
+</LANG>
+</TRAD>
+<TRAD num="147" valid="no">
+<LANG type="en">
+<TERM>future</TERM>
+<LEM>future</LEM>
+<BASE>future</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>futur</TERM>
+<LEM>futur</LEM>
+<BASE>futur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="148" valid="no">
+<LANG type="en">
+<TERM>life</TERM>
+<LEM>life</LEM>
+<BASE>life</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vie</TERM>
+<LEM>vie</LEM>
+<BASE>vie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="149" valid="yes">
+<LANG type="en">
+<TERM>glucose</TERM>
+<LEM>glucose</LEM>
+<BASE>glucose</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>glucose</TERM>
+<LEM>glucose</LEM>
+<BASE>glucose</BASE>
+</LANG>
+</TRAD>
+<TRAD num="150" valid="yes">
+<LANG type="en">
+<TERM>inflammation</TERM>
+<LEM>inflammation</LEM>
+<BASE>inflammation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>inflammation</TERM>
+<LEM>inflammation</LEM>
+<BASE>inflammation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="151" valid="yes">
+<LANG type="en">
+<TERM>lymphoscintigraphy</TERM>
+<LEM>lymphoscintigraphy</LEM>
+<BASE>lymphoscintigraphy</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lymphoscintigraphie</TERM>
+<LEM>lymphoscintigraphie</LEM>
+<BASE>lymphoscintigraphie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="152" valid="no">
+<LANG type="en">
+<TERM>trust</TERM>
+<LEM>trust</LEM>
+<BASE>trust</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>confiance</TERM>
+<LEM>confiance</LEM>
+<BASE>confiance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="153" valid="no">
+<LANG type="en">
+<TERM>administration</TERM>
+<LEM>administration</LEM>
+<BASE>administration</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>administration</TERM>
+<LEM>administration</LEM>
+<BASE>administration</BASE>
+</LANG>
+</TRAD>
+<TRAD num="154" valid="no">
+<LANG type="en">
+<TERM>ice</TERM>
+<LEM>ice</LEM>
+<BASE>ice</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>glace</TERM>
+<LEM>glace</LEM>
+<BASE>glace</BASE>
+</LANG>
+</TRAD>
+<TRAD num="155" valid="yes">
+<LANG type="en">
+<TERM>chromatography</TERM>
+<LEM>chromatography</LEM>
+<BASE>chromatography</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>chromatographie</TERM>
+<LEM>chromatographie</LEM>
+<BASE>chromatographie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="156" valid="no">
+<LANG type="en">
+<TERM>electronic</TERM>
+<LEM>electronic</LEM>
+<BASE>electronic</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>électronique</TERM>
+<LEM>électronique</LEM>
+<BASE>électronique</BASE>
+</LANG>
+</TRAD>
+<TRAD num="157" valid="yes">
+<LANG type="en">
+<TERM>insurance</TERM>
+<LEM>insurance</LEM>
+<BASE>insurance</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>assurance</TERM>
+<LEM>assurance</LEM>
+<BASE>assurance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="158" valid="yes">
+<LANG type="en">
+<TERM>anatomy</TERM>
+<LEM>anatomy</LEM>
+<BASE>anatomy</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>anatomie</TERM>
+<LEM>anatomie</LEM>
+<BASE>anatomie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="159" valid="yes">
+<LANG type="en">
+<TERM>algorithm</TERM>
+<LEM>algorithm</LEM>
+<BASE>algorithm</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>algorithme</TERM>
+<LEM>algorithme</LEM>
+<BASE>algorithme</BASE>
+</LANG>
+</TRAD>
+<TRAD num="160" valid="yes">
+<LANG type="en">
+<TERM>adult</TERM>
+<LEM>adult</LEM>
+<BASE>adult</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>adulte</TERM>
+<LEM>adulte</LEM>
+<BASE>adulte</BASE>
+</LANG>
+</TRAD>
+<TRAD num="161" valid="yes">
+<LANG type="en">
+<TERM>fibroblast</TERM>
+<LEM>fibroblast</LEM>
+<BASE>fibroblast</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fibroblaste</TERM>
+<LEM>fibroblaste</LEM>
+<BASE>fibroblaste</BASE>
+</LANG>
+</TRAD>
+<TRAD num="162" valid="yes">
+<LANG type="en">
+<TERM>eosin</TERM>
+<LEM>eosin</LEM>
+<BASE>eosin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>éosine</TERM>
+<LEM>éosine</LEM>
+<BASE>éosine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="163" valid="yes">
+<LANG type="en">
+<TERM>smoking</TERM>
+<LEM>smoking</LEM>
+<BASE>smoking</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tabagisme</TERM>
+<LEM>tabagisme</LEM>
+<BASE>tabagisme</BASE>
+</LANG>
+</TRAD>
+<TRAD num="164" valid="yes">
+<LANG type="en">
+<TERM>adjustment</TERM>
+<LEM>adjustment</LEM>
+<BASE>adjustment</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>ajustement</TERM>
+<LEM>ajustement</LEM>
+<BASE>ajustement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="165" valid="no">
+<LANG type="en">
+<TERM>canada</TERM>
+<LEM>canada</LEM>
+<BASE>canada</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>canada</TERM>
+<LEM>canada</LEM>
+<BASE>canada</BASE>
+</LANG>
+</TRAD>
+<TRAD num="166" valid="no">
+<LANG type="en">
+<TERM>software</TERM>
+<LEM>software</LEM>
+<BASE>software</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>logiciel</TERM>
+<LEM>logiciel</LEM>
+<BASE>logiciel</BASE>
+</LANG>
+</TRAD>
+<TRAD num="167" valid="no">
+<LANG type="en">
+<TERM>head</TERM>
+<LEM>head</LEM>
+<BASE>head</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tête</TERM>
+<LEM>tête</LEM>
+<BASE>tête</BASE>
+</LANG>
+</TRAD>
+<TRAD num="168" valid="yes">
+<LANG type="en">
+<TERM>epithelium</TERM>
+<LEM>epithelium</LEM>
+<BASE>epithelium</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>épithélium</TERM>
+<LEM>épithélium</LEM>
+<BASE>épithélium</BASE>
+</LANG>
+</TRAD>
+<TRAD num="169" valid="yes">
+<LANG type="en">
+<TERM>risk</TERM>
+<LEM>risk</LEM>
+<BASE>risk</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>risque</TERM>
+<LEM>risque</LEM>
+<BASE>risque</BASE>
+</LANG>
+</TRAD>
+<TRAD num="170" valid="yes">
+<LANG type="en">
+<TERM>identification</TERM>
+<LEM>identification</LEM>
+<BASE>identification</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>identification</TERM>
+<LEM>identification</LEM>
+<BASE>identification</BASE>
+</LANG>
+</TRAD>
+<TRAD num="171" valid="yes">
+<LANG type="en">
+<TERM>lymphocyte</TERM>
+<LEM>lymphocyte</LEM>
+<BASE>lymphocyte</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lymphocyte</TERM>
+<LEM>lymphocyte</LEM>
+<BASE>lymphocyte</BASE>
+</LANG>
+</TRAD>
+<TRAD num="172" valid="no">
+<LANG type="en">
+<TERM>movement</TERM>
+<LEM>movement</LEM>
+<BASE>movement</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mouvement</TERM>
+<LEM>mouvement</LEM>
+<BASE>mouvement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="173" valid="no">
+<LANG type="en">
+<TERM>oxygen</TERM>
+<LEM>oxygen</LEM>
+<BASE>oxygen</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>oxygène</TERM>
+<LEM>oxygène</LEM>
+<BASE>oxygène</BASE>
+</LANG>
+</TRAD>
+<TRAD num="174" valid="no">
+<LANG type="en">
+<TERM>perception</TERM>
+<LEM>perception</LEM>
+<BASE>perception</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>perception</TERM>
+<LEM>perception</LEM>
+<BASE>perception</BASE>
+</LANG>
+</TRAD>
+<TRAD num="175" valid="yes">
+<LANG type="en">
+<TERM>prolactin</TERM>
+<LEM>prolactin</LEM>
+<BASE>prolactin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>prolactine</TERM>
+<LEM>prolactine</LEM>
+<BASE>prolactine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="176" valid="no">
+<LANG type="en">
+<TERM>face</TERM>
+<LEM>face</LEM>
+<BASE>face</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>face</TERM>
+<LEM>face</LEM>
+<BASE>face</BASE>
+</LANG>
+</TRAD>
+<TRAD num="177" valid="no">
+<LANG type="en">
+<TERM>time</TERM>
+<LEM>time</LEM>
+<BASE>time</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>temps</TERM>
+<LEM>temps</LEM>
+<BASE>temps</BASE>
+</LANG>
+</TRAD>
+<TRAD num="178" valid="yes">
+<LANG type="en">
+<TERM>serine</TERM>
+<LEM>serine</LEM>
+<BASE>serine</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sérine</TERM>
+<LEM>sérine</LEM>
+<BASE>sérine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="179" valid="yes">
+<LANG type="en">
+<TERM>randomization</TERM>
+<LEM>randomization</LEM>
+<BASE>randomization</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>randomisation</TERM>
+<LEM>randomisation</LEM>
+<BASE>randomisation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="180" valid="yes">
+<LANG type="en">
+<TERM>necrosis</TERM>
+<LEM>necrosis</LEM>
+<BASE>necrosis</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>nécrose</TERM>
+<LEM>nécrose</LEM>
+<BASE>nécrose</BASE>
+</LANG>
+</TRAD>
+<TRAD num="181" valid="yes">
+<LANG type="en">
+<TERM>adenocarcinoma</TERM>
+<LEM>adenocarcinoma</LEM>
+<BASE>adenocarcinoma</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>adénocarcinome</TERM>
+<LEM>adénocarcinome</LEM>
+<BASE>adénocarcinome</BASE>
+</LANG>
+</TRAD>
+<TRAD num="182" valid="yes">
+<LANG type="en">
+<TERM>infection</TERM>
+<LEM>infection</LEM>
+<BASE>infection</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>infection</TERM>
+<LEM>infection</LEM>
+<BASE>infection</BASE>
+</LANG>
+</TRAD>
+<TRAD num="183" valid="no">
+<LANG type="en">
+<TERM>attitude</TERM>
+<LEM>attitude</LEM>
+<BASE>attitude</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>attitude</TERM>
+<LEM>attitude</LEM>
+<BASE>attitude</BASE>
+</LANG>
+</TRAD>
+<TRAD num="184" valid="yes">
+<LANG type="en">
+<TERM>lymphoma</TERM>
+<LEM>lymphoma</LEM>
+<BASE>lymphoma</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lymphome</TERM>
+<LEM>lymphome</LEM>
+<BASE>lymphome</BASE>
+</LANG>
+</TRAD>
+<TRAD num="185" valid="yes">
+<LANG type="en">
+<TERM>family</TERM>
+<LEM>family</LEM>
+<BASE>family</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>famille</TERM>
+<LEM>famille</LEM>
+<BASE>famille</BASE>
+</LANG>
+</TRAD>
+<TRAD num="186" valid="no">
+<LANG type="en">
+<TERM>satisfaction</TERM>
+<LEM>satisfaction</LEM>
+<BASE>satisfaction</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>satisfaction</TERM>
+<LEM>satisfaction</LEM>
+<BASE>satisfaction</BASE>
+</LANG>
+</TRAD>
+<TRAD num="187" valid="yes">
+<LANG type="en">
+<TERM>safety</TERM>
+<LEM>safety</LEM>
+<BASE>safety</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sécurité</TERM>
+<LEM>sécurité</LEM>
+<BASE>sécurité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="188" valid="yes">
+<LANG type="en">
+<TERM>exon</TERM>
+<LEM>exon</LEM>
+<BASE>exon</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>exon</TERM>
+<LEM>exon</LEM>
+<BASE>exon</BASE>
+</LANG>
+</TRAD>
+<TRAD num="189" valid="yes">
+<LANG type="en">
+<TERM>vegf</TERM>
+<LEM>vegf</LEM>
+<BASE>vegf</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vegf</TERM>
+<LEM>vegf</LEM>
+<BASE>vegf</BASE>
+</LANG>
+</TRAD>
+<TRAD num="190" valid="yes">
+<LANG type="en">
+<TERM>anesthesia</TERM>
+<LEM>anesthesia</LEM>
+<BASE>anesthesia</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>anesthésie</TERM>
+<LEM>anesthésie</LEM>
+<BASE>anesthésie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="191" valid="no">
+<LANG type="en">
+<TERM>schedule</TERM>
+<LEM>schedule</LEM>
+<BASE>schedule</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>planning</TERM>
+<LEM>planning</LEM>
+<BASE>planning</BASE>
+</LANG>
+</TRAD>
+<TRAD num="192" valid="yes">
+<LANG type="en">
+<TERM>iridium</TERM>
+<LEM>iridium</LEM>
+<BASE>iridium</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>iridium</TERM>
+<LEM>iridium</LEM>
+<BASE>iridium</BASE>
+</LANG>
+</TRAD>
+<TRAD num="193" valid="yes">
+<LANG type="en">
+<TERM>population</TERM>
+<LEM>population</LEM>
+<BASE>population</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>population</TERM>
+<LEM>population</LEM>
+<BASE>population</BASE>
+</LANG>
+</TRAD>
+<TRAD num="194" valid="yes">
+<LANG type="en">
+<TERM>efficiency</TERM>
+<LEM>efficiency</LEM>
+<BASE>efficiency</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rendement</TERM>
+<LEM>rendement</LEM>
+<BASE>rendement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="195" valid="no">
+<LANG type="en">
+<TERM>role</TERM>
+<LEM>role</LEM>
+<BASE>role</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>rôle</TERM>
+<LEM>rôle</LEM>
+<BASE>rôle</BASE>
+</LANG>
+</TRAD>
+<TRAD num="196" valid="yes">
+<LANG type="en">
+<TERM>environment</TERM>
+<LEM>environment</LEM>
+<BASE>environment</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>environnement</TERM>
+<LEM>environnement</LEM>
+<BASE>environnement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="197" valid="no">
+<LANG type="en">
+<TERM>milk</TERM>
+<LEM>milk</LEM>
+<BASE>milk</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lait</TERM>
+<LEM>lait</LEM>
+<BASE>lait</BASE>
+</LANG>
+</TRAD>
+<TRAD num="198" valid="yes">
+<LANG type="en">
+<TERM>research</TERM>
+<LEM>research</LEM>
+<BASE>research</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>recherche</TERM>
+<LEM>recherche</LEM>
+<BASE>recherche</BASE>
+</LANG>
+</TRAD>
+<TRAD num="199" valid="yes">
+<LANG type="en">
+<TERM>nipple</TERM>
+<LEM>nipple</LEM>
+<BASE>nipple</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mamelon</TERM>
+<LEM>mamelon</LEM>
+<BASE>mamelon</BASE>
+</LANG>
+</TRAD>
+<TRAD num="200" valid="yes">
+<LANG type="en">
+<TERM>absorption</TERM>
+<LEM>absorption</LEM>
+<BASE>absorption</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>absorption</TERM>
+<LEM>absorption</LEM>
+<BASE>absorption</BASE>
+</LANG>
+</TRAD>
+<TRAD num="201" valid="no">
+<LANG type="en">
+<TERM>human</TERM>
+<LEM>human</LEM>
+<BASE>human</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>humain</TERM>
+<LEM>humain</LEM>
+<BASE>humain</BASE>
+</LANG>
+</TRAD>
+<TRAD num="202" valid="yes">
+<LANG type="en">
+<TERM>prevalence</TERM>
+<LEM>prevalence</LEM>
+<BASE>prevalence</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>prévalence</TERM>
+<LEM>prévalence</LEM>
+<BASE>prévalence</BASE>
+</LANG>
+</TRAD>
+<TRAD num="203" valid="no">
+<LANG type="en">
+<TERM>abdomen</TERM>
+<LEM>abdomen</LEM>
+<BASE>abdomen</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>abdomen</TERM>
+<LEM>abdomen</LEM>
+<BASE>abdomen</BASE>
+</LANG>
+</TRAD>
+<TRAD num="204" valid="yes">
+<LANG type="en">
+<TERM>transplantation</TERM>
+<LEM>transplantation</LEM>
+<BASE>transplantation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>greffe</TERM>
+<LEM>greffe</LEM>
+<BASE>greffe</BASE>
+</LANG>
+</TRAD>
+<TRAD num="205" valid="yes">
+<LANG type="en">
+<TERM>motion</TERM>
+<LEM>motion</LEM>
+<BASE>motion</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>déplacement</TERM>
+<LEM>déplacement</LEM>
+<BASE>déplacement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="206" valid="yes">
+<LANG type="en">
+<TERM>therapeutic</TERM>
+<LEM>therapeutic</LEM>
+<BASE>therapeutic</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>thérapeutique</TERM>
+<LEM>thérapeutique</LEM>
+<BASE>thérapeutique</BASE>
+</LANG>
+</TRAD>
+<TRAD num="207" valid="no">
+<LANG type="en">
+<TERM>price</TERM>
+<LEM>price</LEM>
+<BASE>price</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>prix</TERM>
+<LEM>prix</LEM>
+<BASE>prix</BASE>
+</LANG>
+</TRAD>
+<TRAD num="208" valid="no">
+<LANG type="en">
+<TERM>cold</TERM>
+<LEM>cold</LEM>
+<BASE>cold</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>froid</TERM>
+<LEM>froid</LEM>
+<BASE>froid</BASE>
+</LANG>
+</TRAD>
+<TRAD num="209" valid="yes">
+<LANG type="en">
+<TERM>consultation</TERM>
+<LEM>consultation</LEM>
+<BASE>consultation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>consultation</TERM>
+<LEM>consultation</LEM>
+<BASE>consultation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="210" valid="yes">
+<LANG type="en">
+<TERM>osteoblast</TERM>
+<LEM>osteoblast</LEM>
+<BASE>osteoblast</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>ostéoblaste</TERM>
+<LEM>ostéoblaste</LEM>
+<BASE>ostéoblaste</BASE>
+</LANG>
+</TRAD>
+<TRAD num="211" valid="no">
+<LANG type="en">
+<TERM>neck</TERM>
+<LEM>neck</LEM>
+<BASE>neck</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>cou</TERM>
+<LEM>cou</LEM>
+<BASE>cou</BASE>
+</LANG>
+</TRAD>
+<TRAD num="212" valid="no">
+<LANG type="en">
+<TERM>intention</TERM>
+<LEM>intention</LEM>
+<BASE>intention</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>intention</TERM>
+<LEM>intention</LEM>
+<BASE>intention</BASE>
+</LANG>
+</TRAD>
+<TRAD num="213" valid="yes">
+<LANG type="en">
+<TERM>blood</TERM>
+<LEM>blood</LEM>
+<BASE>blood</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sang</TERM>
+<LEM>sang</LEM>
+<BASE>sang</BASE>
+</LANG>
+</TRAD>
+<TRAD num="214" valid="no">
+<LANG type="en">
+<TERM>mouse</TERM>
+<LEM>mouse</LEM>
+<BASE>mouse</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>souris</TERM>
+<LEM>souris</LEM>
+<BASE>souris</BASE>
+</LANG>
+</TRAD>
+<TRAD num="215" valid="yes">
+<LANG type="en">
+<TERM>estrone</TERM>
+<LEM>estrone</LEM>
+<BASE>estrone</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>estrone</TERM>
+<LEM>estrone</LEM>
+<BASE>estrone</BASE>
+</LANG>
+</TRAD>
+<TRAD num="216" valid="yes">
+<LANG type="en">
+<TERM>calcium</TERM>
+<LEM>calcium</LEM>
+<BASE>calcium</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>calcium</TERM>
+<LEM>calcium</LEM>
+<BASE>calcium</BASE>
+</LANG>
+</TRAD>
+<TRAD num="217" valid="yes">
+<LANG type="en">
+<TERM>osteoclast</TERM>
+<LEM>osteoclast</LEM>
+<BASE>osteoclast</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>ostéoclaste</TERM>
+<LEM>ostéoclaste</LEM>
+<BASE>ostéoclaste</BASE>
+</LANG>
+</TRAD>
+<TRAD num="218" valid="no">
+<LANG type="en">
+<TERM>attention</TERM>
+<LEM>attention</LEM>
+<BASE>attention</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>attention</TERM>
+<LEM>attention</LEM>
+<BASE>attention</BASE>
+</LANG>
+</TRAD>
+<TRAD num="219" valid="yes">
+<LANG type="en">
+<TERM>edema</TERM>
+<LEM>edema</LEM>
+<BASE>edema</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>oedème</TERM>
+<LEM>oedème</LEM>
+<BASE>oedème</BASE>
+</LANG>
+</TRAD>
+<TRAD num="220" valid="yes">
+<LANG type="en">
+<TERM>education</TERM>
+<LEM>education</LEM>
+<BASE>education</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>éducation</TERM>
+<LEM>éducation</LEM>
+<BASE>éducation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="221" valid="yes">
+<LANG type="en">
+<TERM>sensation</TERM>
+<LEM>sensation</LEM>
+<BASE>sensation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sensation</TERM>
+<LEM>sensation</LEM>
+<BASE>sensation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="222" valid="yes">
+<LANG type="en">
+<TERM>hematoxylin</TERM>
+<LEM>hematoxylin</LEM>
+<BASE>hematoxylin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hématoxyline</TERM>
+<LEM>hématoxyline</LEM>
+<BASE>hématoxyline</BASE>
+</LANG>
+</TRAD>
+<TRAD num="223" valid="yes">
+<LANG type="en">
+<TERM>growth</TERM>
+<LEM>growth</LEM>
+<BASE>growth</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>croissance</TERM>
+<LEM>croissance</LEM>
+<BASE>croissance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="224" valid="yes">
+<LANG type="en">
+<TERM>heterogeneity</TERM>
+<LEM>heterogeneity</LEM>
+<BASE>heterogeneity</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hétérogénéité</TERM>
+<LEM>hétérogénéité</LEM>
+<BASE>hétérogénéité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="225" valid="yes">
+<LANG type="en">
+<TERM>technology</TERM>
+<LEM>technology</LEM>
+<BASE>technology</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>technologie</TERM>
+<LEM>technologie</LEM>
+<BASE>technologie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="226" valid="yes">
+<LANG type="en">
+<TERM>estradiol</TERM>
+<LEM>estradiol</LEM>
+<BASE>estradiol</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>estradiol</TERM>
+<LEM>estradiol</LEM>
+<BASE>estradiol</BASE>
+</LANG>
+</TRAD>
+<TRAD num="227" valid="yes">
+<LANG type="en">
+<TERM>phenotype</TERM>
+<LEM>phenotype</LEM>
+<BASE>phenotype</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>phénotype</TERM>
+<LEM>phénotype</LEM>
+<BASE>phénotype</BASE>
+</LANG>
+</TRAD>
+<TRAD num="228" valid="yes">
+<LANG type="en">
+<TERM>consumption</TERM>
+<LEM>consumption</LEM>
+<BASE>consumption</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>consommation</TERM>
+<LEM>consommation</LEM>
+<BASE>consommation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="229" valid="no">
+<LANG type="en">
+<TERM>classification</TERM>
+<LEM>classification</LEM>
+<BASE>classification</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>classification</TERM>
+<LEM>classification</LEM>
+<BASE>classification</BASE>
+</LANG>
+</TRAD>
+<TRAD num="230" valid="yes">
+<LANG type="en">
+<TERM>diffusion</TERM>
+<LEM>diffusion</LEM>
+<BASE>diffusion</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>diffusion</TERM>
+<LEM>diffusion</LEM>
+<BASE>diffusion</BASE>
+</LANG>
+</TRAD>
+<TRAD num="231" valid="yes">
+<LANG type="en">
+<TERM>tobacco</TERM>
+<LEM>tobacco</LEM>
+<BASE>tobacco</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tabac</TERM>
+<LEM>tabac</LEM>
+<BASE>tabac</BASE>
+</LANG>
+</TRAD>
+<TRAD num="232" valid="yes">
+<LANG type="en">
+<TERM>scar</TERM>
+<LEM>scar</LEM>
+<BASE>scar</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>cicatrice</TERM>
+<LEM>cicatrice</LEM>
+<BASE>cicatrice</BASE>
+</LANG>
+</TRAD>
+<TRAD num="233" valid="no">
+<LANG type="en">
+<TERM>knowledge</TERM>
+<LEM>knowledge</LEM>
+<BASE>knowledge</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>connaissance</TERM>
+<LEM>connaissance</LEM>
+<BASE>connaissance</BASE>
+</LANG>
+</TRAD>
+<TRAD num="234" valid="yes">
+<LANG type="en">
+<TERM>melanoma</TERM>
+<LEM>melanoma</LEM>
+<BASE>melanoma</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>mélanome</TERM>
+<LEM>mélanome</LEM>
+<BASE>mélanome</BASE>
+</LANG>
+</TRAD>
+<TRAD num="235" valid="no">
+<LANG type="en">
+<TERM>affect</TERM>
+<LEM>affect</LEM>
+<BASE>affect</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>affect</TERM>
+<LEM>affect</LEM>
+<BASE>affect</BASE>
+</LANG>
+</TRAD>
+<TRAD num="236" valid="yes">
+<LANG type="en">
+<TERM>adolescent</TERM>
+<LEM>adolescent</LEM>
+<BASE>adolescent</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>adolescent</TERM>
+<LEM>adolescent</LEM>
+<BASE>adolescent</BASE>
+</LANG>
+</TRAD>
+<TRAD num="237" valid="yes">
+<LANG type="en">
+<TERM>hospitalization</TERM>
+<LEM>hospitalization</LEM>
+<BASE>hospitalization</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hospitalisation</TERM>
+<LEM>hospitalisation</LEM>
+<BASE>hospitalisation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="238" valid="no">
+<LANG type="en">
+<TERM>science</TERM>
+<LEM>science</LEM>
+<BASE>science</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>science</TERM>
+<LEM>science</LEM>
+<BASE>science</BASE>
+</LANG>
+</TRAD>
+<TRAD num="239" valid="no">
+<LANG type="en">
+<TERM>thorax</TERM>
+<LEM>thorax</LEM>
+<BASE>thorax</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>thorax</TERM>
+<LEM>thorax</LEM>
+<BASE>thorax</BASE>
+</LANG>
+</TRAD>
+<TRAD num="240" valid="yes">
+<LANG type="en">
+<TERM>colon</TERM>
+<LEM>colon</LEM>
+<BASE>colon</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>côlon</TERM>
+<LEM>côlon</LEM>
+<BASE>côlon</BASE>
+</LANG>
+</TRAD>
+<TRAD num="241" valid="no">
+<LANG type="en">
+<TERM>wine</TERM>
+<LEM>wine</LEM>
+<BASE>wine</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vin</TERM>
+<LEM>vin</LEM>
+<BASE>vin</BASE>
+</LANG>
+</TRAD>
+<TRAD num="242" valid="no">
+<LANG type="en">
+<TERM>employment</TERM>
+<LEM>employment</LEM>
+<BASE>employment</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>emploi</TERM>
+<LEM>emploi</LEM>
+<BASE>emploi</BASE>
+</LANG>
+</TRAD>
+<TRAD num="243" valid="no">
+<LANG type="en">
+<TERM>parity</TERM>
+<LEM>parity</LEM>
+<BASE>parity</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>parité</TERM>
+<LEM>parité</LEM>
+<BASE>parité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="244" valid="yes">
+<LANG type="en">
+<TERM>scintigraphy</TERM>
+<LEM>scintigraphy</LEM>
+<BASE>scintigraphy</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>scintigraphie</TERM>
+<LEM>scintigraphie</LEM>
+<BASE>scintigraphie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="245" valid="yes">
+<LANG type="en">
+<TERM>disease</TERM>
+<LEM>disease</LEM>
+<BASE>disease</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>maladie</TERM>
+<LEM>maladie</LEM>
+<BASE>maladie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="246" valid="yes">
+<LANG type="en">
+<TERM>heart</TERM>
+<LEM>heart</LEM>
+<BASE>heart</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>coeur</TERM>
+<LEM>coeur</LEM>
+<BASE>coeur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="247" valid="yes">
+<LANG type="en">
+<TERM>hospital</TERM>
+<LEM>hospital</LEM>
+<BASE>hospital</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hôpital</TERM>
+<LEM>hôpital</LEM>
+<BASE>hôpital</BASE>
+</LANG>
+</TRAD>
+<TRAD num="248" valid="yes">
+<LANG type="en">
+<TERM>micrometastasis</TERM>
+<LEM>micrometastasis</LEM>
+<BASE>micrometastasis</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>micrométastase</TERM>
+<LEM>micrométastase</LEM>
+<BASE>micrométastase</BASE>
+</LANG>
+</TRAD>
+<TRAD num="249" valid="no">
+<LANG type="en">
+<TERM>charge</TERM>
+<LEM>charge</LEM>
+<BASE>charge</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>frais</TERM>
+<LEM>frais</LEM>
+<BASE>frais</BASE>
+</LANG>
+</TRAD>
+<TRAD num="250" valid="yes">
+<LANG type="en">
+<TERM>skin</TERM>
+<LEM>skin</LEM>
+<BASE>skin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>peau</TERM>
+<LEM>peau</LEM>
+<BASE>peau</BASE>
+</LANG>
+</TRAD>
+<TRAD num="251" valid="yes">
+<LANG type="en">
+<TERM>light</TERM>
+<LEM>light</LEM>
+<BASE>light</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lumière</TERM>
+<LEM>lumière</LEM>
+<BASE>lumière</BASE>
+</LANG>
+</TRAD>
+<TRAD num="252" valid="yes">
+<LANG type="en">
+<TERM>erythema</TERM>
+<LEM>erythema</LEM>
+<BASE>erythema</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>érythème</TERM>
+<LEM>érythème</LEM>
+<BASE>érythème</BASE>
+</LANG>
+</TRAD>
+<TRAD num="253" valid="yes">
+<LANG type="en">
+<TERM>oncogene</TERM>
+<LEM>oncogene</LEM>
+<BASE>oncogene</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>oncogène</TERM>
+<LEM>oncogène</LEM>
+<BASE>oncogène</BASE>
+</LANG>
+</TRAD>
+<TRAD num="254" valid="yes">
+<LANG type="en">
+<TERM>igg</TERM>
+<LEM>igg</LEM>
+<BASE>igg</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>igg</TERM>
+<LEM>igg</LEM>
+<BASE>igg</BASE>
+</LANG>
+</TRAD>
+<TRAD num="255" valid="yes">
+<LANG type="en">
+<TERM>cdna</TERM>
+<LEM>cdna</LEM>
+<BASE>cdna</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>adnc</TERM>
+<LEM>adnc</LEM>
+<BASE>adnc</BASE>
+</LANG>
+</TRAD>
+<TRAD num="256" valid="yes">
+<LANG type="en">
+<TERM>lung</TERM>
+<LEM>lung</LEM>
+<BASE>lung</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>poumon</TERM>
+<LEM>poumon</LEM>
+<BASE>poumon</BASE>
+</LANG>
+</TRAD>
+<TRAD num="257" valid="no">
+<LANG type="en">
+<TERM>internet</TERM>
+<LEM>internet</LEM>
+<BASE>internet</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>internet</TERM>
+<LEM>internet</LEM>
+<BASE>internet</BASE>
+</LANG>
+</TRAD>
+<TRAD num="258" valid="yes">
+<LANG type="en">
+<TERM>sarcoma</TERM>
+<LEM>sarcoma</LEM>
+<BASE>sarcoma</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sarcome</TERM>
+<LEM>sarcome</LEM>
+<BASE>sarcome</BASE>
+</LANG>
+</TRAD>
+<TRAD num="259" valid="yes">
+<LANG type="en">
+<TERM>radiation</TERM>
+<LEM>radiation</LEM>
+<BASE>radiation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>radiation</TERM>
+<LEM>radiation</LEM>
+<BASE>radiation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="260" valid="yes">
+<LANG type="en">
+<TERM>cytology</TERM>
+<LEM>cytology</LEM>
+<BASE>cytology</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>cytologie</TERM>
+<LEM>cytologie</LEM>
+<BASE>cytologie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="261" valid="no">
+<LANG type="en">
+<TERM>nature</TERM>
+<LEM>nature</LEM>
+<BASE>nature</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>nature</TERM>
+<LEM>nature</LEM>
+<BASE>nature</BASE>
+</LANG>
+</TRAD>
+<TRAD num="262" valid="yes">
+<LANG type="en">
+<TERM>evaluation</TERM>
+<LEM>evaluation</LEM>
+<BASE>evaluation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>évaluation</TERM>
+<LEM>évaluation</LEM>
+<BASE>évaluation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="263" valid="yes">
+<LANG type="en">
+<TERM>heat</TERM>
+<LEM>heat</LEM>
+<BASE>heat</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>chaleur</TERM>
+<LEM>chaleur</LEM>
+<BASE>chaleur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="264" valid="no">
+<LANG type="en">
+<TERM>causality</TERM>
+<LEM>causality</LEM>
+<BASE>causality</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>causalité</TERM>
+<LEM>causalité</LEM>
+<BASE>causalité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="265" valid="yes">
+<LANG type="en">
+<TERM>probability</TERM>
+<LEM>probability</LEM>
+<BASE>probability</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>probabilité</TERM>
+<LEM>probabilité</LEM>
+<BASE>probabilité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="266" valid="yes">
+<LANG type="en">
+<TERM>vein</TERM>
+<LEM>vein</LEM>
+<BASE>vein</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>veine</TERM>
+<LEM>veine</LEM>
+<BASE>veine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="267" valid="yes">
+<LANG type="en">
+<TERM>brachytherapy</TERM>
+<LEM>brachytherapy</LEM>
+<BASE>brachytherapy</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>curiethérapie</TERM>
+<LEM>curiethérapie</LEM>
+<BASE>curiethérapie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="268" valid="yes">
+<LANG type="en">
+<TERM>radiology</TERM>
+<LEM>radiology</LEM>
+<BASE>radiology</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>radiologie</TERM>
+<LEM>radiologie</LEM>
+<BASE>radiologie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="269" valid="yes">
+<LANG type="en">
+<TERM>fibroadenoma</TERM>
+<LEM>fibroadenoma</LEM>
+<BASE>fibroadenoma</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fibroadénome</TERM>
+<LEM>fibroadénome</LEM>
+<BASE>fibroadénome</BASE>
+</LANG>
+</TRAD>
+<TRAD num="270" valid="no">
+<LANG type="en">
+<TERM>temperature</TERM>
+<LEM>temperature</LEM>
+<BASE>temperature</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>température</TERM>
+<LEM>température</LEM>
+<BASE>température</BASE>
+</LANG>
+</TRAD>
+<TRAD num="271" valid="no">
+<LANG type="en">
+<TERM>communication</TERM>
+<LEM>communication</LEM>
+<BASE>communication</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>communication</TERM>
+<LEM>communication</LEM>
+<BASE>communication</BASE>
+</LANG>
+</TRAD>
+<TRAD num="272" valid="yes">
+<LANG type="en">
+<TERM>macrophage</TERM>
+<LEM>macrophage</LEM>
+<BASE>macrophage</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>macrophage</TERM>
+<LEM>macrophage</LEM>
+<BASE>macrophage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="273" valid="no">
+<LANG type="en">
+<TERM>association</TERM>
+<LEM>association</LEM>
+<BASE>association</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>association</TERM>
+<LEM>association</LEM>
+<BASE>association</BASE>
+</LANG>
+</TRAD>
+<TRAD num="274" valid="yes">
+<LANG type="en">
+<TERM>community</TERM>
+<LEM>community</LEM>
+<BASE>community</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>communauté</TERM>
+<LEM>communauté</LEM>
+<BASE>communauté</BASE>
+</LANG>
+</TRAD>
+<TRAD num="275" valid="no">
+<LANG type="en">
+<TERM>bias</TERM>
+<LEM>bias</LEM>
+<BASE>bias</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>biais</TERM>
+<LEM>biais</LEM>
+<BASE>biais</BASE>
+</LANG>
+</TRAD>
+<TRAD num="276" valid="yes">
+<LANG type="en">
+<TERM>pressure</TERM>
+<LEM>pressure</LEM>
+<BASE>pressure</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>pression</TERM>
+<LEM>pression</LEM>
+<BASE>pression</BASE>
+</LANG>
+</TRAD>
+<TRAD num="277" valid="no">
+<LANG type="en">
+<TERM>glass</TERM>
+<LEM>glass</LEM>
+<BASE>glass</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>verre</TERM>
+<LEM>verre</LEM>
+<BASE>verre</BASE>
+</LANG>
+</TRAD>
+<TRAD num="278" valid="yes">
+<LANG type="en">
+<TERM>hypertension</TERM>
+<LEM>hypertension</LEM>
+<BASE>hypertension</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hypertension</TERM>
+<LEM>hypertension</LEM>
+<BASE>hypertension</BASE>
+</LANG>
+</TRAD>
+<TRAD num="279" valid="no">
+<LANG type="en">
+<TERM>publication</TERM>
+<LEM>publication</LEM>
+<BASE>publication</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>publication</TERM>
+<LEM>publication</LEM>
+<BASE>publication</BASE>
+</LANG>
+</TRAD>
+<TRAD num="280" valid="yes">
+<LANG type="en">
+<TERM>sensitivity</TERM>
+<LEM>sensitivity</LEM>
+<BASE>sensitivity</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sensibilité</TERM>
+<LEM>sensibilité</LEM>
+<BASE>sensibilité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="281" valid="yes">
+<LANG type="en">
+<TERM>transfer</TERM>
+<LEM>transfer</LEM>
+<BASE>transfer</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>transfert</TERM>
+<LEM>transfert</LEM>
+<BASE>transfert</BASE>
+</LANG>
+</TRAD>
+<TRAD num="282" valid="yes">
+<LANG type="en">
+<TERM>selenium</TERM>
+<LEM>selenium</LEM>
+<BASE>selenium</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sélénium</TERM>
+<LEM>sélénium</LEM>
+<BASE>sélénium</BASE>
+</LANG>
+</TRAD>
+<TRAD num="283" valid="yes">
+<LANG type="en">
+<TERM>drainage</TERM>
+<LEM>drainage</LEM>
+<BASE>drainage</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>drainage</TERM>
+<LEM>drainage</LEM>
+<BASE>drainage</BASE>
+</LANG>
+</TRAD>
+<TRAD num="284" valid="yes">
+<LANG type="en">
+<TERM>segmentectomy</TERM>
+<LEM>segmentectomy</LEM>
+<BASE>segmentectomy</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>quadrantectomie</TERM>
+<LEM>quadrantectomie</LEM>
+<BASE>quadrantectomie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="285" valid="yes">
+<LANG type="en">
+<TERM>homeostasis</TERM>
+<LEM>homeostasis</LEM>
+<BASE>homeostasis</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>homéostasie</TERM>
+<LEM>homéostasie</LEM>
+<BASE>homéostasie</BASE>
+</LANG>
+</TRAD>
+<TRAD num="286" valid="yes">
+<LANG type="en">
+<TERM>concentration</TERM>
+<LEM>concentration</LEM>
+<BASE>concentration</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>concentration</TERM>
+<LEM>concentration</LEM>
+<BASE>concentration</BASE>
+</LANG>
+</TRAD>
+<TRAD num="287" valid="no">
+<LANG type="en">
+<TERM>color</TERM>
+<LEM>color</LEM>
+<BASE>color</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>couleur</TERM>
+<LEM>couleur</LEM>
+<BASE>couleur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="288" valid="yes">
+<LANG type="en">
+<TERM>keratin</TERM>
+<LEM>keratin</LEM>
+<BASE>keratin</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>kératine</TERM>
+<LEM>kératine</LEM>
+<BASE>kératine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="289" valid="yes">
+<LANG type="en">
+<TERM>pain</TERM>
+<LEM>pain</LEM>
+<BASE>pain</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>douleur</TERM>
+<LEM>douleur</LEM>
+<BASE>douleur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="290" valid="yes">
+<LANG type="en">
+<TERM>fear</TERM>
+<LEM>fear</LEM>
+<BASE>fear</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>peur</TERM>
+<LEM>peur</LEM>
+<BASE>peur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="291" valid="yes">
+<LANG type="en">
+<TERM>medicine</TERM>
+<LEM>medicine</LEM>
+<BASE>medicine</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>médecine</TERM>
+<LEM>médecine</LEM>
+<BASE>médecine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="292" valid="yes">
+<LANG type="en">
+<TERM>diet</TERM>
+<LEM>diet</LEM>
+<BASE>diet</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>alimentation</TERM>
+<LEM>alimentation</LEM>
+<BASE>alimentation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="293" valid="yes">
+<LANG type="en">
+<TERM>artery</TERM>
+<LEM>artery</LEM>
+<BASE>artery</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>artère</TERM>
+<LEM>artère</LEM>
+<BASE>artère</BASE>
+</LANG>
+</TRAD>
+<TRAD num="294" valid="yes">
+<LANG type="en">
+<TERM>marrow</TERM>
+<LEM>marrow</LEM>
+<BASE>marrow</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>moelle</TERM>
+<LEM>moelle</LEM>
+<BASE>moelle</BASE>
+</LANG>
+</TRAD>
+<TRAD num="295" valid="no">
+<LANG type="en">
+<TERM>interview</TERM>
+<LEM>interview</LEM>
+<BASE>interview</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>entretien</TERM>
+<LEM>entretien</LEM>
+<BASE>entretien</BASE>
+</LANG>
+</TRAD>
+<TRAD num="296" valid="no">
+<LANG type="en">
+<TERM>uncertainty</TERM>
+<LEM>uncertainty</LEM>
+<BASE>uncertainty</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>incertitude</TERM>
+<LEM>incertitude</LEM>
+<BASE>incertitude</BASE>
+</LANG>
+</TRAD>
+<TRAD num="297" valid="yes">
+<LANG type="en">
+<TERM>observation</TERM>
+<LEM>observation</LEM>
+<BASE>observation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>observation</TERM>
+<LEM>observation</LEM>
+<BASE>observation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="298" valid="yes">
+<LANG type="en">
+<TERM>specificity</TERM>
+<LEM>specificity</LEM>
+<BASE>specificity</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>spécificité</TERM>
+<LEM>spécificité</LEM>
+<BASE>spécificité</BASE>
+</LANG>
+</TRAD>
+<TRAD num="299" valid="no">
+<LANG type="en">
+<TERM>comment</TERM>
+<LEM>comment</LEM>
+<BASE>comment</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>commentaire</TERM>
+<LEM>commentaire</LEM>
+<BASE>commentaire</BASE>
+</LANG>
+</TRAD>
+<TRAD num="300" valid="yes">
+<LANG type="en">
+<TERM>pcr</TERM>
+<LEM>pcr</LEM>
+<BASE>pcr</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>pcr</TERM>
+<LEM>pcr</LEM>
+<BASE>pcr</BASE>
+</LANG>
+</TRAD>
+<TRAD num="301" valid="no">
+<LANG type="en">
+<TERM>hip</TERM>
+<LEM>hip</LEM>
+<BASE>hip</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>hanche</TERM>
+<LEM>hanche</LEM>
+<BASE>hanche</BASE>
+</LANG>
+</TRAD>
+<TRAD num="302" valid="no">
+<LANG type="en">
+<TERM>arm</TERM>
+<LEM>arm</LEM>
+<BASE>arm</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>bras</TERM>
+<LEM>bras</LEM>
+<BASE>bras</BASE>
+</LANG>
+</TRAD>
+<TRAD num="303" valid="yes">
+<LANG type="en">
+<TERM>confusion</TERM>
+<LEM>confusion</LEM>
+<BASE>confusion</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>confusion</TERM>
+<LEM>confusion</LEM>
+<BASE>confusion</BASE>
+</LANG>
+</TRAD>
+<TRAD num="304" valid="no">
+<LANG type="en">
+<TERM>policy</TERM>
+<LEM>policy</LEM>
+<BASE>policy</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>principe</TERM>
+<LEM>principe</LEM>
+<BASE>principe</BASE>
+</LANG>
+</TRAD>
+<TRAD num="305" valid="no">
+<LANG type="en">
+<TERM>separation</TERM>
+<LEM>separation</LEM>
+<BASE>separation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>séparation</TERM>
+<LEM>séparation</LEM>
+<BASE>séparation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="306" valid="no">
+<LANG type="en">
+<TERM>sex</TERM>
+<LEM>sex</LEM>
+<BASE>sex</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>sexe</TERM>
+<LEM>sexe</LEM>
+<BASE>sexe</BASE>
+</LANG>
+</TRAD>
+<TRAD num="307" valid="yes">
+<LANG type="en">
+<TERM>electrophoresis</TERM>
+<LEM>electrophoresis</LEM>
+<BASE>electrophoresis</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>électrophorèse</TERM>
+<LEM>électrophorèse</LEM>
+<BASE>électrophorèse</BASE>
+</LANG>
+</TRAD>
+<TRAD num="308" valid="yes">
+<LANG type="en">
+<TERM>behavior</TERM>
+<LEM>behavior</LEM>
+<BASE>behavior</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>comportement</TERM>
+<LEM>comportement</LEM>
+<BASE>comportement</BASE>
+</LANG>
+</TRAD>
+<TRAD num="309" valid="no">
+<LANG type="en">
+<TERM>femur</TERM>
+<LEM>femur</LEM>
+<BASE>femur</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fémur</TERM>
+<LEM>fémur</LEM>
+<BASE>fémur</BASE>
+</LANG>
+</TRAD>
+<TRAD num="310" valid="yes">
+<LANG type="en">
+<TERM>vincristine</TERM>
+<LEM>vincristine</LEM>
+<BASE>vincristine</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>vincristine</TERM>
+<LEM>vincristine</LEM>
+<BASE>vincristine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="311" valid="yes">
+<LANG type="en">
+<TERM>lymphedema</TERM>
+<LEM>lymphedema</LEM>
+<BASE>lymphedema</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>lymphoedème</TERM>
+<LEM>lymphoedème</LEM>
+<BASE>lymphoedème</BASE>
+</LANG>
+</TRAD>
+<TRAD num="312" valid="no">
+<LANG type="en">
+<TERM>hand</TERM>
+<LEM>hand</LEM>
+<BASE>hand</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>main</TERM>
+<LEM>main</LEM>
+<BASE>main</BASE>
+</LANG>
+</TRAD>
+<TRAD num="313" valid="yes">
+<LANG type="en">
+<TERM>tyrosine</TERM>
+<LEM>tyrosine</LEM>
+<BASE>tyrosine</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>tyrosine</TERM>
+<LEM>tyrosine</LEM>
+<BASE>tyrosine</BASE>
+</LANG>
+</TRAD>
+<TRAD num="314" valid="no">
+<LANG type="en">
+<TERM>women</TERM>
+<LEM>women</LEM>
+<BASE>women</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>femme</TERM>
+<LEM>femme</LEM>
+<BASE>femme</BASE>
+</LANG>
+</TRAD>
+<TRAD num="315" valid="yes">
+<LANG type="en">
+<TERM>prostate</TERM>
+<LEM>prostate</LEM>
+<BASE>prostate</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>prostate</TERM>
+<LEM>prostate</LEM>
+<BASE>prostate</BASE>
+</LANG>
+</TRAD>
+<TRAD num="316" valid="yes">
+<LANG type="en">
+<TERM>orientation</TERM>
+<LEM>orientation</LEM>
+<BASE>orientation</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>orientation</TERM>
+<LEM>orientation</LEM>
+<BASE>orientation</BASE>
+</LANG>
+</TRAD>
+<TRAD num="317" valid="yes">
+<LANG type="en">
+<TERM>character</TERM>
+<LEM>character</LEM>
+<BASE>character</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>caractère</TERM>
+<LEM>caractère</LEM>
+<BASE>caractère</BASE>
+</LANG>
+</TRAD>
+<TRAD num="318" valid="no">
+<LANG type="en">
+<TERM>ph</TERM>
+<LEM>ph</LEM>
+<BASE>ph</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>ph</TERM>
+<LEM>ph</LEM>
+<BASE>ph</BASE>
+</LANG>
+</TRAD>
+<TRAD num="319" valid="no">
+<LANG type="en">
+<TERM>production</TERM>
+<LEM>production</LEM>
+<BASE>production</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>production</TERM>
+<LEM>production</LEM>
+<BASE>production</BASE>
+</LANG>
+</TRAD>
+<TRAD num="320" valid="no">
+<LANG type="en">
+<TERM>work</TERM>
+<LEM>work</LEM>
+<BASE>work</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>travail</TERM>
+<LEM>travail</LEM>
+<BASE>travail</BASE>
+</LANG>
+</TRAD>
+<TRAD num="321" valid="yes">
+<LANG type="en">
+<TERM>fluorescence</TERM>
+<LEM>fluorescence</LEM>
+<BASE>fluorescence</BASE>
+</LANG>
+<LANG type="fr">
+<TERM>fluorescence</TERM>
+<LEM>fluorescence</LEM>
+<BASE>fluorescence</BASE>
+</LANG>
+</TRAD>
+</LISTTRAD>

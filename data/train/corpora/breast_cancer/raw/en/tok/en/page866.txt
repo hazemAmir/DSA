@@ -1,0 +1,231 @@
+the natural history of early breast cancer depends on both the nodal status and the biological characteristics of the primary tumour , such as oestrogen receptor ( er ) status . if the excised primary tumour has few oestrogen receptors ( ie , is er-poor ) then the 5-year recurrence rate is high and hormonal therapy has little effect on it . [ 1 ] and [ 2 ] therefore , the effects of adjuvant chemotherapy are of particular interest . in advanced breast cancer , the effects of chemotherapy on macroscopic primary or secondary lesions can be observed directly and can be substantial . [ 3 ] , [ 4 ] , [ 5 ] , [ 6 ] , [ 7 ] , [ 8 ] and [ 9 ] in early disease , however , the effect of chemotherapy is not directly observable in individual patients , so trials are needed . because any one trial of adjuvant chemotherapy can include too few patients with er-poor disease for statistical stability , the effects of this treatment on recurrence and mortality in such women , especially in the long term , are best studied by periodically updated meta-analyses of all relevant randomised trials .
+the early breast cancer trialists ' collaborative group ( ebctcg ) was set up in 1984 - 85 to coordinate 5-yearly meta-analyses of centrally collected data from women in all randomised trials of the treatment of early breast cancer . the reports from the 1990 ( second ) and 1995 ( third ) cycles of the collaboration indicated that , taking all types of primary tumour together , the effects of adjuvant chemotherapy on long-term outcome were , on average , greater in women younger than 50 years than at older ages ( mainly 50 - 69 years , since few women older than this had been studied ) . [ 10 ] and [ 11 ] the report from the 2000 ( fourth ) cycle1 showed that , at ages 50 - 69 years , the effects of chemotherapy on mortality were , on average , somewhat greater than had been indicated by the previous ebctcg reports . it was , however , still difficult to determine reliably the effects in particular types of patient .
+unless indicated otherwise , in the present report the term chemotherapy denotes prolonged adjuvant treatment with various standard combinations of older drugs : eg , about six courses of cmf ( 45 % of randomised women ) or about six courses of fac or fec ( 31 % of randomised women ) ( where c=cyclophosphamide , m=methotrexate , f=5-fluorouracil , a=doxorubicin [ also called adriamycin ] , and e=epirubicin ) . none of the regimens studied were taxane-based or deliberately myeloablative .
+various hypotheses have been raised about the efficacy of chemotherapy in er-negative breast cancer . in vitro studies suggested that the presence of tamoxifen might reduce the uptake and cytotoxic activity of 5-fluorouracil and melphalan in er-negative breast cancer cell lines.12 an observational study on women with advanced disease concluded that an objective response to chemotherapy was more likely in er-negative than in er-positive disease.3 but , later studies did not replicate this finding and concluded either that the response to chemotherapy does not correlate with er-status , [ 4 ] and [ 5 ] or even that it is increased by er-positivity . [ 6 ] , [ 7 ] , [ 8 ] and [ 9 ]
+a meta-analysis of the trials of single-cycle perioperative polychemotherapy ( pect ) versus no adjuvant treatment,13 including about 4000 patients ( 1000 with er-poor disease ) , indicated an effect on long-term survival that was less definite than in the trials of more prolonged polychemotherapy . these pect trials included both premenopausal and postmenopausal women , irrespective of their er status , and did not give adjuvant tamoxifen . in one of the pect trials , however , recurrence was reduced only in the subgroup of 160 postmenopausal women who had er-poor disease . [ 14 ] and [ 15 ] in view of this , it was suggested that chemotherapy might be particularly effective in older women with er-poor disease and no tamoxifen , and that the ebctcg analyses of prolonged chemotherapy should address this explicitly.16 it was therefore agreed that the first report from the 2005 - 06 ( fifth ) cycle should address the evidence regarding the effect of adjuvant polychemotherapy versus no chemotherapy in er-poor disease , including not only the trials in which no tamoxifen was given but also those in which tamoxifen was given to women in both groups .
+methods
+the methods of seeking collaboration and of data collection , collation , checking , and presentation are as in the previous ebctcg report.1 the ebctcg received ethical approval from the oxford research ethics committee . in the present cycle , trials were eligible if they began by 2000 ( range of actual start dates 1972 - 96 ) and , for most of them , the latest available follow-up information was resent to oxford in 2005 - 06. analyses were by allocated treatment and , as previously , recurrence was defined as the first detection after randomisation of any breast cancer ( local , contralateral , or distant ) . for the present ( 2005 - 06 ) cycle , information was available on about 20 000 women with er-poor disease in trials of chemotherapy , tamoxifen , or both ( table ) . of these , about 6000 were in 46 trials of polychemotherapy versus not ( chemotherapy alone versus no adjuvant therapy : about 3000 women ; chemotherapy and tamoxifen versus tamoxifen alone : about 3000 women ) and about 14 000 were in 50 trials of tamoxifen versus not ( mostly chemotherapy and tamoxifen versus the same chemotherapy alone ) .
+table .
+numbers of women with er-poor disease , by age , in trials of polychemotherapy , tamoxifen , or both , that began before 2000
+age at entry ( years ) 5050 - 5960 - 6970any polychemotherapy versus no adjuvant chemotherapy ( a ) polychemotherapy alone vs nil1722943539353239 ( 24 % ( b ) polychemotherapy+tamoxifen vs same tamoxifen ( ie , vs tamoxifen alone ) 185125212311162784 ( 24 % ( a+b ) total : polychemotherapy vs not ( 46 trials ) 1907219517701516029 tamoxifen versus no adjuvant tamoxifen ( a ) tamoxifen alone vs nil766104110972973201 ( b ) polychemotherapy+tamoxifen vs same polychemotherapy ( ie , vs polychemotherapy alone ) 55463009165329910507 ( a+b ) total : tamoxifen vs not ( 50 trials ) 63124050275059613717
+full-size table
+control patients in three-way trials ( or trial strata ) count only once . numbers of woman-years are given in webfigures 1 - 3 .
+tamoxifen and polychemotherapy were given concurrently for 83 % of women in these trials and sequentially in the remainder .
+percentage of women in trials of regimens containing anthracyclines .
+includes six with age not known .
+tamoxifen and polychemotherapy were given concurrently for 85 % of women in these trials and sequentially in the remainder .
+includes nine with age not known .
+view within article
+forest plots in the accompanying webmaterial give separately , for each of these 96 trials and for the four trials of perioperative polychemotherapy , a brief summary of the treatment regimen tested and of whether the active treatment group was allocated both chemotherapy and tamoxifen , the numbers of women with er-poor disease ( treatment versus control ) , and the main results in these women . further details of the trials and treatment regimens are given in the webappendix to the previous ebctcg report.1
+in this report , er-poor tumours were defined by receptor measurements done many years ago , and different techniques were used in different trials ( or , sometimes , even in the same trial ) . they therefore included not only tumours with no er expression at all ( er-absent ) but also tumours with a little er expression ( 10 femtomoles per mg cytosol protein , where quantitative measurements were available ) and , perhaps , some more strongly er-positive tumours with false negative receptor measurements .
+statistical analysis
+detailed descriptions of the main statistical methods have previously been published , [ 1 ] and [ 17 ] and are also available online.17 logrank statistics were used to assess the effects ( active versus control ) on outcome , and to estimate ( by the one-step method ) event rate ratios and their confidence intervals.1 results for fine subdivisions are plotted as black squares with horizontal lines that denote 99 % cis . the use of 99 % rather than 95 % cis is to help make some allowance for multiple testing . results for totals and subtotals are plotted as white diamonds that denote 95 % cis . to test for a trend between strata ( eg , of age ) in the effects of treatment , suppose that stratum number s ( s=1 , 2 ) has logrank statistics ( o - e ) and v ( with grand total over all strata o - e and v ) . define m , the mean stratum number , to be the sum , one term per stratum , of sv/v , and define t to be the sum , one term per stratum , of ( s - m ) ( o - e ) .1 the variance of t , var ( t ) , is then the sum , one term per stratum , of ( s - m ) 2/v . the trend test statistic ( ie , the change from one stratum to the next in the log of the event rate ratio ) is then t/var ( t ) , which has variance 1/var ( t ) . tests of whether two trends are the same involve subtraction of the corresponding trend test statistics from each other . a 2 statistic on one degree of freedom ( 21 ) for testing whether some quantity q differs significantly from zero is given by q2/var ( q ) .
+the following two questions are formally equivalent : ( 1 ) whether tamoxifen reduces the proportional efficacy of chemotherapy , and ( 2 ) whether chemotherapy reduces the proportional efficacy of tamoxifen . this can be illustrated by considering a hypothetical 22 factorial trial of chemotherapy , tamoxifen , both , or neither . suppose that in one particular stratum ( of follow-up duration and of patient characteristics ) the event rates in the four treatment groups are , respectively , chem , tam , both , and nil . two different chemotherapy comparisons can be made , and then compared . for the efficacy of chemotherapy on its own , the rate ratio is a=chem/nil , and for the efficacy of chemotherapy in the presence of tamoxifen ( ie , with tamoxifen in both groups ) the rate ratio is b=both/tam . comparing a and b to answer the first question , the value of b/a will tend to be less than 1 if tamoxifen reduces the efficacy of chemotherapy . likewise , two different tamoxifen comparisons can be made , and then compared . for the efficacy of tamoxifen on its own the rate ratio is c=tam/nil , and for the efficacy of tamoxifen in the presence of chemotherapy ( ie , with chemotherapy in both groups ) the rate ratio is d=both/chem . comparing c and d to answer the second question , the value of d/c will tend to be less than 1 if chemotherapy reduces the efficacy of tamoxifen . b/a is , however , identically equal to d/c , illustrating the equivalence in principle of questions ( 1 ) and ( 2 ) .
+role of the funding sources
+this collaboration is funded from the general long-term financial support of the ctsu by organisations which had no role in the study design , data collection , data analysis , data interpretation , or writing of the report . these organisations are listed in the acknowledgements . the ebctcg secretariat ( see collaborators ) had full access to all the data and analyses . the final decision to submit for publication was the responsibility of all the collaborators .
+results
+figure 1 , figure 2 , figure 3 and figure 4 describe various analyses of time to first recurrence . webfigures 1 - 4 show the same recurrence analyses , and also give the corresponding analyses for breast cancer mortality and death from any cause .
+full-size image ( 51k )
+high-quality image ( 440k )
+figure 1. polychemotherapy versus not in er-poor disease , subdivided first by type of comparison ( absence or presence of tamoxifen in both treatment groups ) and then by age at randomisation : event rate ratios for recurrence
+ns=not significant . difference between trends in ( a ) and ( b ) : 21=30 ; 2p=008 .
+view within article
+full-size image ( 48k )
+high-quality image ( 401k )
+figure 2. polychemotherapy versus not in er-poor disease , subdivided first by age at randomisation and then by type of comparison ( absence or presence of tamoxifen in both treatment groups ) : event rate ratios for recurrence
+ns=not significant .
+view within article
+full-size image ( 29k )
+high-quality image ( 242k )
+figure 3. tamoxifen versus not in er-poor disease , subdivided first by age at randomisation and then by type of comparison ( absence or presence of chemotherapy in both treatment groups ) : event rate ratios for recurrence
+ns=not significant . polychemotherapy in 29 trials , single-agent chemotherapy in three .
+view within article
+full-size image ( 183k )
+high-quality image ( 1315k )
+figure 4. polychemotherapy versus not in er-poor disease , by type of comparison ( absence or presence of tamoxifen in both treatment groups ) and age at randomisation : 10-year probabilities of recurrence
+view within article
+for the trials of polychemotherapy versus not , the recurrence rate ratios are subdivided in figure 1 and figure 2 both by age when randomised ( entry age 50 , 50 - 59 , or 60 - 69 years ; few were older than this ) and by the use of tamoxifen ( ie , by the absence or presence of adjuvant tamoxifen in both of the treatment regimens being compared ) . in figure 1 the analyses are subdivided first by the use of tamoxifen and then by age , whereas in figure 2 the same analyses are subdivided first by age and then by the use of tamoxifen .
+figure 1 ( a ) describes the trials of polychemotherapy alone ( ie , in the absence of tamoxifen ) , and suggests a substantial proportional risk reduction that is approximately independent of age ( although , if each age range is considered separately , then the confidence intervals for the effects at ages 50 - 59 and 60 - 69 years are both wide ) . by contrast , in the aggregate of all trials of polychemotherapy versus not ( section a+b in the lower part of figure 1 ) , the proportional risk reduction appears to be about twice as great at entry age less than 50 as at entry age 60 - 69 , and there is a conventionally significant trend towards greater efficacy of chemotherapy at younger ages ( treatment versus control recurrence rate ratios , 061 [ se 007 ] at entry age 50 years and 082 [ se 007 ] at entry age 60 - 69 years ; test for trend of greater effect at younger ages 2p=003 ) . this is because , in the presence of tamoxifen , there is a trend towards a greater effect of chemotherapy at younger ages ( figure 1 [ b ] ) . the apparent difference between the trends with age in figures 1 ( a ) and 1 ( b ) is , however , not conventionally significant ( 2p=009 ; footnote to figure 1 ) . that is , the apparently null trend with age in figure 1 ( a ) and the apparently strong trend with age in figure 1 ( b ) are both compatible with the moderate trend with age in the overall results in figure 1 ( a+b ) .
+within each of the age ranges , of women younger than 50 , 50 - 59 , and 60 - 69 years in figure 2 , tamoxifen does not significantly modify the effects of chemotherapy . in the first two age ranges ( 50 and 50 - 59 : figures 2 [ a ] and 2 [ b ] ) , chemotherapy appears somewhat more effective in the presence of tamoxifen , whereas in the third ( 60 - 69 : figure 2 [ c ] ) it appears somewhat less effective in the presence of tamoxifen . in no age range , however , are these apparent differences in efficacy statistically significant ; nor is an overall age-stratified test of whether tamoxifen influences the efficacy of chemotherapy ( 21=01 , 2p=084 : figure 2 ) .
+although figure 2 ( c ) could be taken as evidence that tamoxifen reduces the efficacy of chemotherapy in women aged 60 - 69 , figure 3 ( c ) provides evidence against this . for , in figure 3 ( c ) , the effect of tamoxifen plus chemotherapy actually appears somewhat better than that of chemotherapy alone . this is the opposite of what would be expected if tamoxifen reduced the efficacy of chemotherapy . taken together , the opposite interactions in figure 2 and figure 3 ( neither of which is statistically significant ) , suggest that tamoxifen is of little relevance to the efficacy of chemotherapy in er-poor disease . the statistical methods section illustrates the equivalence of these two questions .
+the results for breast cancer mortality and death from any cause ( webfigures 1 - 3 ) are similar to those for recurrence ( figure 1 , figure 2 and figure 3 ) , except that the trends with age do not reach statistical significance . also , if the 60 - 69 age range is considered on its own then the mortality reductions in the trials of chemotherapy are not conventionally significant in the absence of tamoxifen , in the presence of tamoxifen , or in both combined ( age 60 - 69 only : overall relative risks 090 [ se 008 ] for breast cancer mortality and 091 [ se 007 ] for death from any cause : both 2p=02 ) .
+figure 4 shows the 10-year recurrence risks for polychemotherapy versus not , subdivided as in figure 1 and figure 2 by age and by the use of tamoxifen , whereas figure 5 shows the corresponding 10-year results for death from any cause . the 10-year differences just in breast cancer mortality are similar to those in death from any cause ( webfigure 4 ) .
+full-size image ( 180k )
+high-quality image ( 1283k )
+figure 5. polychemotherapy versus not in er-poor disease , by type of comparison ( absence or presence of tamoxifen in both treatment groups ) and age at randomisation : 10-year probabilities of death from any cause
+view within article
+in figure 4 and figure 5 ( as in figure 1 ) the upper parts ( a ) give the age-specific results in the absence of tamoxifen , the middle parts ( b ) give the age-specific results in the presence of tamoxifen , and the lower parts ( a+b ) give the overall age-specific results . in no age range is the difference significant between ( a ) the absolute effects of chemotherapy in the absence of tamoxifen and ( b ) the absolute effects of chemotherapy in the presence of tamoxifen .
+the overall results ( ie , the lower parts ( a+b ) of figure 1 , figure 4 and figure 5 ) are , of course , based on larger numbers than ( a ) or ( b ) alone . even here information is available on only about 2000 women in each of the three age ranges ( 50 , 50 - 59 , and 60 - 69 years ) . this is still not enough for results in individual age ranges to be numerically stable , particularly for mortality in the older age ranges . thus , although the mortality reduction at ages 60 - 69 is not conventionally significant on its own , it should be interpreted in the context of the highly significant mortality reduction at ages 50 - 59. in assessing the effects of chemotherapy in older women , it might be appropriate to consider the data in these two 10-year age ranges together , given the small numbers who were randomised .
+the overall results ( a+b ) in this 20-year age range ( 50 - 69 ) and in younger women are given in figure 6 ( and in webfigures 5 and 6 ) , which compares the findings for recurrence , breast cancer mortality , and death from any cause . in both age ranges ( 50 and 50 - 69 years ) , the effect of chemotherapy on the 10-year probability of death from any cause is highly significant ( age 50 years 249 % vs 330 % dead , absolute difference 81 % [ se 23 ] , 2p=00003 ; age 50 - 69 years 390 % vs 450 % dead , absolute difference 60 % [ se 17 ] , 2p=00009 ) . the effects on death from any cause are about the same as the effects on breast cancer mortality ( figure 6 ) , suggesting little effect of these regimens on 10-year non-breast-cancer mortality , even at 50 - 69 years of age .
+full-size image ( 122k )
+high-quality image ( 874k )
+figure 6. all trials of polychemotherapy versus not in er-poor disease for patients with ages 50 and 50 - 69 at randomisation : 10-year probabilities of ( i ) recurrence , ( ii ) breast cancer mortality , and ( iii ) death from any cause
+comparison ( a+b ) in figure 4 and figure 5 : pooled data from all unconfounded randomised trials of prolonged adjuvant polychemotherapy , irrespective of whether or not tamoxifen was included in both of the treatment regimens being compared .
+view within article
+in younger women ( 50 years ) in these trials , 85 % had node-negative disease and only 15 % had node-positive disease , whereas 58 % of those aged 50 - 69 years had node-positive disease . recurrence rates were much higher in node-positive than in node-negative women but , despite this , neither the age-stratified nor the age-specific proportional risk reductions were significantly affected by nodal status ( age-stratified=04 [ 2p=053 ] ; age-specific=03 , 00 , and 04 [ 2p=06 , 092 , and 053 ] for age-groups 50 , 50 - 59 , and 60 - 69 , respectively ) . the corresponding results for breast cancer mortality and death from any cause are given in webfigure 7 .
+the three parts of webfigure 8 give further subgroup analyses with respect to type of chemotherapy , menopausal status ( stratified by age ) , nodal status ( stratified by age ) , use of tamoxifen ( in both treatment groups ) , tumour size ( in all women , and just in women with node-negative disease ) , tumour differentiation ( in all women , and just in women with node-negative disease ) , and progesterone receptor status . none of these factors significantly modifies the proportional risk reductions produced by chemotherapy . although the anthracycline-based fac or fec regimens appear somewhat more promising than older regimens such as cmf , more reliable evidence for this conclusion comes from the much larger numbers in the directly randomised comparisons of such regimens versus cmf.1 webfigure 8 also shows that 25 % of the recurrences were specified to be local or contralateral ( and some of the unspecified ones could also have been local or contralateral ) ; that the proportional reductions in local and in distant recurrence were similar ; and that the main effect on recurrence was in just the first few years after randomisation , as already seen in figure 4 .
+webfigure 9 gives the results separately for each of the 46 trials of chemotherapy versus not , and webfigure 10 gives the results separately for each of the 50 trials of tamoxifen versus not . for completeness , webfigure 11 gives the results separately for each of the four trials of a single course of peri-operative polychemotherapy versus no adjuvant chemotherapy .
+discussion
+a large amount of data from previous trials is now available , and the present results show that long-term follow-up of such trials can continue to yield useful results . the effects of adjuvant polychemotherapy on recurrence and mortality are substantial , and statistically definite , both for women with er-poor disease aged less than 50 and for those aged 50 - 69 years ( figure 6 ) . how should these findings inform the current and future care of such women the chemotherapy was probably not given as intensively as it would be now , particularly in older women , and none of the patients in the present analysis received newer drugs such as taxanes . hence , current and future adjuvant regimens could well produce substantially greater proportional risk reductions in recurrence and breast cancer mortality than the regimens tested in these trials .
+although tamoxifen would not now be used in er-negative disease , it was given to many of the women in these trials . to estimate the absolute effects of chemotherapy on recurrence and mortality that would have been seen in these trials if no tamoxifen had been used , two approaches are possible . one is chiefly to emphasise just the upper parts ( a ) of figure 1 , figure 4 and figure 5 on the grounds that these were the only chemotherapy comparisons in which tamoxifen was not given . the other is chiefly to emphasise the overall results in the lower parts ( a+b ) of these figures , on the grounds that , as tamoxifen is of little relevance to the effects of chemotherapy in er-poor disease , this is the totality of the randomised evidence comparing chemotherapy versus no chemotherapy . the first approach has the advantage of simplicity , but it also has the disadvantage of smaller numbers of women and hence larger random errors , particularly if the age ranges 50 - 59 years ( 943 women ) and 60 - 69 years ( only 539 women ) are considered in isolation from each other .
+in the age ranges of less than 50 and 50 - 59 years , the relative risks and the 10-year gains are similar in the upper parts ( a ) and lower parts ( a+b ) of figure 1 , figure 4 and figure 5 , so both approaches would yield similar estimates of benefit , although the findings at ages younger than 50 and 50 - 59 years are more highly significant with the larger numbers in the lower parts ( a+b ) . in the age range 60 - 69 years there is independent evidence that tamoxifen does not directly or indirectly ( eg , by modifying compliance ) reduce the efficacy of chemotherapy in this age range ( figure 3 [ c ] ) . therefore , it might be more appropriate to emphasise all the randomised evidence ( part ( a+b ) ; 1770 women ) rather than just a fraction of it ( part ( a ) ; 539 women ) .
+in the overall results ( a+b ) , the mortality reduction is highly significant when the age ranges 50 - 59 and 60 - 69 years re combined , as in figure 6. this , together with the significant recurrence reductions in both age ranges ( see figure 4 ) , indicates that there is an appreciable mortality reduction not only at ages 50 - 59 but also at ages 60 - 69 years , even though the reduction at this later age might be somewhat smaller . at present there is very little direct information on the benefits or hazards of chemotherapy in women over the age of 70 years , as few older women were randomised in these trials .
+at least a quarter of the recurrences were isolated local or contralateral recurrences , and the 10-year reduction in mortality is only about two-thirds as great as the 10-year reduction in recurrence ( figure 6 ) . in both of the age ranges in figure 6 ( 50 and 50 - 69 years ) the absolute reduction in the 10-year risk of death from any cause is about as great as the reduction in breast cancer mortality , in line with other evidence that these chemotherapy regimens had , on average , little adverse effect on mortality from other causes during the first 10 years after treatment.1
+in considering the general implications of these trial results , it is appropriate to consider mortality from breast cancer and mortality from other causes separately . for breast cancer , the proportional risk reductions might well be more stable than the absolute risk reductions , as was the case with nodal status ( webfigure 7 ) . they are , therefore , more likely to be widely generalisable . approximate proportional risk reductions can be obtained from the ratio , treatment versus control , of the 10-year breast cancer mortality risks in figure 6. mortality from causes other than breast cancer will depend mainly on age , on various other epidemiological risk factors , and on whether some life-threatening disease other than breast cancer is already present .
+for women less than 50 years of age at diagnosis , the ratio of these 10-year breast cancer mortality risks is 073 ( 236 % vs 322 % ) , whereas for women 50 - 69 years of age , it is 086 ( 360 % vs 421 % : figure 6 ) . these ratios suggest that , in the absence of other causes of death , a 10-year breast cancer mortality of 25 % might be reduced to about 18 % ( age 50 ) or 21 % ( age 50 - 69 ) , and that a 10-year risk of 50 % might be reduced to about 37 % ( age 50 ) or 43 % ( age 50 - 69 years ) . these risk reductions are approximately as indicated ( for regimens such as fac or fec ) by the previous ebctcg report.1 if , however , the best of the drug combinations tested in these trials were to be given optimally then appreciably better results might be achieved .
+overall , tamoxifen appears to be slightly protective in women who were classified as having er-poor disease ( event rate ratio for each endpoint 094 [ se 003 ] in webfigure 10 ) . however , this could well be because some of the women who were classified as having er-poor disease in the earlier trials did , in fact , have some er expression and , hence , some er-mediated treatment effects . this apparent protective effect was somewhat stronger in the trials of up to 2 years of tamoxifen ( which typically began around 1980 ) , whilst in the trials of 3 or more ( mean 5 ) years of tamoxifen versus not ( which typically began more recently and involved about 6000 women who were classified as having er-poor disease ) there was no apparent protective effect ( webfigure 10 ) , suggesting that even 5 years of tamoxifen has little or no effect on disease that really is er-absent .
+current and future chemotherapy regimens could be substantially more effective than the regimens in these trials and could , therefore , yield substantially better proportional risk reductions ; future ebctcg reports will address this directly . if in some categories of patients with er-absent disease ( as , for example , those with small , well-differentiated , node-negative tumours ) the absolute risk is low even without adjuvant chemotherapy then the absolute benefit from a given proportional risk reduction will also be low . if , however , the risk of recurrence in any category of untreated er-absent disease is substantial , then even these older regimens could produce an appreciable absolute reduction in it , as indicated by figure 6 .
+contributors
+the writing committee for this paper are , in alphabetical order , m clarke , as coates , sc darby , c davies , rd gelber , j godwin , a goldhirsch , r gray , r peto , ki pritchard , wc wood . they accept full responsibility for the overall content of this report .
+attendees at steering committee meetings
+k albain , s anderson , r arriagada , w barlow , j bergh , j bliss , m buyse , d cameron , m clarke , a coates , r collins , j costantino , j cuzick , s darby , n davidson , c davies , a di leo , m dowsett , m ewertz kvistgaard , r gelber , c geyer , a goldhirsch , r gray , d hayes , c hill , j ingle , r jakesz , m kaufmann , p mcgale , l norton , y ohashi , s paik , e perez , r peto , m piccart ( co-chair ) , g pruneri , k pritchard ( co-chair ) , v raina , p ravdin , j robertson , e rutgers , yf shao , s swain , c taylor , p valagussa , g viale , t whelan , e winer , y wang , w wood .
+executive group . secretariat .
+ebctcg collaborators , listed alphabetically by institution and then alphabetically by name
+acetbc , tokyo , japano abe , r abe , k enomoto , k kikuchi , h koyama , h masuda , y nomura , y ohashi , k sakai , k sugimachi , t tominaga , j uchino , m yoshida .
+addenbrooke 's hospital , cambridge , ukj l haybittle .
+atlas trial collaborative study group , oxford , ukv collett , c davies , j sayer .
+auckland breast cancer study group , new zealandv j harvey , tm holdaway , r g kay , b h mason .
+australian-new zealand breast cancer trials group , sydney , australiaj f forbes , n wilcken .
+austrian breast cancer study group , vienna , austriap dubsky , h fohler , m fidrik , m gnant , r greil , r jakesz , w krasny , e kubista , a lang , c marth , c menzel , m mittlboeck , b mlineritsch , s poestlberger , r poetter , e ruecklinger , h samonigg , w schippinger , g steger , m stierer , s taucher , j thaler , j tschmelitsch , w wohlmuth .
+beatson oncology centre , glasgow , ukp canney , h m a yosef .
+belgian adjuvant breast cancer project , liège , belgiumc focan .
+berlin-buch akademie der wissenschaften , germanyu peek .
+birmingham general hospital , ukg d oates , j powell .
+bordeaux institut bergonié , francem durand , l mauriac .
+bordet institute , brussels , belgiuma di leo , s dolci , m j piccart .
+bradford royal infirmary , ukm b masood , d parker , j j price .
+breast cancer study group of the comprehensive cancer centre , limburg , netherlandsp s g j hupperets .
+british columbia cancer agency , vancouver , canadas jackson , j ragaz .
+cancer and leukemia group b , washington , dc , usad berry , g broadwater , c cirrincione , h muss , l norton , r b weiss .
+cancer care ontario , canadah t abu-zahra .
+cancer research centre of the russian academy of medical sciences , moscow , russias m portnoj .
+cancer research uk , london , ukm baum , j cuzick , m dowsett , j houghton , d riley .
+cardiff trialists group , ukr e mansel .
+case western reserve university , cleveland , oh , usan h gordon .
+central oncology group , milwaukee , wi , usah l davis .
+centre claudius regaud , toulouse , francea beatrice , j mihura , a naja .
+centre léon-bérard , lyon , francey lehingue , p romestaing .
+centre paul lamarque , montpellier , francej b dubois .
+centre regional françois baclesse , caen , francet delozier , j mace lesecç'h .
+centre rené huguenin , paris , st cloud , francep rambert .
+charles university , prague , czech republicl petruzelka , o pribylova .
+cheltenham general hospital , ukj r owen .
+chemo n0 trial group , germanyn harbeck , f jnicke , c meisner .
+chicago university , il , usap meier .
+christie hospital and holt radium institute , manchester , uka howell , r swindell .
+clinical trial service unit , oxford , uk ( ie , ebctcg secretariat ) m clarke , r collins , s darby , c davies , p elphinstone , v evans , j godwin , r gray , c harwood , c hicks , s james , e mackinnon , p mcgale , t mchugh , r peto , j sayer , c taylor , y wang .
+coimbra instituto de oncologia , portugalj albano , c f de oliveira , h gervsio , j gordilho .
+copenhagen radium centre , denmarkh johansen , h t mouridsen .
+dana-farber cancer institute , boston , ma , usad hayes , r s gelman , j r harris , i c henderson , c l shapiro , e winer .
+danish breast cancer cooperative group , copenhagen , denmarkp christiansen , b ejlertsen , m ewertz kvistgaard , h t mouridsen , s mller , m overgaard .
+danish cancer registry , copenhagen , denmarkb carstensen , t palshof .
+dsseldorf university , germanyh j trampisch .
+dutch working party for autologous bone marrow transplant in solid tumours , groningen , netherlandso dalesio , e g e de vries , s rodenhuis , h van tinteren .
+eastern cooperative oncology group , boston , ma , usar l comis , n e davidson , r gray , n robert , g sledge , d c tormey , w wood .
+edinburgh breast unit , ukd cameron , u chetty , p forrest , w jack .
+elim hospital , hamburg , germanyj rossbach .
+erasmus mc/daniel den hoed cancer center , rotterdam , netherlandsj g m klijn , a d treurniet-donker , w l j van putten .
+european institute of oncology , milan , italya costa , u veronesi , g viale .
+european organization for research and treatment of cancer , brussels ,
+belgiumh bartelink , c legrand , e rutgers , r sylvester , c j h van de velde , j g h van nes .
+evanston hospital , il , usam p cunningham .
+fox chase cancer centre , philadelphia , pa , usal j goldstein .
+french adjuvant study group ( gfea ) , guyancourt , francej bonneterre , p fargeot , p fumoleau , p kerbrat , m namer .
+german adjuvant breast group ( gabg ) , frankfurt , germanyw jonat , m kaufmann , m schumacher , g von minckwitz .
+german breast cancer study group ( bmft ) , freiburg , germanyg bastert , h rauschecker , r sauer , w sauerbrei , a schauer ,
+m schumacher .
+ghent university hospital , belgiuma de schryver , l vakaet .
+givio interdisciplinary group for cancer care evaluation , chieti , italym belfiglio , a nicolucci , f pellegrini , m sacco , m valentini .
+glasgow victoria infirmary , ukc s mcardle , d c smith , s stallard .
+gruppo oncologico clinico cooperativo del nord est , aviano , italye galligioni .
+gruppo ricerca ormono chemio terapia adiuvante ( grocta ) , genova , italyf boccardo , a rubagotti .
+groote schuur hospital , cape town , south africad m dent , c a gudgeon , a hacking , e murray , e panieri .
+guadalajara hospital de 20 noviembre , mexicoa erazo , j y medina .
+gunma university , japanm izuo , y morishita , h takei .
+guy 's hospital , london , uki s fentiman , j l hayward , r d rubens , d skilton .
+heidelberg university i , germanyh scheurlen .
+heidelberg university ii , germanym kaufmann , h c sohn .
+hellenic cooperative oncology group , athens , greeceu dafni , g fountzilas .
+helsinki deaconess medical centre , finlandp klefstrom .
+helsinki university , finlandc blomqvist , t saarto .
+innsbruck university , austriar margreiter .
+institut curie , paris , franceb asselain , r j salmon , j r vilcoq .
+institut gustave-roussy , paris , francer arriagada , c hill , a laplanche , m g lê , m spielmann .
+integraal kankercentrum , amsterdam , netherlandsj benraadt , m kooi , a o van de velde , j a van dongen , j b vermorken .
+international breast cancer study group ( ludwig ) , bern , switzerlandm castiglione , f cavalli , a coates , j collins , j forbes , r d gelber , a goldhirsch , j lindtner , k n price , v raina , c m rudenstam , h j senn .
+international collaborative cancer group , charing cross hospital , london , ukj m bliss , c e d chilvers , r c coombes , e hall , m marty .
+international drug development institute , louvain-la-neuve , belgiumm buyse
+israel nsabc , tel aviv , israelr borovik , g brufman , h hayat , e robinson , n yaal-hahoshen .
+istituto nazionale per la ricerca sul cancro , genova , italyp bruzzi , e montanaro , r rosso , m r sertoli , m venturini .
+istituto nazionale per lo studio e la cura dei tumori , milan , italyg bonadonna , t camerini , g de palo , mg di mauro , f formelli , p valagussa .
+istituto oncologico romagnolo , forli , italyd amadori .
+italian cooperative chemo-radio-surgical group , bologna , italya martoni , f pannuti .
+italian oncology group for clinical research , parma , italyr camisa , g cocconi , a colozza , s gori .
+japan clinical oncology group - breast cancer study group , matsuyama , japank aogi , s takashima .
+japanese foundation for multidisciplinary treatment of cancer , tokyo , japano abe , t ikeda , k inokuchi , k kikuchi , k sawa .
+kawasaki medical school , japanh sonoo .
+krakow institute of oncology , polands korzeniowski , j skolyszewski .
+kumamoto university group , japanm ogawa , j yamashita .
+leuven akademisch ziekenhuis , gasthuisberg , belgiumr christiaens , p neven , r paridaens , w van den bogaert .
+marseille laboratoire de cancérologie biologique apm , francep martin , s romain .
+memorial sloan-kettering cancer center , new york , ny , usat hakes , c a hudis , l norton , r wittes .
+metaxas memorial cancer hospital , athens , greeceg giokas , d kondylis , b lissaios .
+mexican national medical centre , mexico city , mexicor de la huerta , m g sainz .
+national cancer institute , bethesda , md , usar altemus , k camphausen , k cowan , d danforth , a lichter , m lippman , j o'shaughnessy , l j pierce , s steinberg , d venzon , j a zujewski .
+national cancer institute , bari , italya paradiso , m de lena , f schittulli .
+national cancer institute of canada clinical trials group , kingston , ontario , canadaj w chapman , p e goss , m n levine , j d myles , j l pater , k i pritchard , l e shepherd , d tu , t whelan , b zee .
+national kyushu cancer center , japany nomura .
+national surgical adjuvant breast and bowel project ( nsabp ) , pittsburgh , pa , usas anderson , g bass , a brown , j bryant ( deceased ) , j costantino , j dignam , b fisher , c geyer , s paik , c redmond , s wieand , n wolmark .
+nolvadex adjuvant trial organisation , london , ukm baum , i m jackson ( deceased ) , m k palmer .
+north central cancer treatment group , mayo clinic , rochester , mn , usae perez , j n ingle , v j suman .
+north sweden breast cancer group , umea , swedenn o bengtsson , h jonsson , l g larsson .
+north-western british surgeons , manchester , ukj p lythgoe , r swindell .
+northwick park hospital , london , ukm kissin .
+norwegian breast cancer group , oslo , norwayb erikstein , e hannisdal , a b jacobsen , j e varhaug .
+norwegian radium hospital , oslo , norwayb erikstein , s gundersen , m hauer-jensen , h hst , a b jacobsen , r nissen-meyer .
+nottingham city hospital , ukr w blamey , a k mitchell , d a l morgan , j f r robertson .
+oncofrance , paris , francem di palma , g mathé , j l misset .
+ontario clinical oncology group , hamilton , canadar m clark , m levine , k i pritchard , t whelan .
+osaka city university , japank morimoto .
+osaka national hospital , japank sawa , y takatsuka .
+churchill hospital , oxford , uke crossley , a harris , d talbot , m taylor .
+parma hospital , italyg cocconi , b di blasio .
+petrov research institute of oncology , st petersburg , russiav ivanov , v semiglazov .
+piedmont oncology association , winston-salem , nc , usaj brockschmidt , m r cooper .
+prefectural hospital , oita , japanh ueo .
+pretoria university , south africac i falkson .
+royal marsden hospital , institute of cancer research , london , ukr a'hern , s ashley , t j powles , i e smith , j r yarnold .
+st george 's hospital , london , ukj c gazet .
+st luke 's hospital , dublin , irelandn corcoran .
+sardinia oncology hospital a businico , cagliari , sardinian deshpande , l di martino .
+sasib international trialists , cape town , south africap douglas , a hacking , h hst , a lindtner , g notter .
+saskatchewan cancer foundation , regina , canadaa j s bryant , g h ewing , l a firth , j l krushen-kosloski .
+scandinavian adjuvant chemotherapy study group , oslo , norwayr nissen-meyer .
+scottish cancer therapy network , edinburgh , ukl foster , w d george , h j stewart , p stroner .
+south sweden breast cancer group , lund , swedenp malmstrm , t r mller , s rydén , i tengrup , l tennvall-nittby .
+south-east sweden breast cancer group , linkping , swedenj carstenssen , m dufmats , t hatschek , b nordenskjld , m sderberg .
+south-eastern cancer study group and alabama breast cancer project , birmingham , al , usaj t carpenter .
+south-west oncology group , san antonio , tx , usak albain , w barlow , j crowley , s green , s martino , c k osborne , p m ravdin .
+southampton oncology centre , ukn murray , g t royle .
+stockholm breast cancer study group , swedenu glas , u johansson , l e rutqvist , t singnomklao , a wallgren .
+swiss group for clinical cancer research ( sakk ) , bern , and osako , st gallen , switzerlandm castiglione , a goldhirsch , r maibach , h j senn , b thrlimann .
+tel aviv university , israelh brenner , a hercbergs .
+tokyo cancer institute hospital , japanm yoshimoto .
+toronto-edmonton breast cancer study group , canadag deboer , a h g paterson , k i pritchard .
+toronto princess margaret hospital , canadaj w meakin , t panzarella , k i pritchard .
+tumour hospital , chinese academy of medical sciences , beijing , people 's republic of china ( in collaboration with the oxford ctsu ) y shan , y f shao , x wang , d b zhao ( ctsu : zm chen , hc pan ) .
+tunis institut salah azaiz , tunisiaj bahi .
+uk multicentre cancer chemotherapy study group , london , ukm reid , m spittle .
+uk/asia collaborative breast cancer group , london , ukg p deutsch , f senanayake , d l w kwong .
+university federico ii , naples , italya r bianco , c carlomagno , m de laurentiis , s de placido .
+university of texas md anderson cancer center , houston , tx , usak broglio , a u buzdar .
+uppsala-rebro breast cancer study group , swedenj bergh , l holmberg , g liljegren , j nilsson .
+vienna university hospital 1st department of gynaecology , austriam janauer , m seifert , p sevelda , c c zielinski .
+west midlands oncology association , birmingham , ukj a dunn , r k hills , m lee , j m morrison , c poole , d rea , d spooner .
+west of scotland breast trial group , glasgow , uka litton .
+western cancer study group , torrance , ca , usar t chlebowski .
+wrzburg university , germanyh caffier .
+conflict of interest statement
+the writing committee and secretariat declare that they have no conflict of interest .
+acknowledgments
+the main acknowledgment is to the tens of thousands of women who took part in the trials reviewed here . funding for the ebctcg secretariat is through the direct support from the uk medical research council and cancer research uk to the clinical trial service unit and epidemiological studies unit ( ctsu ) , university of oxford .
