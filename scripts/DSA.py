@@ -56,7 +56,7 @@ def Association_measure_MAP(assoc):
 	if assoc.lower() == "mi":
 		out = "Mutual Information"
 	if assoc.lower() == "odds":
-		out = "Discounted Odds Ration"
+		out = "Discounted Odds Ratio"
 	if assoc.lower() == "ll":
 		out = "Log-Likelihood"	
 	return out		
